@@ -1,0 +1,39 @@
+properties_id,label,comment,type
+sync,Syncope,The vowel of the final syllable of this flexeme is liable to syncope,morphonology-syncope
+sync_vf,Vowel final,"This flexeme ends in a vowel, which is liable to be lost",morphonology-syncope
+sync_pal,Palatal syncope,The vowel of the final syllable of this flexeme is liable to syncope and has a palatalising effect,morphonology-syncope
+sync_vel,Velar syncope,The vowel of the final syllable of this flexeme is liable to syncope and has a velarising effect,morphonology-syncope
+sync_none,No syncope,The vowel of the final syllable of this flexeme is not liable to syncope,morphonology-syncope
+sync_nd,No data syncope,There is insufficient data to determine whether or not the final vowel of this flexeme is liable to syncope,morphonology-syncope
+alt_schwa,Underlying schwa,"The first vowel of this flexeme is /ə/ not /a/, but this is neutralised in the citation form",morphonology-alternation
+alt_eo,Alternation with éo,In this flexeme é alternates with éo,morphonology-alternation
+alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology-alternation
+alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology-alternation
+alt_sync_epen,Syncopated forms epenthesise,Syncopated forms  of this flexeme are liable to epenthesis,morphonology-alternation
+alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology-alternation
+gen_fem,Feminine,This flexeme has feminine gender,morphosyntax-gender
+gen_masc,Masculine,This flexeme has masculine gender,morphosyntax-gender
+gen_neut,Neuter,This flexeme has neuter gender,morphosyntax-gender
+gen_unk,Unknown gender,The gender of this flexeme is unknown,morphosyntax-gender
+stem_ā,ā-stem noun,This flexeme is inflected as an ā-stem,morphosyntax-nominal_stem
+stem_i,i-stem noun,This flexeme is inflected as an i-stem,morphosyntax-nominal_stem
+stem_ī,ī-stem noun,This flexeme is inflected as an ī-stem,morphosyntax-nominal_stem
+stem_ī/ā,Mixed ī-/ā-stem,This flexeme is inflected as an ī/ā-stem,morphosyntax-nominal_stem
+stem_iā,iā-stem,This flexeme is inflected as an iā-stem,morphosyntax-nominal_stem
+stem_indecl,Indeclinable,This flexeme is undeclinable,morphosyntax-nominal_stem
+stem_indecl/i,"Indeclinable singular, i-stem plural",This flexeme is undeclinable in the singular and inflected as an i-stem in the plural,morphosyntax-nominal_stem
+stem_io,io-stem,This flexeme is inflected as an io-stem,morphosyntax-nominal_stem
+stem_irreg,Irregular noun,The inflection of this flexeme is irregular,morphosyntax-nominal_stem
+stem_k,k-stem noun,This flexeme is inflected as a k-stem,morphosyntax-nominal_stem
+stem_n,n-stem noun,This flexeme is inflected as an n-stem,morphosyntax-nominal_stem
+stem_nk,nk-stem noun,This flexeme is inflected as an nk-stem,morphosyntax-nominal_stem
+stem_nt,nt-stem noun,This flexeme is inflected as an nt-stem,morphosyntax-nominal_stem
+stem_o,o-stem noun,This flexeme is inflected as an o-stem,morphosyntax-nominal_stem
+stem_r,r-stem noun,This flexeme is inflected as an r-stem,morphosyntax-nominal_stem
+stem_s,s-stem noun,This flexeme is inflected as an s-stem,morphosyntax-nominal_stem
+stem_t,t-stem noun,This flexeme is inflected as a t-stem,morphosyntax-nominal_stem
+stem_u,u-stem noun,This flexeme is inflected as a u-stem,morphosyntax-nominal_stem
+stem_unk,Unknown stem,The there is insufficient evidence to determine the inflection of this flexeme,morphosyntax-nominal_stem
+num_all,No number restriction,This flexeme is inflected for all numbers,morphosyntax-number_restriction
+num_sg,Inflected only in singular,This flexeme is only inflected in the singular,morphosyntax-number_restriction
+num_pl,Inflected only in plural,This flexeme is only inflected in the plural,morphosyntax-number_restriction
