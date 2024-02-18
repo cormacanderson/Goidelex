@@ -19,6 +19,7 @@ stem_ā,ā-stem noun,This flexeme is inflected as an ā-stem,morphosyntax-nomina
 stem_i,i-stem noun,This flexeme is inflected as an i-stem,morphosyntax-nominal_stem
 stem_ī,ī-stem noun,This flexeme is inflected as an ī-stem,morphosyntax-nominal_stem
 stem_ī/ā,Mixed ī-/ā-stem,This flexeme is inflected as an ī/ā-stem,morphosyntax-nominal_stem
+stem_ī/ā/n,"Mixed ī-/ā-stem singular, n-stem plural",This flexeme is declined as an ī/ā-stem in the singular and inflected as an n-stem in the plural,morphosyntax-nominal_stem
 stem_iā,iā-stem,This flexeme is inflected as an iā-stem,morphosyntax-nominal_stem
 stem_indecl,Indeclinable,This flexeme is undeclinable,morphosyntax-nominal_stem
 stem_indecl/i,"Indeclinable singular, i-stem plural",This flexeme is undeclinable in the singular and inflected as an i-stem in the plural,morphosyntax-nominal_stem

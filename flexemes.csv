@@ -57,8 +57,8 @@ flexeme_id,label,lexeme,text,inherent_properties
 53,ain-cride,53,,sync_vf;alt_none;gen_neut;stem_io;num_all
 54,ain-ḟius,54,,sync_none;alt_none;gen_masc;stem_u;num_all
 55,anaimm,55,79;6,sync;alt_none;gen_fem;stem_n;num_all
-55.1,anaimm,55,79;6,sync;alt_none;gen_fem;stem_ī/ā;num_all
-55.2,ainimm,55,,sync_vel;alt_none;gen_fem;stem_ī/ā;num_sg
+55.1,anaimm,55,79;6,sync;alt_none;gen_fem;stem_ī/ā/n;num_all
+55.2,ainimm,55,,sync_vel;alt_none;gen_fem;stem_ī/ā/n;num_all
 56,apstal,56,,sync_none;alt_none;gen_masc;stem_o;num_all
 57,apstalach,57,,sync_none;alt_none;gen_fem;stem_ā;num_all
 58,apthu,58,,sync_vf;alt_none;gen_fem;stem_n;num_all
