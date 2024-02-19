@@ -1,575 +1,575 @@
 lexeme_id,derivational_families,label,CorPH_ids,CorPH_labels,CorPH_meaning,Wb_label,DIL_URL,gloss,POS
-1,1,aër,3219,aër,"air, atmosphere, sky",aër,http://dil.ie/632,"air, atmosphere",noun
-2,2,aipgitir,6964,aipgitir,the letters of the alphabet,abgitir,http://dil.ie/730,alphabet,noun
-3,3,apstanait,9400,abstanait,abstinence,abstanit,http://dil.ie/93,abstinence,noun
-4,4,acaldam,3124,acaldam,"the act of addressing or conversing with, colloquy ; murmuring",accaldam,http://dil.ie/114,addressing,verbal_noun
-5,5,accobor,3126,accobor,"the act of desiring, wishing; desire, wish, appetite",accobor,http://dil.ie/165,desire,verbal_noun
-6,6,accomol,3127,accomol,"the act of joining, bringing together; combination, union, meeting, junction",accomol,http://dil.ie/170,"union, junction",verbal_noun
-7,7,adaig,45,adaig,"night, eve of a day or festival",adaig,http://dil.ie/256,night,noun
-8,8,adaltras,,,,adaltras,http://dil.ie/281,adultery,noun
-9,9,adbar,3186,adbar,"cause, reason, ground, matter, material",adbar,http://dil.ie/340,"material, cause, reason",noun
-11,10,adnacul,3202,adnacul,"the act of burying; burial, funeral",adnacul,http://dil.ie/509,"dying, burial, grave",verbal_noun
-12,11,adrad,3203,adrad 1,"the act of worshipping, adorating",adrad,http://dil.ie/533,worship,verbal_noun
-13,12,éitiud,,,,æítiud,http://dil.ie/20870,clothing,noun
-14,13,aicned,3210,aicned,"nature, inherent quality, essence",aicned,http://dil.ie/808,nature,noun
-15,14,áigthiu,3221,áigthiu,the act of fearing,aigthiu,http://dil.ie/953,fearing,verbal_noun
-16,15,ail,94,ail 1,"rock, boulder, foundation",ail,http://dil.ie/954,rock,noun
-17,16,áil,3222,áil,"the act of asking, request, wish ; hook, point",áil,http://dil.ie/959,desire,noun
-18,17,aille,8014,aille,"act of praising, giving thanks; hymn of prace; grace before meals",aille,http://dil.ie/1044,grace before meals,noun
-19,18,aimmser,3232,aimser,"point or period of time, hour, tense",aimser,http://dil.ie/1149,time,noun
-20,19,enech,1259,einech,"face, front, cheek, honour",ainech,http://dil.ie/20066,"face, honour",noun
-21,20,aiṅgel,124,aingel,angel,aingel,http://dil.ie/1364,angel,noun
-22,21,ainmm,3238,ainm,"name, noun (gramm)",ainm,http://dil.ie/1471,name,noun
-23,22,ainmne,3239,ainmne,"patience, forbearance",ainmne,http://dil.ie/1478,patience,noun
-24,23,áinsem,3244,áinsem 1,"the act of accusing, blaming",áinsem,http://dil.ie/1521,"accusing, blaming",verbal_noun
-25,24,erbert,3249,airbert,"the act of using, enjoying, partaking of, employing, eating, living",airbert,http://dil.ie/1622,living,verbal_noun
-26,25,airchinnech,132,airchinnech,"head, leader, superior; administrator (of ecclesiastical land, monastic estate)",airchinnech,http://dil.ie/1719,"leader, head",noun
-27,26,airchisecht,3261,airchisecht,"the act of sparing, pitying; compassion",airchissecht,http://dil.ie/1724,sparing,verbal_noun
-28,27,aircor,3271,aircur,"the act of pressing; pressure, oppression",aircor,http://dil.ie/1791,"pressure, affliction",noun
-29,28,airde,133,airde,"sign, token, portent, characteristic",airde,http://dil.ie/1812,"sign, token",noun
-30,29,airec,7010,airec,"the act of finding, acquiring, obtaining; invention",airec,http://dil.ie/1890,finding,verbal_noun
-31,30,airechas,3280,airechas,"rank, legal status; precedence, sovereignty, superiority, importance",airechas,http://dil.ie/1900,leadership,noun
-32,31,airgaire,3284,airgaire,"the act of prohibiting, preventing, hindering; check",airgaire,http://dil.ie/2006,prohibition,verbal_noun
-33,32,airitiu,3300,airitiu,"the act of receiving, accepting; assumption",airitiu,http://dil.ie/2148,receiving,verbal_noun
-34,33,airlicud,,,,airlicud,http://dil.ie/2212,lending,verbal_noun
-35,34,airmm,3307,airm,place,airm,http://dil.ie/2231,place,noun
-36,35,airmitiu,3312,airmitiu,"the act of revering; reverence, honor",airmitiu,http://dil.ie/2280,"honour, reverence, respect",verbal_noun
-37,36,aís,3326,áes 1,"stage, period (of life); age, years (of person etc.)",aís,http://dil.ie/644,age,noun
-38,37,áes,3327,áes 2,"people, folk","aís, áis, oís, óis",http://dil.ie/645,"people, folk",noun
-39,38,aisndís,3330,aisndís,"the act of relating, telling, explaining, giving information; narration, pronunciation, biblical passage",aisndís,http://dil.ie/2507,declaring,verbal_noun
-40,39,aithe,7021,aithe 1,"act of requiting, recompense",aithe,http://dil.ie/2753,recompense,verbal_noun
-41,40,aithgne,3343,aithgne,"the act of knowing, recognizing, perceiving",aithgne,http://dil.ie/2754,"knowledge, recognition",verbal_noun
-42,41,aithirge,3347,aithirge,"the act of repenting (of), regretting; penance",aithirge,http://dil.ie/2782,"penance, repentance",verbal_noun
-43,42,aithis,3349,aithis,"insult, reproach, reviling",aithiss,http://dil.ie/2716,"reproach, insult, ignominy",noun
-44,43,almmsan,3359,almsan,alms,almsan,http://dil.ie/3002,alms,noun
-45,44,altóir,7033,altóir,altar,altóir,http://dil.ie/3034,altar,noun
-46,45,altramm,6178,altramm,fosterage,altram,http://dil.ie/3039,nurturing,verbal_noun
-47,46,amaires,6179,amaires,"lack of faith, doubt",amires,http://dil.ie/3067,"unfaith, unbelief",noun
-48,46,amairesach,3365,amairesach,non-believing,amirissech,http://dil.ie/3069,unbeliever,noun
-49,47,anad,191,anad,"the act of staying, stopping, remaining, resting",anad,http://dil.ie/3265,staying,verbal_noun
-50,48,ánae,3371,anae,"wealth, riches, prosperity",anae (ánae),http://dil.ie/3271,"wealth, riches",noun
-51,49;50,anamm-charae,9337,anmcharae,confessor; spiritual director,anamchare,http://dil.ie/3684,soul friend,compound_noun
-52,51;52,ain-ecnae,,,,anecne,http://dil.ie/1274,unwise person,prefixed_noun
-53,51;53,ain-cride,3375,ancride,"wrong, injustice, injury, vengeance",ancride,http://dil.ie/1211,"wrong, injury",prefixed_noun
-54,51;54,ain-ḟius,7042,anfius,"ignorance, lack of knowledge",anfius,http://dil.ie/1353,ignorance,prefixed_noun
-55,49,anaimm,3372,ainimm,soul (as opposed to the body),"anim, ainim(m)",http://dil.ie/1402,soul,noun
-56,55,apstal,3389,apstal,apostle,"apstal, abstal",http://dil.ie/3887,apostle,noun
-57,55,apstalach,3390,apstalacht,"apostleship, apostolate",apstalacht,http://dil.ie/3889,apostolate,noun
-58,56,apthu,3391,apthu,"death, perdition",apthu,http://dil.ie/3897,"perdition, utter loss",verbal_noun
-59,57,airigud,,,,arigud,http://dil.ie/2156,perception,verbal_noun
-60,58,áirilliud,3295,áirilliud,"the act of deserving, meriting",árilliud,http://dil.ie/2110,deserving,verbal_noun
-61,59,armm,251,arm,"armour, battle-equipment, panoply, etc., weapon",arm,http://dil.ie/4184,arms,noun
-62,60,ascnam,3476,ascnam,"the act of going towards, striving towards, seeking",ascnam,http://dil.ie/4414,"striving, seeking",verbal_noun
-63,61,aslach,3479,aslach,"the act of tempting, instigating, inducing",aslach,http://dil.ie/4447,seduction,verbal_noun
-64,62,astud,3489,astud,"the act of holding back, detaining",astud,http://dil.ie/4546,binding,verbal_noun
-65,63,athach,3495,athach,"breeze, blast",athach,http://dil.ie/4605,blast,noun
-66,64,athair,285,athair,father,athir,http://dil.ie/4625,father,noun
-67,65,attrab,3505,atrab,"the act of inhabiting, living (in), dwelling, occupying; habitation, house, possession, locative case",atrab,http://dil.ie/4959,dwelling,verbal_noun
-68,66,attlugud,3507,attlugud,"the act of giving thanks, rejoicing (?); thanksgiving",attlugud,http://dil.ie/4944,giving thanks,verbal_noun
-69,67,áugtordás,9762,augtardás,"authority, authoritative source",augtortás,http://dil.ie/4993,authority,noun
-70,68,airlatu,3511,aurlatu,"obedience, submission",aurlatu,http://dil.ie/5028,"obedience, submission",noun
-71,69,baë,3518,baë,"profit, advantage, benefit",baë,http://dil.ie/5125,"benefit, profit",noun
-72,70,bág,6202,bág,contest,bág,http://dil.ie/5152,struggle,noun
-73,71,bairgen,3519,bairgen,"bread, loaf",bairgen,http://dil.ie/5232,unleavened bread,noun
-74,72,baithes,9093,baithes,baptism,"baithis, bathis, baithes",http://dil.ie/5268,baptism,noun
-75,73,ball,3522,ball,"of inanimate objects part, portion, piece; article, object ; limb, member, organ",ball,http://dil.ie/5299,member,noun
-76,74,bás,337,bás,the act of dying; death,bás,http://dil.ie/5444,death,verbal_noun
-77,75,béimm,3526,béimm,"the act of striking; blow, stroke, cut","béim, béimm",http://dil.ie/5566,blow,verbal_noun
-78,76,bél,3527,bél,lip; in plural usually mouth,bél,https://dil.ie/5607,"lips, mouth",noun
-79,77,bélrae,3528,bélrae,"speech, language; dialect",bélre,http://dil.ie/5638,"language, tongue",noun
-80,78,ben,358,ben 1,"woman, female, wife",ben,http://dil.ie/5644,woman,noun
-81,79,bendacht,360,bendacht,the act of blessing,bendacht,http://dil.ie/5661,blessing,noun
-82,80,béo,,,,béo,http://dil.ie/5671,living,noun
-83,81,bés,3539,bés 1,"habit, custom, usual procedure, practice; manner, way; custom; in plural also: character","bés, béss",http://dil.ie/5755,"manner, custom",noun
-84,81,bésad,3541,bésad,"customary action, behavior",bésad,https://dil.ie/5758,"custom, usage",noun
-85,81,béscnae,3542,bésgnae,"custom, usage, discipline, morality;  manner, way",bésgne,http://dil.ie/5762,habit,noun
-86,81,béstatu,3543,béstatu,"morals, morality",bestatu,http://dil.ie/5767,morality,noun
-87,82,bethu,376,bethu,"life, existence, food, nourishment, property",bethu,http://dil.ie/5779,"life, existence",noun
-88,83,biäd,377,biäd,food,bïad,http://dil.ie/5813,food,noun
-89,84,bibdu,3551,bibdu,"one who is guilty, criminal, liable, condemned",bibdu,http://dil.ie/5851,guilty person,noun
-90,85;82,bith-bethu,,,,bid–bethu,http://dil.ie/5971;http://dil.ie/5779,eternal life,prefixed_noun
-91,86,biuth,385;8110,biuth;bith,"the world, land, territory, as adjective: lasting, permanent, perpetual;world",bith,http://dil.ie/5971,world,noun
-92,87,bolad,3558,bolad,"smell, scent",bolad,http://dil.ie/6340,"odour, scent",noun
-93,88,bráth,3563,bráth,"estimation; Judgment,Doomsday",bráth,http://dil.ie/6579,judgement,noun
-94,89,bráthair,418,bráthair,"brother, kinsman, cousin , brother",bráth(a)ir,http://www.dil.ie/6585,brother,noun
-95,90,bríathar,3568,bríathar,"word,  utterance, talk, speech; in religious sense Word (of God); gramm. verb sayings, discourse",bríathar,http://dil.ie/6796,word,noun
-96,91,bríg,3570,bríg,"value, worth; advantage, validity, virtue, efficacy; power, strength, force, authority, vigor",bríg,https://dil.ie/6813,"power, value",noun
-97,92,brith,9582,brith,"the act of bearing, carrying","brith, breth",http://dil.ie/6758,carrying,verbal_noun
-98,92,brithem,3573,brithem,judge,brithem,http://dil.ie/6699,judge,noun
-99,92,brithemnacht,3575,brithemnacht,"judging, judgment, adjudication",brithemnac(h)t,http://dil.ie/6704,adjudication,noun
-100,93,brón,3577,brón,"sorrow, grief, grieving, lamentation; distress, burden",brón,http://dil.ie/6964,sadness,noun
-101,94,búaid,3589,búaid,"victory, triumph, gift",búaid,http://dil.ie/7221,victory,noun
-102,95,buide,3591,buide 2,"favor, gratitude, thanks; good-will",buide,http://dil.ie/7348,thanks,noun
-103,96,buinne,8290,buinne,"torrent, flood; sprig, sprout, stalk, sapling, spout, pipe; circlet, bracelet; wattle, wickerwork",buinne,http://dil.ie/7399,"pipe, flute",noun
-104,97,buith,3561,both 1,"the act of being, existing, being hungry","both; buith, buíth, buid, bith, bid, bíd",http://dil.ie/7435,being,verbal_noun
-105,98,bunad,3599,bunad,"origin, basis, source, stock, race",bunad,http://dil.ie/7450,"stock, origin",noun
-106,99,burbbae,,,,"burpe, burbe",http://dil.ie/7472,stupidity,noun
-107,100;101,caín-chomracc,,caínchomrac,,caín–chomrac,https://dil.ie/7795,"benevolence, good will",prefixed_noun
-108,100;102,caín-dúthracht,8182,caíndúthracht,well-wishing,caín–dúthracht,http://dil.ie/7787;http://dil.ie/7819,good will,prefixed_noun
-109,100;103,caín-gníom,6272,caíngním,the act of well-doing; fair deed,caín–gním,http://dil.ie/7836,good work,prefixed_noun
-110,100;104,cáin-scél,,,,caín–scél,http://dil.ie/7787;http://dil.ie/36385,good news,prefixed_noun
-111,105,caindléoir,,,,caindleóir,http://dil.ie/7813,"candle-bearer, acolyte",noun
-112,106,caiṅgen,3613,caingen,"suit, claim, petition, message; business, matter",caingen,http://dil.ie/7832,"law suit, matter",noun
-113,50,carae,512,carae 1,"friend, relative",carae,http://dil.ie/8205,friend,noun
-114,50,caratrad,3639,caratrad,"friendship, alliance",caratrad,http://dil.ie/8219,friendship,noun
-115,107,carcar,7149,carcar,prison,carcar,http://dil.ie/8226,"prison, captivity",noun
-116,108,cath,528,cath,"battle, fight, battalion",cath,http://dil.ie/8344,battle,noun
-117,109,cathair,530,cathair 1,"city, fortified city, stone enclosure, fortress, monastic settlement",cathir,http://dil.ie/8362,city,noun
-118,110,céile,553,céile,"client, servant, subject, fellow, vassal, companion",céile,http://dil.ie/8452,companion,noun
-119,111,ceist,3651,ceist,"question, problem, enquiry, trouble, anxiety, apprehension",ceist,http://dil.ie/8525,question,noun
-120,110,céilide,6289,céilide,act of visiting,célide,http://dil.ie/8461,visit,noun
-121,113,ceinél,571,cenél,"kind, sort, type, kindred, race, tribe, nation, gramm. gender",cenél,http://dil.ie/8601,"kind, type",noun
-122,113,ceinélae,3655,cenélae,"kind, sort; race",cenéle,http://dil.ie/8605,"sort, human race",noun
-123,115,cenn,572,cenn 1,"head; end-point, termination, exchange, purchase",cenn,http://dil.ie/8622,head,noun
-124,116,cennsae,3661,cennsae,"mildness, meekness, gentleness",censae,http://dil.ie/8672,"meekness, mildness",noun
-125,117,cerdd,584,cerd 1,"craftman, artisan, handicraft, art, skill",cert,http://dil.ie/8753,artisan,noun
-126,118,césad,3666,césad,the act of suffering; torment; very frequently the Passion of Christ; gramm. the passive voice; a passive verb,cés(s)ad,http://dil.ie/8826,suffering,verbal_noun
-127,119,cét,591,cét 1,hundred,cét,http://dil.ie/8862,hundred,numeral_noun
-128,120;97,cétbuid,3676;593,cétbuid;cétbaid,"the act of sensing; opinion, way of thinking; sense, meaning, interpretation; feeling, understanding, skill;the act of feeling; sense,  skill, opinion",cétbuid,http://dil.ie/8896,"perception, sense",verbal_noun
-129,121,cethardae,3678,cethardae,fourfold; subst.: four things,cetharde,http://dil.ie/8913,tetrad,numeral_noun
-130,121,cethorcho,597,cethorcho,forty,cethorcho,http://dil.ie/8921,forty,numeral_noun
-131,122,cíall,606,cíall,"sense, intelligence, mind, thought, meaning, interpretation, wisdom, good sense",cíall,http://dil.ie/8983,sense,noun
-132,123,cimbid,617,cimbid,"ransom- or tribute-payer; captive, prisoner, condemned person (somet. one fated to die, victim)",cimbid,http://dil.ie/9101,victim,noun
-133,124,ciun,3695,cin 1,"guilt, fault, crime; deceit, betrayal",cin,http://dil.ie/9104,fault,noun
-134,125,claideb,3712,claideb,sword,claideb,http://dil.ie/9324,sword,noun
-135,126,cland,629,cland,"plant, offshoot, children, descedant, family, clan, offspring",cland,http://dil.ie/9365,family,noun
-136,127,cleith,3718,cleth 2,"the act of concealing; concealment, hiding place, protection",cleith,http://dil.ie/9454,"concealing, hiding",verbal_noun
-137,128,cloíne,3721,cloíne,"uneveness, crookedness, slant; iniquity, perversion, wickedness, bias; evil deeds (in plural)",cloíne,http://dil.ie/9339,iniquity,noun
-138,129,cobodlus,3740,cobodlus,"fellowship, community, company",cobodlus,http://dil.ie/9833,"fellowship, communion",noun
-139,130,cobuir,662,cobair,"the act of helping, assisting",cobuir,http://dil.ie/9802,"help, aid",noun
-140,131,coicéilsine,3754,coicéilsine,"fellowship, companionship, clientship",cocéilsine,http://dil.ie/10050,fellowship,noun
-141,132,cocubus,,,,cocubus,http://dil.ie/9948,conscience,noun
-142,133,coibdelach,7193,coibdelach,"relative, kinsman ; related, kin",coibdelach,http://dil.ie/9992,"cousin, kinship",noun
-143,134,coibse,3737,cobais,"confession (of sin), confidence, secret",coibse,http://dil.ie/9804,confession,noun
-144,135,coimmdiu,8600,coimmdiu,"lord, master",coimdiu,http://dil.ie/10173,"Master, Lord",verbal_noun
-145,136,col,3777,col,"infringement, violation; wrong, sin; guilt, blame, incest; degree of kinship which is impediment to marriage, shame, wicked, forbidden according to laws of consanguinity",col,http://dil.ie/10473,"wrong, crime, sin",noun
-146,137,colainn,3779,colainn,"flesh, body",colinn,http://dil.ie/10477,"body, flesh",noun
-147,5,comaccobor,3783,comaccobor,"(carnal) desire, concupiscence",comaccobor,http://dil.ie/10562,carnal desire,noun
-148,138,comairbert,3795,comairbert,"mode, manner of life; sustenance",comairbert,http://dil.ie/10633,way of life,noun
-149,139,comairle,700,comairle,"counsel, admonition, advice, plan, decision",comairle,http://dil.ie/10657,advice,noun
-150,140,comaitecht,3800,comaitecht,"the act of agreeing with, favoring, conniving with, going together, accompanying",comaitecht,http://dil.ie/10227,"indulgence, forbearance",verbal_noun
-151,141,comalnad,3802,comalnad,the act of fulfilling,comalnad,http://dil.ie/10712,fulfilling,verbal_noun
-152,142,comarbbas,,,,comarbus,http://dil.ie/10742,inheritance,noun
-153,143,comardae,704,comardae,"(equal) height, level",comarde,http://dil.ie/10762,"seal, authentication",noun
-154,144;145,coimét,3810,comét,"the act of keeping, preserving, retaining, guarding",coméit,http://dil.ie/10185,"keeping, preserving",verbal_noun
-155,146,commaín,,,,commaín,http://dil.ie/11489,equal wealth,noun
-156,147,comnesam,3822,comnesam,neighbor,comnessam,http://dil.ie/11559,neighbour,noun
-157,148,comrorggon,3825,comrorgun,"the act of erring; error, mistake, delusion",comrorcan,http://dil.ie/11688,error,noun
-158,149,comthinól,7230,comthinól,"the act of collecting together, assembling",comthinol,http://dil.ie/11858,"congregation, assembly",noun
-159,150,condairggile,,,,condarcille,http://dil.ie/12069,connivance,noun
-160,151,cuntubart,3993;8176,cumtubart;cundubart,"doubt, uncertainty, perplexity;doubt",cuntubart,http://dil.ie/13952,doubt,noun
-161,152;153,cor,6358,cor,the act of putting,cor,http://dil.ie/12406,putting,verbal_noun
-162,154,córae,,,,córae,http://dil.ie/12416,"peace, concord",noun
-163,155,Corainte,,,,Corinte,http://dil.ie/12476,Corinthian,proper_noun
-164,156,corp,819,corp,"human body, corpse, dead body, body of Eucharist, Communion, bulk, mass, main or central part, text",corp,http://dil.ie/12497,body,noun
-165,157,cosc,3900,cosc,"the act of reproving, admonishing, correcting; reproof, correction",cosc,http://dil.ie/12582,correction,verbal_noun
-166,158,coscrad,826,coscrad,"the act of overthrowing, destroying, hacking, tearing apart, disturbing",coscrad,http://dil.ie/12590,"destruction, abrogation of law",verbal_noun
-167,159,cosmuilius,3910,cosmailius,"likeness, similarity, resemblance; comparison",cosmuilius,http://dil.ie/12610,likeness,noun
-168,160,cosnam,827,cosnam,"the act of contending for, striving for, gaining",cosnam,http://dil.ie/12617,contention,verbal_noun
-169,161,cos,824,cos,"foot, leg of human being, animal, stem, support",coss,http://dil.ie/12566,foot,noun
-170,162,cotlud,3916,cotlud,the act of sleeping; sleep,cotlud,http://dil.ie/12680,sleeping,verbal_noun
-171,163,crábud,3917,crábud,"piety, devotion",crábud,http://dil.ie/12703,"devotion, piety",noun
-172,164,creitem,3922,creitem,"the act of believing; belief, faith, (Christian) religion",cre(i)tem,http://dil.ie/12843,belief,verbal_noun
-173,53,cride,3928,cride,heart,cride,http://dil.ie/12925,heart,noun
-174,165,croch,3934,croch,the Cross,croch,http://dil.ie/13037,cross,noun
-175,165,crochad,3935,crochad,"crucifixion, the act of hanging",crochad,http://dil.ie/13041,crucifixion,verbal_noun
-176,166,crott,3940,crott,"harp, lute",crot,http://dil.ie/13156,harp,noun
-177,167,cruth,876,cruth,"shape, beauty of form, manner, appearance",cruth,http://dil.ie/13271,"form, manner",noun
-178,168,cúairt,6349,cúaird,"circuit, tour, visitation, journey ; circle, ring; circumference; globe (of heaven, earth); area, territory, district; inner space, enclosure",cúairt,http://dil.ie/13327,"visitation, circuit",noun
-179,132,cubus,9317,cubus 2,conscience,cubus,http://dil.ie/13406,conscience,noun
-180,169,cuimrech,6352,cuimrech,"the act of binding, fettering, fastening; captivity, bond, fetter, chain",cuimrech,http://dil.ie/13575,captivity,verbal_noun
-181,170,cuindrech,3960,cuindrech,"the act of correcting, chastising, controlling",cuindrech,http://dil.ie/13602,castigation,verbal_noun
-182,171,cuingid,3964,cuingid 1,"the act of asking, seeking, requesting",cuingid,http://dil.ie/13614,seeking,verbal_noun
-183,172,cuit,3970,cuit,"portion, part, share; a matter of, a mere",cuit,http://dil.ie/13717,"share, part, portion",noun
-184,173,cúl,906,cúl 1,"back, rear, back of head, neck",cúl,http://dil.ie/13749,goal,noun
-185,174,cumang,3979,cumang,"power, ability, strength; gramm. force, function",cumacc,http://dil.ie/13814,"power, ability",verbal_noun
-186,174,cumachtae,3976,cumachtae,"power, strength, might",cumachte,http://dil.ie/13790,"power, authority",verbal_noun
-187,175,cummae,3984,cummae,"equally, in the same way; the same as, like",cumme,http://dil.ie/13852,likeness,noun
-188,176,cumsanad,3987,cumsanad,"the act of resting, ceasing, resposing, repose",cumsanad,http://dil.ie/13885,"resting, ceasing",verbal_noun
-189,177,cumscugud,3990,cumscugud,"the act of moving, changing; shift, mutation, transference, immutability",cumscugud,http://dil.ie/13901,moving,verbal_noun
-190,178,cumtach,3991,cumtach,"the act of adorning, ornamenting, building, constructing, composing, act of protecting, covering, supporting, helping, case, shrine",cumtach,http://dil.ie/13903,building,verbal_noun
-191,179,cúrsagad,3996,cúrsagad,"the act of reprimanding, reproving, correcting",cúrsagad,http://dil.ie/14015,reproving,verbal_noun
-192,180,cutrummus,4004,cutrummus,equality,cutrummus,http://dil.ie/14062,equality,noun
-193,181;182,dag-duine,,,,dag–duine,http://dil.ie/14139;http://dil.ie/19139,good man,prefixed_noun
-194,181;103,dag-gním,9102,dag-gním,"the act of doing well; good deed, good work",dag–gním,http://dil.ie/14139;http://dil.ie/26218,good deed,prefixed_noun
-195,183,daltae,952,daltae,"foster child, pupil",dalte,http://dil.ie/14451,fosterling,noun
-196,184,dam,953,dam 1,"ox, stag",dam,http://dil.ie/14462,ox,noun
-197,185,dán,4019,dán,"gift, bestowal, endowment, present; skill, science, artistic faculty, art, poem",dán,http://dil.ie/14559,"gift from God, skill",noun
-198,186,deächt,4028,deächt,"divinity, godhead",deacht,http://dil.ie/14811,divinity,noun
-199,187,deäd,969,deäd,"end, conclusion",dëad,http://dil.ie/14812,end,noun
-200,188,debuith,4030,debuid,"the act of fighting; strife, contention; diversity of opinion or purpose, difference, variance, dispute or quarrel, often with a notion of vehemence",debuith,http://dil.ie/14851,"discord, strife",verbal_noun
-201,189,dechor,4036,dechor,"condition of being different, dissimilarity, diversity",dechor,http://dil.ie/14907,"distinction, difference",noun
-202,190,déide,4040,déide,"double, consisting of two things, pair",déde,http://dil.ie/15152,two things,numeral_noun
-203,191,déicsiu,4048,déicsiu,"the act of looking, gazing, viewing, searching, inspecting, glancing",déicsiu,http://dil.ie/15143,beholding,verbal_noun
-204,192,deimnigiud,4054,deimnigud,"the act of confirming, making firm, securing, fortifying, proving, attesting",deimnigud,http://dil.ie/15219,confirming,verbal_noun
-205,193,delb,4063,delb,"form, figure, appearance, shape, likeness, image; composing",delb,http://dil.ie/15324,"shape, form",noun
-206,194,demun,4067;8397,demon;demun,"demon, devil, evil spirit",demun,http://dil.ie/15433,"demon, devil",noun
-207,195,dénum,1001,dénum,"the act of doing, making, creating; deed, work, activity",dénum,http://dil.ie/15474,doing,verbal_noun
-208,196,déoladacht,,,,deoladacht,http://dil.ie/15511,grace,noun
-209,197,derchoíniud,4079,derchoíniud,"the act of despairing; despair, dejection",derchoíniud,http://dil.ie/15598,despair,verbal_noun
-210,198,deiscipul,4091,descipul,disciple,descipul,http://dil.ie/15268,disciple,noun
-211,199;200,dé-ṡercc,4092,déṡerc,"love of God; charity, alms-giving",désercc,http://dil.ie/15024,love of God,compound_noun
-212,201,deisimmrecht,4094,desimrecht,"example, exemplar, pattern",dessimrecht,http://dil.ie/15770,example,noun
-213,202,deithiden,4060,deithiden,"care, concern, solicitude, attention",dethiden,http://dil.ie/15300,"care, anxiety",noun
-214,190,diäs,8836,diäs,"pair, couple",dḯas,http://dil.ie/15982,two persons,numeral_noun
-215,204,diäs,,,,"días, diass",https://dil.ie/15981,ear of corn,noun
-216,205,diü,1024,diä,day,dia,http://dil.ie/15848,day,noun
-217,199,día,1023,día 2,"god, deity, God","dia, día",http://dil.ie/15847,God,noun
-218,206,díabul,9674,díabul 2,"the devil, Lucifer",díabul,http://dil.ie/15865,devil,noun
-219,207,dídnad,4122,dídnad,"the act of comforting, consoling, refreshing; refreshment",dídnad,http://dil.ie/16225,"consolation, relief",verbal_noun
-220,208,dígal,4124,dígal,"the act of avenging, punishing, vengeance",dígal,http://dil.ie/16293,"punishment, vengeance",verbal_noun
-221,209,dílgud,4133,dílgud,"the act of forgiving; forgiveness, pardon, remission, forgiving",dílgud,http://dil.ie/16416,forgiveness,verbal_noun
-222,210,díltud,4142,díltud,"the act of rejecting, denying, refusing to acknowledge; gramm. negation",díltud,http://dil.ie/16976,scandal,verbal_noun
-223,211,dímicem,4149,dímicem,"the act of judging severely, condemning, disdaining",dímiccem,http://dil.ie/16537,reprobation,verbal_noun
-224,212,díoth,1058,díth,"loss, absence, lack, need, desire",díth,http://dil.ie/16842,"loss, damage",noun
-225,213,dítiu,4168,dítiu,"the act of protecting; protection, defense; covering, cover, shelter",dítiu,http://dil.ie/16919,protecting,verbal_noun
-226,214,díuitte,4172,díüite,"simplicity, sincerity",dḯuitte,http://dil.ie/16965,sincerity,noun
-227,215,dliged,4180,dliged,"principle, rule, norm; reason, argument; law, due, right, prerogative; dictum, authoritative statement; guiding priniciple, theory",dliged,http://dil.ie/17034,law,noun
-228,216,dlúm,1064,dlúm,"mass, nucleus, aggregation",dlúm,http://dil.ie/17076,a mass,noun
-229,217,dodcad,4315,dodcad,"ill-luck, misfortune",dodced,http://dil.ie/17461,misfortune,noun
-230,218,doguilse,4319,dogailse,"grief, sadness, dejection",doguilse,http://dil.ie/17721,"grief, sorrow",noun
-231,182,dóenacht,4323,doínacht,"humanity (vs. deity), humanness, Manhood",doínecht,http://dil.ie/17562,humanity (of Christ),noun
-232,219,doíre,4330,doíre,"slavery, bondage, captivity",doíre,http://dil.ie/17939,"captivity, bondage",noun
-233,220,domun,1114,domun 1,"world, the Earth",domun,http://dil.ie/18161,world,noun
-234,103,drog-gníom,9110,droch-gním,the act of doing evilly; evil deed,drog–gním,http://dil.ie/18753;http://dil.ie/26218,bad deed,prefixed_noun
-235,221,druí,1148,druí,druid,druï,http://dil.ie/18853,druid,noun
-236,222;223,du-álaig,4352,düálaig,"vice, fault of character",duálaig,http://dil.ie/18961,vice,prefixed_noun
-237,224,dúil,4356,dúil 1,"element, being, creature, thing",dúil,http://dil.ie/19089,creation,noun
-238,182,duine,1170,duine,"person, human being",duine,http://dil.ie/19139,person,noun
-239,225,dul,1174,dul 1,"the act of going; occasion, time, turn, going",dul,http://dil.ie/19189,going,verbal_noun
-240,226,dúilchinne,4359,dúlchinne,"reward, recompense",dúlchine,http://dil.ie/19210,"recompense, reward",noun
-241,102,dúthracht,8183,dúthracht,"the act of wishing, desiring; wish, desire",dúthracht,http://dil.ie/19315,desire,verbal_noun
-242,227,éicen,1218,éicen,"necessity, compulsion, violence, in response to a question, indeed, surely, of truth",écen,http://dil.ie/19711,necessity,noun
-243,228,eclais,1210,eclais,the Christian church (as institution),eclais,http://dil.ie/19585,church,noun
-244,229,écndach,4390,écndach,"reviling, slandering, defaming",écndach,http://dil.ie/19622,slandering,noun
-245,230,écosc,4396,écosc,"appearance, aspect; figure of speech; kind, species",écosc(c),http://dil.ie/19455,"characteristic, argument",noun
-246,231,éitsecht,4414,éitsecht,"the act of hearing; faculty of hearing, listening",éitsecht,https://dil.ie/20934,listening,verbal_noun
-247,231,éitsid,4415,éitsid,hearer,éitsid,,"hearer, listener",noun
-248,232,ellach,7387,ellach,"combination, composition ; joining, uniting; union",ellach,http://dil.ie/19970,"communion, body of Chr.",verbal_noun
-249,233,éilned,4406,éilned,"the act of polluting, corrupting; pollution, defilement, corruption",élned,http://dil.ie/19789,"polluting, defiling",verbal_noun
-250,234,eipeltu,4435,eipeltu,"the act of dying, perishing; death",epeltu,http://dil.ie/20180,"perishing, destruction",verbal_noun
-251,235,eipert,4436,eipert,"the act of saying; speech, statement, word",epert,http://dil.ie/20181,saying,verbal_noun
-252,236,eipistil,1232,eipistil,"epistle, letter",epistil,http://dil.ie/20187,epistle,noun
-253,237,epscop,1268,epscop,bishop,epscop,http://dil.ie/20188,bishop,noun
-254,238,ere,8991,aire 2,"load, burden",ere,http://dil.ie/1884,burden,noun
-255,239,eiritic,,,,eritic,,heretic,noun
-256,240,esorggon,4485,esorgun,"the act of smiting, striking, beating, destructing; a blow",essarcon,http://dil.ie/20560,beating,verbal_noun
-257,241,eiséirge,6460,eiséirge,resurrection,esséirge,http://dil.ie/20489,resurrection,verbal_noun
-258,242,ét,4495,ét 1,"jealousy, emulation",ét,http://dil.ie/20623,jealousy,noun
-259,243,etarcert,4521,etarcert,"the act of interpreting, investigating, discussing; interpretation",etarcert,http://dil.ie/20792,interpretation,verbal_noun
-260,244,étach,4497,étach,"raiment, garment, clothing, covering",étach,http://dil.ie/20626,garment,verbal_noun
-261,245,etarddibe,,,,etardibe,http://dil.ie/20808,destruction,verbal_noun
-262,246,etarscarad,4513,etarscarad,"the act of separating, dividing, dissolution",etarscarad,http://dil.ie/20740,separation,verbal_noun
-263,247,etarggnae,1295,etargnae,"the act of finding out, learning, knowing, understanding; knowledge, information (especially gained through experience), the faculty of understanding or cognition, interpretation, significance, explanation, acquaintance, signification",etergne,http://dil.ie/20712,"knowledge, proof",verbal_noun
-264,248,étrad,4527,étrad,"lust, concupiscence, fornication",étrad,http://dil.ie/20894,"lust, fornication",noun
-265,249,exceptaid,7413,exceptaid,an exception,exceptaid,http://dil.ie/20446,exception,noun
-266,250,fáilte,4549,fáilte,"joy, happiness; welcome, greeting, salutation",fáilte,http://dil.ie/21119,"joy, welcome",noun
-267,251,fáith,4557,fáith,"seer, prophet",fáith,http://dil.ie/21211,prophet,noun
-268,252,féichem,4570,féichem,"claimant, creditor, debtor; one who is under obligations",féchem,http://dil.ie/21402,debtor,noun
-269,253,fecht,1366,fecht,"journey, expedition, time, occasion, course",fecht,http://dil.ie/21408,"journey, duration",noun
-270,254,fedb,,,,fedb,http://dil.ie/21432,widow,noun
-271,255,felsub,,,,felsub,http://dil.ie/21558,philosopher,noun
-272,256,fer,1383,fer 1,"man, person, pl. inhabitants",fer,http://dil.ie/21665,man,noun
-273,257,fergg,6490,ferg,anger,ferc,http://dil.ie/21716,anger,noun
-274,258,fetarlaice,4585,fetarlaic,Old Testament,fetarlic(c)e,http://dil.ie/21813,Old Covenant,noun
-275,259,fíach,4595,fíach,"obligation, payment due, debt",fíach,http://dil.ie/21871,debt,noun
-276,260,fíadnaise,4602,fíadnaise,"witness, testimony",fíadnisse,http://dil.ie/21911,"witness, testimony",noun
-277,261,fíon,1442,fín 1,"wine, vine, pl grapes (?)",fín,http://dil.ie/22086,wine,noun
-278,262;199,fíor-día,,,,fír–día,http://dil.ie/22171;http://dil.ie/15847,true God,prefixed_noun
-279,262,fíriánugud,,,,fírianugud,http://dil.ie/22201,justification,verbal_noun
-280,262,fírinne,4620,fírinne,"truth; justice, righteousness",fírinne,http://dil.ie/22203,"righteousness, truth",noun
-281,263,fiurt,4626,fiurt,miracle,fiurt,http://dil.ie/22279,miracle,noun
-282,54,fius,4627,fius,"the act of finding out, ascertaining; knowledge, information, science","fiuss, fius, fis",http://dil.ie/22221,knowledge,verbal_noun
-283,264,flaith,1478,flaith 1,"a ruler, prince, chief, lord, lordship, sovereignty",flaith,http://dil.ie/22281,"realm, kingdom",noun
-284,264,flaithemnacht,4629,flaithemnacht,"rule, sovereignty; princedom",flaithemnacht,http://dil.ie/22287,sovereignty,noun
-285,265,fled,4632,fled,"feast, banquet, carousal",fled,http://dil.ie/22295,feast,noun
-286,266,fochaith,4678,fochaid,"the act of suffering, trying, attempting; trial, tribulation, affliction, anxiety, sorrow",fochith,http://dil.ie/22412,"temptation, tribulation",verbal_noun
-287,267,fochunn,4688,fochunn,"cause, occasion",fochonn,http://dil.ie/22484,"cause, occasion",noun
-288,268,fochraicc,4682,fochraic,"the act of rewarding; reward, recompense, payment, price",fochricc,http://dil.ie/22497,reward,verbal_noun
-289,269,fócrae,9569,fúacrae,"announcement, warning",fócrae,http://dil.ie/22543,announcement,verbal_noun
-290,270,fodaitiu,4691,fodaitiu,"the act of bearing, enduring",foditiu,http://dil.ie/22610,enduring,verbal_noun
-291,271,fognam,4701,fognam,service,fognam,http://dil.ie/22777,service,verbal_noun
-292,272,fogur,4704,fogur,"sound (used of speech, natural sounds)",fogur,http://dil.ie/22802,"speech sound, voice",noun
-293,273,foigde,1514,foigde,"the act of begging; beseech, request, free victual, entertainment",foigde,http://dil.ie/22848,begging,verbal_noun
-294,274,foilsigud,7463,foillsigud,"the act of manifesting, demonstrating",foilsigud,http://dil.ie/22891,manifesting,verbal_noun
-295,275,foirbthetu,4717,foirbthetu,perfection,foirbthetu,http://dil.ie/22953,"perfection, completeness",noun
-296,276,foísitiu,4726,foísitiu,"the act of confessing; confession, profession, concession, avowal, acknowledgment",foísitiu,http://dil.ie/21189,confession,verbal_noun
-297,277,folad,4731,folad,"substance, material, essence; benefit, “consideration”, signification",folud,http://dil.ie/23188,"substance, essence",noun
-298,278,forbae,4769,forbae,"the act of finishing, completing; end, termination, culmination",forbae,http://dil.ie/23335,completion,verbal_noun
-299,279,forband,4771,forbann,superstition (of heathen law or rites),forband,http://dil.ie/23355,superstitious command,noun
-300,280,foircenn,1534,forcenn,"end, final limit (generally of time or procedure), what is destined",forcenn,http://dil.ie/23431,"end, final limit",noun
-301,281,foircital,1535,forcetal,"the act of teaching, instructing, admonishing, learning, studying",forcetal,http://dil.ie/23434,teaching,verbal_noun
-302,281,foircitlaid,4777,forcetlaid,"teacher, instructor",forcetlid,http://dil.ie/23436,teacher,noun
-303,282,foirggell,4776,forcell,"the act of bearing witness, testifying; testimony",forgell,http://dil.ie/23662,testimony,verbal_noun
-304,283,formmat,4788,format,"the act of envying; envy, jealousy",format,http://dil.ie/23768,envy,verbal_noun
-305,284,forṅgaire,4791,forngaire,"the act of admonishing; admonition, injunction, direction",forṅgaire,http://dil.ie/23818,command,verbal_noun
-306,285,foróil,,,,foróil,http://dil.ie/23830,"abundance, excess",noun
-307,286,fortacht,4794,fortacht,"the act of aiding, helping",fortacht,http://dil.ie/23939,help,verbal_noun
-308,287,forus,1549,forus,"established or fundamental principles of knowledge or science, the principle or enactments of a law, enforcement, sanction, a station that which is stable, basis, foundation, bottom, recapitulation",forus,http://dil.ie/24049,"foundation, basis",noun
-309,288,frecor,,frecor,,freccor céill,https://dil.ie/24271,"putting against, attending",verbal_noun
-310,289,frecrae,4812,frecrae,the act of answering or responding; an answer,frecre,http://dil.ie/24273,answer,verbal_noun
-311,290,freiscsiu,4818,frescisiu,"the act of expecting, looking forward to, anticipating; expectation, hope",frescsiu,http://dil.ie/24299,hope,verbal_noun
-312,291,frithorggon,4853,frithorgun,"the act of molesting, harassing; offense, injury, annoyance",frithorcon,http://dil.ie/24528,"offence, injury",verbal_noun
-313,292,fúath,1580,fúath,"likeness, form, spectre, phantom, semblance",fúath,http://dil.ie/24715,form,noun
-314,293,fugall,1584,fuigell,"the act of passing judgment on; judicial pronouncement, sentence, decision",fugell,http://dil.ie/24781,judgement,verbal_noun
-315,294,fuil,1585,fuil,"blood, an effusion of blood",fuil,http://dil.ie/24792,blood,noun
-316,295,fulaṅg,9749,fulang,the act of supporting; support,"folog, fulang",http://dil.ie/24943,enduring,verbal_noun
-317,296,gabál,1597,gabál,"the act of taking, assuming, singing, saying (of a psalm), capturing, holding; armful, snare, ambush",gabáal,http://dil.ie/25035,taking,verbal_noun
-318,297,gairdde,4889,gairte,"shortness, briefness",gairte,http://dil.ie/25256,shortness of time,noun
-319,298,galar,1613,galar,"sickness, disease, physical pain, mental suffering, distress, grief, damage",galar,http://dil.ie/25293,sickness,noun
-320,299,gáu,4896,gáu,"falsehood, lie",gáu,http://dil.ie/25465,falsehood,noun
-321,300,gein,4899,gein,birth; origin,gein,http://dil.ie/25530,"birth, nativity",verbal_noun
-322,301,gell,4902,gell,"pledge, surety",gell,http://dil.ie/25584,pledge,noun
-323,302,genas,6564,genas 1,"purity, chastity",genas,http://dil.ie/25653,chastity,noun
-324,303,geintlide,1632,geintlide,"gentiles, heathens, the heathen Norsemen",gentlide,http://dil.ie/25690,gentile,noun
-326,305,giun,1649,giun,"mouth, edge of weapon","giun, gin",http://dil.ie/25866,mouth,noun
-327,306,glúas,7518,glúas,"gloss, commentary, explanation",glúass,http://dil.ie/26170,gloss,noun
-328,307,gnás,4920,gnás,"intercourse, companionship, frequentation; custom, usage",gnás,http://dil.ie/26190,companionship,noun
-329,103,gníom,4928,gním,"the act of doing, acting, performing, executing; gramm. the active voice; an active verb, fact, deed, action, activity",gním,http://dil.ie/26218,deed,verbal_noun
-330,308,gnúis,4929,gnúis,"face, countenance; aspect, kind, form, species",gnúis,http://dil.ie/26261,face,noun
-331,309,goire,6585,goire,"piety, dutifulness, (familial) affection",goire,http://dil.ie/26324,duty to parents,noun
-332,310,gortae,4937,gortae,"hunger, famine",gorte,http://dil.ie/26428,"hunger, famine",noun
-333,311,grád,4939,grád 1,"grade, rank, degree, order; ecclesiastical holy orders",grád,http://dil.ie/26459,"grade, rank",noun
-334,312,gráinne,,,,gráinne,http://dil.ie/26507,grain,noun
-335,313,guide,4952,guide,the act of praying; prayer,guide,http://dil.ie/26785,prayer,verbal_noun
-336,314,íarfaigid,4965,íarfaigid,"the act of inquiring, challenging; inquiry, inquisition, challenge, interrogation",íarfigid,http://dil.ie/26970,asking,verbal_noun
-337,315,íocc,4977,ícc,"the act of healing, saving, curing, paying for, enduring; salvation, cure, redress, satisfaction, solution, answer (to a question or problem), requital, atonement, revenge, salvation",ícc,http://dil.ie/27149,salvation,verbal_noun
-338,316,aidpart,4400,audpart,the act of offering; sacrifice,idbart,http://dil.ie/27181,offering,verbal_noun
-339,317,ídal,4981,ídal,idol ; heathen,ídol,http://dil.ie/27176,idol,noun
-340,318,iffernn,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
-341,319;73,il-baill,,,,il–baill,http://dil.ie/27239;http://dil.ie/5299,many members,prefixed_noun
-342,319;75,il-béimm,,,,il–béim,http://dil.ie/27239;http://dil.ie/5566,many blows,prefixed_noun
-343,319;77,il-bélrae,,,,il–bélre,http://dil.ie/27239;http://dil.ie/6758,many-tongued,prefixed_noun
-344,320,ilar,4985,ilar,"multitude, abundance, plural (grammatical)",ilar,http://dil.ie/27244,multitude,noun
-345,321,imbed,4991,imbed,"large quantity, abundance, excess, amount, number",imbed,http://dil.ie/27298,abundance,noun
-346,322,imbresan,8414,imbresan,"the act of contending, disputing; strife, feud, contention",imbressan,http://dil.ie/28035,"contention, strife",verbal_noun
-347,111,immcheist,,,,imcheist,http://dil.ie/27347,"mutual contention, strife of words",noun
-348,323,immchomarc,4999,immchomarc,"the act of questioning; question, inquiry, interrogation",imchomarc,http://dil.ie/27387,salutation,verbal_noun
-349,324,immdibe,5003,immdibe,the act of circumcising; circumcision,imdibe,http://dil.ie/27472,circumcision,verbal_noun
-350,325,immḟogaibetu,,,,imfogbaidetu,http://dil.ie/27535,continence,noun
-351,326,immarmus,5045,immarmus,"the act of transgressing; transgression, sin, (esp the Fall)",immarmus,http://dil.ie/27761,sin,verbal_noun
-352,327,immrádud,5058,immrádud,"the act of thinking, deliberating",immrádud,http://dil.ie/28018,"thinking of, considering",verbal_noun
-353,328,immned,5051,imned,"tribulation, anxiety, suffering, sorrow",imned,http://dil.ie/27982,"tribulation, trouble",noun
-354,329,immról,,,,imról,http://dil.ie/28052,"great draught, abundance",noun
-355,330,immthánad,5063;7552,immthánad;immthánud,alternation,imthánad,http://dil.ie/28130,alternation,noun
-356,331,immthecht,1770,immthecht,the act of going about,imthecht,http://dil.ie/28137,"going, marching",verbal_noun
-357,332,immthrénugud,5068,immthrénugud,"the act of enjoining, assuring, confirming, commending",imthrénugud,http://dil.ie/28175,"confirming, strengthening",verbal_noun
-358,333,immthugae,,,,imthuge,http://dil.ie/28183,clothing,verbal_noun
-359,334,incholnugud,5099,incholnugud,incarnation,incholnugud,http://dil.ie/28277,incarnation,noun
-360,335,indarbbae,1783,indarbae,"the act of expelling, driving out; expulsion, rejection",indarpe,http://dil.ie/28323,expulsion,verbal_noun
-361,336,indas,5104,indas,"the act of pointing out; manner, kind, nature, appearance, condition, method, way",indas,http://dil.ie/28336,"kind, manner, nature",verbal_noun
-362,337,indeb,5107,indeb,"gain, increase, wealth, power",indeb,http://dil.ie/28352,"gain, riches, lucre",noun
-363,338,indírge,,,,indírge,http://dil.ie/28436,injustice,noun
-364,339,indnaide,5117,indnaide,"the act of waiting, awaiting; expectation",indnide,http://dil.ie/28497,expectation,verbal_noun
-365,340,inducbál,5118;7560,inducbál;indocbál,"act of glorifying, glory, renown;the act of glorifying; renown",indocbál,http://dil.ie/28501,blessedness,verbal_noun
-366,341,ingen,1799,ingen 1,"daughter, girl, virgin",ingen,http://dil.ie/28651,daughter,noun
-367,342,ingnae,5132,ingnae,"the act of understanding, comprehending","ingn(a)e, engn(a)e",http://dil.ie/20097,comprehension,verbal_noun
-368,343,ingreimm,5137,ingreimm 1,the act of persecuting,ingreimm,http://dil.ie/28706,persecution,verbal_noun
-369,344,inne,5147,inne 1,"middle, center, inward part; meaning, sense, signification; quality, real value",inne,http://dil.ie/28806,"quality, attribute",noun
-370,345,insce,5151,insce,"saying, speech, statement, word",insce,http://dil.ie/28887,"word, saying, utterance",noun
-371,346,intliucht,5164,intliucht,"meaning, signification, mind",intliucht,http://dil.ie/28959,"mind, understanding",noun
-372,347,intamail,5156,intamail,"the act of imitating, simulation, pretence, semblance, comparison, likeness",intsamil,http://dil.ie/28925,imitation,verbal_noun
-373,348,airáil,4440,airáil,"enjoining, urging, instigating",iráil,http://dil.ie/20202,enjoining,noun
-374,349,airbág,,,,irbág,http://dil.ie/1605,"glorying, boasting",verbal_noun
-375,350,airchrae,,,,irchre,http://dil.ie/1759,"perishing, destroying",verbal_noun
-376,351,ereschae,,,,iresche,http://dil.ie/29053,faith,noun
-377,351,eres,5174,ires,"faith, religion, belief","iress, ires",http://dil.ie/29051,(Christian) faith (in God),noun
-378,352,airḟócrae,,,,irfócre,http://dil.ie/1976,"suggesting, warning",verbal_noun
-379,353,airgal,3285,airgal,"the act of fighting; strife, contest, line of battle, battalion",irgal,http://dil.ie/2010,"conflict, strife",verbal_noun
-380,354,airnaigde,151,airnigde,the act of praying; prayer,irnigde,http://dil.ie/2324,prayer,verbal_noun
-381,355,ittge,,,,itge,http://dil.ie/29148,prayer,noun
-383,356,Iúdaide,,iúdaidei,,Iúdide,http://dil.ie/29202,Jew,proper_noun
-384,357,laë,1862,laë,"day, daytime",laa,http://dil.ie/29234,day,noun
-385,358,lám,1883,lám,"hand, arm",láam,http://dil.ie/29507,hand,noun
-386,359,labrad,1863,labrad,"the act of speaking; speech, utterance",labrad,http://dil.ie/29249,speaking,verbal_noun
-387,357,laithe,5206,laithe,day,laithe,http://dil.ie/29234,day,noun
-388,360,lánamnas,8357,lánamnus,partership; marriage,lánamnas,http://dil.ie/29549,sexual relations,noun
-389,361,lánae,5210;7576,lánae,"fullness, completeness",láne,http://dil.ie/29420,fulness,noun
-390,362,lann,8056,lann,"thin plate, layer; blade, sword",lann,http://dil.ie/29565,"thin plate, crown",noun
-391,363,láthar,5214,láthar,"arrangement, disposition, interpretation, appointment, design; machination, wiles; vigour, energy, power; place, position, point, space",láthar,http://dil.ie/29631,"disposition, design",noun
-392,364,legad,5222,legad,"the act of melting, dissolving, smelting, decaying, perishing, liquifying",legad,http://dil.ie/29736,dissolution,verbal_noun
-393,365,léigend,1901,léigend,"the act of reading, studying; text",légend,http://dil.ie/29778,"reading, studying",verbal_noun
-394,366,léire,1905,léire,"zeal, devotion, care, assiduity, exertion, pains",léire,http://dil.ie/29812,diligence,noun
-395,367,les,1916,les 1,"relief, benefit, advantage, good, profit, interest, in compounds: substitute, not properly belonging, cause, case, affair, matter",less,http://dil.ie/29990,benefit,noun
-396,368,lestar,5234,lestar,"vessel, container",lestar,http://dil.ie/30022,vessel,noun
-397,369,leth,1919,leth,"half, side, direction, in compounds: half-, semi-, quasi-",leth,http://dil.ie/30036,"side, direction",noun
-398,370,lië,1932,liä 1,"stone, pillar stone, whetstone",lie,http://dil.ie/30096,stone,noun
-399,371,lí,1931;9078,lí;lí 1,"beauty, lustre, glory",líi,http://dil.ie/30091,colour (of body),noun
-400,372,lín,1947,lín 1,"number, full number, complement, multitude (of persons)",línn,http://dil.ie/30233,multitude,noun
-401,373,lobad,5258,lobad,"the act of putrefying, decaying",lobad,http://dil.ie/30392,decaying,verbal_noun
-402,374,lobrae,5260,lobrae,"weakness, infirmity, sickness",lobre,http://dil.ie/30400,"infirmity, weakness",noun
-403,375,loc,5263,loc,"place, position",locc,http://dil.ie/30411,place,noun
-404,376,lóg,5267,lóg,"value, worth, equivalent; purchase-price, act of buying; interest, profit, advantage ; reward, requital, compensation, payment, price, fee, wage",lóg,http://dil.ie/30495,reward,noun
-405,377,lucht,1989,lucht,"contents, cargo, people, inhabitant",luct,http://dil.ie/30908,category of people,noun
-406,378,luige,1992;6666,luige;lugae,the act of swearing; oath,luige,http://dil.ie/30984,oath,verbal_noun
-407,379,mám,5294,mám 1,yoke,máam,http://dil.ie/31500,yoke,noun
-408,380,macc,2011,macc 1,"son, male descendent, young man, son, The Son (i.e. Christ), young male animal, boy, male descendant",macc,http://dil.ie/31166,son,noun
-409,381,machdad,5296,machdad,"wonder, astonishment",machthad,http://dil.ie/31203,marvel,noun
-410,382,maigister,,magister,,magister,http://dil.ie/31317,"master, teacher",noun
-411,383,móen,2136,móen,"gift, benefit, in pl.: treasures, possessions, wealth",maín,http://dil.ie/31345,treasure,noun
-412,384,martrae,2065,martrae,"martyrdom, violent death, relics",martrae,http://dil.ie/31640,martyrdom,noun
-413,385,mebul,2075;8396,mebul;mebol,"shame, disgrace, deceit, treachery, a cause of shame;shame, disgrace, deceit, treachery",mebul,http://dil.ie/31708,shame,noun
-414,386,méit,2081,méit,"size, quantity, as rel. adv. introducing a subord. clause: as much as, as far as, to the extent that amount, so much, Greatness, magnitude (of size, quantity, number, extent, degree)",méit,http://dil.ie/31852,"greatness, magnitude",noun
-415,387,menmmae,5343,menmae,"heed, attention; mind, thought; the thinking faculty, the understanding, heed, state of mind, feelings; spirit, courage, self-confidence; desire, inclination; pleasure, elation",menme,http://dil.ie/31948,mind,noun
-416,388,meirtrech,7643,mertrech,"a harlot, prostitute",mertrech,http://dil.ie/31804,harlot,noun
-417,389,mes,2095,mes 1,"the act of judging, correcting; emendation, opinion, verdict",mess,http://dil.ie/32021,judgement,verbal_noun
-418,390,míl,6704,míl 2,soldier,míl,http://dil.ie/32222,soldier,noun
-419,391,míle,2112,míle,thousand,míle,http://dil.ie/32234,thousand,numeral_noun
-420,390,mílte,,,,mílte,http://dil.ie/32272,military service,noun
-421,392,miscuis,5380,miscuis,"hatred, dislike",miscuis,http://dil.ie/32351,"hatred, emnity",noun
-422,393,mod,5388,mod,"measure, limit; manner, mode, way, fashion",mod,http://dil.ie/32427,"manner, way",noun
-423,394,moídem,5391,moídem,"a boast, matter for glorying",móidem,http://dil.ie/32457,boasting,verbal_noun
-424,395,molad,5394,molad,"the act of praising; song of praise, panegyric",molad,http://dil.ie/32490,praising,verbal_noun
-425,396,mórad,,,,mórad,http://dil.ie/32551,exalting,verbal_noun
-426,397,mrath,5407,mrath,the act of betraying; treachery,mrath,http://dil.ie/32620,"betraying, deceiving",noun
-427,398,mug,5413,mug,a male slave or servant,mug,http://dil.ie/32675,slave,noun
-428,399,múnad,,,,múnad,http://dil.ie/32834,teaching,verbal_noun
-429,400,muinter,2187,muinter,"family, household, followers, adherents, attendents, troops, party, a community or group of persons connected by some common bond",muntar,http://dil.ie/32754,community,noun
-430,401;97,neb-buith,,,,neb–buith,http://dil.ie/33072;http://dil.ie/7435,non-being,prefixed_noun
-431,401;402,neb-chomalnad,,,,neb–chomalnad,http://dil.ie/33072;http://dil.ie/10712,un-fulfilment,prefixed_noun
-432,401;403,neb-martu,,,,neb–martu,http://dil.ie/33072;http://dil.ie/31588,immortality,prefixed_noun
-433,401;404,neb-thabart,,,,neb–thabart,http://dil.ie/33072;http://dil.ie/39363,non-inflicting,prefixed_noun
-434,405,nem,2243,nem,"heaven, the abode of the blessed, ceiling, sky",nem,http://dil.ie/33070,heaven,noun
-435,406,nert,2249,nert,"strength, force",nert,http://dil.ie/33116,"strength, power",noun
-436,406,nertad,5446,nertad,"the act of strengthening, exhorting, urging",nertad,http://dil.ie/33117,strengthening,verbal_noun
-437,407,nochtae,,,,"nochte, nocte",http://dil.ie/33225,nakedness,noun
-438,408,nóebad,,,,noíbad,http://dil.ie/33246,sanctification,verbal_noun
-439,409;260,nú-ḟiadnaise,5463,núḟiadnaise,New Testament,nuiednisse,http://dil.ie/33352,New Testament,prefixed_noun
-440,410,úacht,3030,úacht,"cold, coldness",ócht,http://dil.ie/42580,cold,noun
-441,411,ógae,2344,ógae,"wholeness, perfection, chastity, celibacy, virginity",óge,http://dil.ie/33572,"celibacy, virginity",noun
-442,412,oígi,2348,oígi,"guest, stranger, esp. one receiving hospitality",oígi,http://dil.ie/33642,guest,noun
-443,413,óenur,6756;7690,óenar;óenḟer,"one man;single individual, one alone",oínar,http://dil.ie/33521,single individual,numeral_noun
-444,413,óentu,5482,óentu,"oneness, unity, consent",oíntu,http://dil.ie/33548,unity,noun
-445,414,oipred,5483,oipred,"act of working; activity, operation, performance",oipred,http://dil.ie/33686,"work, operation",noun
-446,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,evil-doer,noun
-447,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,"evil, wrong",noun
-448,416,omun,5504,omun,"fear, the state of being afraid",ómon,http://dil.ie/33853,fear,noun
-449,417,úar,6123,úar 2,"hour, time, occasion; point of time","ór, úar",http://dil.ie/42763,"hour, time",noun
-450,418,ordd,5515,ord 1,"order, sequence, class of persons",ord,http://dil.ie/33966,"practice, procedure, order",noun
-451,419,orbbae,5513,orbae,"patrimony, heritage, real estate",orpe,http://dil.ie/33941,"inheritance, patrimony",noun
-452,420,peccad,5523,peccad,sin,peccad,http://dil.ie/34237,sin,noun
-453,420,peccthach,5524,pecthach,"sinful, committing sin",pecthach,http://dil.ie/34240,sinner,noun
-454,421,pían,5530,pían,"penalty, punishment, torment, pain",pén,http://dil.ie/34308,punishment,noun
-455,422,pendait,9345,pendait,penance,penn(a)it,http://dil.ie/34273,penitence,noun
-456,423,persan,5529,persan,"person, character, quality; gramm. individual; appearance; person of the Trinity",persan,http://dil.ie/34285,person,noun
-457,424,popul,5537,popul,"a group of people, a tribe, people held together by a common interest, also used for members of a religious community",popul,http://dil.ie/34472,people,noun
-458,425,preicept,5541,preicept,act of teaching or preaching,precept,http://dil.ie/34520,preaching,noun
-459,425,preiceptóir,5540,preiceptóir,"teacher, preacher",preceptóir,http://dil.ie/34521,preacher,noun
-460,426,prímit,5544,prímit,first-fruit,primit,http://dil.ie/34570,first fruit,noun
-461,427,proind,2485,proind,"A meal, refection, generally of the chief meal of the day",proind,http://dil.ie/34594,meal,noun
-462,428,rann,2525,rann 1,"part, share, division, part (of speech), portion",rann,http://dil.ie/34804,"part, portion",noun
-463,429,rath,5553,rath 1,grace,rath,http://dil.ie/34833,grace,verbal_noun
-464,430,reë,5555,ré,"space, interval of time ; period; lapse of time; space, intervening distance",ré,http://dil.ie/34864,period of time,noun
-465,431,recht,5557,recht,law,recht,http://dil.ie/34898,law,noun
-466,432,rét,5603,rét 1,thing,réit,http://dil.ie/35158,"thing, deed, matter",noun
-467,433,rélad,5562,rélad,"the act of making manifest, showing, declaring",rélad,http://dil.ie/34988,making manifest,verbal_noun
-468,434,ríar,2566,ríar 1,"will, demand, claim, supplying needs, maintenance",ríar,http://dil.ie/35223,"will, wish",noun
-469,435,ríchtu,5608,ríchtu,"the act of reaching, coming to, arriving",ríchtu,http://dil.ie/35261,"reaching, arrival",verbal_noun
-470,436,rí,2563,rí,king,ríi,http://dil.ie/35181,king,noun
-471,437,riuth,2584,riuth,"the act of running; a run, rapid course",riuth,http://dil.ie/35354,"running, course",verbal_noun
-472,438,rosc,5631,rosc,eye,rosc,http://dil.ie/35559,eye,noun
-473,439,ruccae,5633,ruccae,"shame, disgrace",rucce,http://dil.ie/35672,"shame, disgrace",noun
-474,440,rún,5636,rún,"mystery, secret",rún,http://dil.ie/35787,mystery,noun
-475,441,sapait,5638,sabbait,the Sabbath,"sabait, sapait",http://dil.ie/35837,Sabbath,noun
-476,442,sacart,2634,sacart,priest,sacart,http://dil.ie/35846,priest,noun
-477,443;55,sáeb-apstal,,,,saíb–apstal,http://dil.ie/35877;http://dil.ie/3887,false apostle,prefixed_noun
-478,444,saigid,2642,saigid 2,"the act of seeking, aiming at, trying to get, advancing, attacking",saigid,http://dil.ie/35952,discussing,verbal_noun
-479,445,sáegol,5648,sáegol,"an age, period of time, duration, human lifetime",saígul,http://dil.ie/35896,lifetime,noun
-480,446;357,sain-laë,,,,sain–láa,"http://dil.ie/36008,",particular day,prefixed_noun
-481,446,sainred,5656,sainred,"peculiar or belonging to (an individual), characteristic of; particular, special, set apart, peculiar property",sainred,http://dil.ie/36030,special property,noun
-482,447,sáeth,2638,sáeth,"trouble, hardship, distress, tribulation; disease",saíth,http://dil.ie/35912,tribulation,noun
-483,447,sáethar,5662,sáethar,"labor, work, toil; difficulty, trouble, effort, exertion",saíthar,http://dil.ie/35915,"labour, toil",noun
-484,448,salm,5666,salm,psalm,salm,http://dil.ie/36097,psalm,noun
-485,449,sant,5670,sant,"strong desire, eagerness",sant,http://dil.ie/36189,greed,noun
-486,450,scarad,9420,scarad,the act of separating; separation,scarad,http://dil.ie/36326,separating,verbal_noun
-487,104,scél,5682,scél,"story, tale, narration ; tiding, news",scél,http://dil.ie/36385,"news, story",noun
-488,451,scríbend,5689,scríbend,"act of writing ; record, book, manuscript; (holy); letter, message",scríbent,http://dil.ie/36641,writing,verbal_noun
-489,452,seichem,5708,seichem,"the act of following, imitating",sechem,http://dil.ie/36757,imitating,verbal_noun
-490,453,sechtae,7784,sechtae 2,"simulation, pretence",sechte,http://dil.ie/36795,"simulation, hypocrisy",noun
-491,454,secndap,2706,secnap,the prior of a monastery,secṅdap,http://dil.ie/36818,vice-abbot,noun
-492,182,sen-duine,,,,sen–duine,http://dil.ie/37130,old person,prefixed_noun
-493,455;456,sen-máthair,,,,sen–máthir,http://dil.ie/37152,grandmother,prefixed_noun
-494,455;420,sen-pheccad,,,,sen–pecad,http://dil.ie/37090;http://dil.ie/34237,old sin,prefixed_noun
-495,455,senchas,5724,senchas,"old tales, ancient history, tradition, genealogy, traditional law",senchas,http://dil.ie/37124,"tradition, lore",noun
-496,457,seinmm,6850,seinm,the act of playing a musical instrument,senim,http://dil.ie/36943,sound,verbal_noun
-497,458,serbae,,,,serbe,http://dil.ie/37217,bitterness,noun
-498,200,sercc,5732,serc,"the act of loving; love, affection",sercc,http://dil.ie/37233,love,verbal_noun
-499,459,sét,2745,sét 2,"valuable object, chattel, treasure",sét,http://dil.ie/37323,object of value,noun
-500,460,sét,2744,sét 1,"way, path, manner",sét,http://dil.ie/37322,"path, way",noun
-501,461,séitig,9141,séitig,wife,sétig,http://dil.ie/37013,wife,noun
-502,462,síans,5741,síans,"sense, perception, perceptive faculty, meaning",síans,http://dil.ie/37381,sense,noun
-503,463,síd,2756,síd 2,"peace, goodwill, truce",síid,http://dil.ie/37442,peace,noun
-504,464,síol,2760,síl,"seed, origin, offspring; the seed of plants and animals",síl,http://dil.ie/37503,seed,noun
-505,465,smacht,5766,smacht,"rule, ordinance, regulation, command, stipulation",smacht,http://dil.ie/38009,"rule, institute",noun
-506,466;104,so-scélae,5812,soscélae,"good news, Gospel",so–scéle,http://dil.ie/38384,gospel,prefixed_noun
-507,467,sochuide,2800,sochuide,"multitude, crowd, host",sochuide,http://dil.ie/38230,multitude,noun
-508,468,soilse,5783,soilse,"brightness, light",soilse,http://dil.ie/38344,light,noun
-509,469,sóerad,5789,sóerad,"the act of freeing, delivering; deliverance",soírad,http://dil.ie/35901,saving,verbal_noun
-510,469,soíre,5792,soíre,"freedom, liberty, nobility (of race, character etc.)",soíre,http://dil.ie/36041,freedom,noun
-511,470,sonartae,5807,sonartae,"strength, firmness, courage",sonirte,http://dil.ie/38467,"firmness of body, faith",noun
-512,471,spirut,5815,spirut,spirit,spirut,http://dil.ie/38630,spirit,noun
-513,472,súainem,5826,súainem,"rope, cord, string",súainem,http://dil.ie/39071,rope,noun
-514,223,su-álaig,,,,súalig,http://dil.ie/39093,virtue,prefixed_noun
-515,473,suide,5834,suide 2,the act of sitting (down); seat,suide,http://dil.ie/39196,sitting,verbal_noun
-516,474,súil,5838,súil,eye,súil,http://dil.ie/39215,eye,noun
-517,404,tabairt,2863,tabart 1,"the act of giving, bringing, taking, placing; the act of imposing on, putting on, inflicting",tabart,http://dil.ie/39363,giving,verbal_noun
-518,475,taidbsiu,5855,taidbsiu,"the act of showing, pointing out, manifesting, demonstrating; appearance, form",taidbsiu,http://dil.ie/39549,appearance,verbal_noun
-519,476,taidchor,5877,taithchor,the act of returning,taidchur,http://dil.ie/40221,return,verbal_noun
-520,477,taidchricc,5856,taidchrecc,"the act of redeeming; redemption, salvation",taidchricc,http://dil.ie/39879,redemption,verbal_noun
-521,478,táirggiud,5864,táirciud,"the act of causing, bringing about; cause",táirciud,http://dil.ie/40092,causing,verbal_noun
-522,479,tairisem,5865;8553,tairisem;tairissem,"the act of remaining, stopping;the act of remaining, staying, continuing, delaying, withstanding, resisting, standing out against; persistence, stability",tairissem,http://dil.ie/39731,abiding,verbal_noun
-523,480,tairmmthecht,5869,tairmthecht,"the act of traversing; passage, transition, transgression, sin",tairmthecht,http://dil.ie/39768,transgressing,verbal_noun
-524,481,tairṅgire,5870,tairngire,the act of promising; prophecy,tairngire,http://dil.ie/39777,promise,verbal_noun
-525,482,talam,5880,talam,"earth, world; ground ; land",talam,http://dil.ie/39932,earth,noun
-526,483,tathaír,,,,tathaír,http://dil.ie/40215,condemning,verbal_noun
-527,225,techt,2894,techt 1,"the act of going; messenger, gramm.ending",techt,http://dil.ie/40269,going,verbal_noun
-528,225,techtairecht,5901,techtairecht,"message, errand, mission, embassy",techtairecht,http://dil.ie/40286,embassy,noun
-529,484,tecmall,9614,tecmall,"the act of collecting, gathering",tecmallad,http://dil.ie/40312,"gathering, collection",verbal_noun
-530,225,techtaire,9885,techtaire,messanger,tectaire,http://dil.ie/40285,messenger,noun
-531,485,tech,2893,tech,"house, dwelling, mansion, temple",teg,http://dil.ie/40265,house,noun
-532,485,tegdais,5908,tegdais,"house, dwelling, mansion",tegdais,http://dil.ie/40335,household,noun
-533,485,teglach,6903,teglach,"inmates of a house, household",teglach,http://dil.ie/40338,family,noun
-534,486,teist,9580,teist,witness,teist,http://dil.ie/40443,testimony,noun
-535,487,teimel,5922,teimel,"darkness, gloom",temel,http://dil.ie/40370,"darkness, obscurity",noun
-536,488,tempul,5923,tempul,"temple, church",tempul,http://dil.ie/40485,temple,noun
-537,489,tairchomracc,5929,terchomracc,"the act of assembling; assembly, gathering, convocation, muster",terchomrac,http://dil.ie/40549,"assembly, congregation",verbal_noun
-538,486,testas,,,,testas,http://dil.ie/40619,witness,noun
-539,486,teistimin,5935,testimin,"text, scriptural quotation, passage, testimony",testimin,http://dil.ie/40445,testimony,noun
-540,225,tíchtu,2931,tíchtu,"the act of coming, coming to",tíchtu,http://dil.ie/40709,coming,verbal_noun
-541,490,timmnae,5944,timmnae,act of commanding; precept,timne,http://dil.ie/40791,"commandment, precept",verbal_noun
-542,491,timmthirecht,5945,timmthirecht,"the act of serving, ministering to; ministration",timthirecht,http://dil.ie/40825,"serving, service",verbal_noun
-543,492,tinchosc,,,,tinchosc,http://dil.ie/40846,teaching,verbal_noun
-544,493,tindnaccul,5951,tindnacol,"the act of bestowing, handing over; gift",tindnacul,http://dil.ie/40857,bestowing,verbal_noun
-545,149,tinól,,,,tinól,http://dil.ie/40918,"collection, gathering",verbal_noun
-546,494,tintúd,2939,tintúd,"the act of returning, translating; conversion, translation, recalling",tintuúth,http://dil.ie/40928,conversion,verbal_noun
-547,495,tír,2941,tír,"land; territory, country; earth, ground",tír,http://dil.ie/40940,land,noun
-548,496,titul,5963,titul,"title, heading",titul,http://dil.ie/40988,title,noun
-549,497,tóbae,5968,tóbae,"the act of cutting (down), cutting off, removing; incision",tóbe,http://dil.ie/41046,"cutting off, severance",verbal_noun
-550,498,toidiusgud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
-551,499,togairm,5985,togairm,"the act of invoking, petitioning, calling; appellation, vocation",togairm,http://dil.ie/41155,invoking,verbal_noun
-552,500,tóeb,2951,tóeb,side (of body),tóib,http://dil.ie/39454,side,noun
-553,501,toimtiu,5994,toimtiu,act of thinking; opinion,toimtiu,http://dil.ie/41229,"thinking, opinion",verbal_noun
-554,502,toíniud,5995,tóiniud,"the act of descending, departing, setting",tóiniud,http://dil.ie/41236,"fall, departing",verbal_noun
-555,503,toisc,8388,toisc,"need, necessity; wish, desire",toisc,http://dil.ie/41297,"need, necessity",noun
-556,504,tol,2958,tol,"desire, appetite, will, affection",tol,http://dil.ie/41316,will,noun
-557,505,tomalt,9756,tomalt,"the act of consuming, using; consumption",tomalt,http://dil.ie/41363,consuming,verbal_noun
-558,506,torad,6010,torad,"produce, increase, fruit, increase; result, profit",torad,http://dil.ie/43360,fruit,noun
-559,507,torbae,6016,torbae,"the act of profiting; profit, benefit, usefulness, labor, work",torbae,http://dil.ie/41441,"profit, benefit",verbal_noun
-560,508,toros,9720,toirse,sorrow; act of complaining,toros,http://dil.ie/41280,"sadness, sorrow",noun
-561,509,tosach,2976,tosach,"beginning, precedence",tosach,http://dil.ie/41498,beginning,noun
-562,510,toischid,9318,taiscid,"need, necessity; food, sustenance",toschid,http://dil.ie/41298,giving sustenance,noun
-563,511,tréide,6043,tréide,"three things ; triple, consisting of three things",tréde,http://dil.ie/41741,triad,numeral_noun
-564,511,triär,2999,triär,three persons or things,tríar,http://dil.ie/41892,three persons,numeral_noun
-565,513,tróccaire,6061,trócaire,mercy,trócaire,http://dil.ie/41974,mercy,noun
-566,514,túarggun,6079,túargun,"the act of grinding or threshing corn, scutching flax, wearing away",túarcun,http://dil.ie/42222,treading,verbal_noun
-567,515,túarae,6951,túarae,"food, sustenance",túare,http://dil.ie/42214,"food, sustenance",noun
-568,516,túath,3012,túath,"people, tribe, country",túath,http://dil.ie/42241,kingdom,noun
-569,225,tuidecht,3017,tuidecht,"the act of coming; arrival, advent",tuidecht,http://dil.ie/42299,"going against, resisting",verbal_noun
-570,517,tuistid,6100,tuistid,"parent, creator",tuistid,http://dil.ie/42428,"begetter, parent",noun
-571,517,tuistiu,6101,tuistiu,"the act of creating, engendering, begetting; procreation",tuistiu,http://dil.ie/42432,bearing children,verbal_noun
-572,518,úabar,,,,úabar,http://dil.ie/42574,vanity,noun
-573,519,úailbe,,,,úailbe,http://dil.ie/42628,levity,noun
-574,520,úall,6119,úall 1,"pride, arrogance, vainglory",úall,http://dil.ie/42708,"pride, arrogance",noun
-575,521,úathad,3053,úathad,"gramm. singular, a small number, a few, rare",úathad,http://dil.ie/42815,"small number, few",noun
-576,522,umaldóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
-577,523,utmuille,6144,utmaille,"movement, restlessness, unsteadiness, instability",utmuille,http://dil.ie/43341,"unsteadiness, restlessness",noun
+lex-aer-1,1,aër,3219,aër,"air, atmosphere, sky",aër,http://dil.ie/632,"air, atmosphere",noun
+lex-aipgitir-2,2,aipgitir,6964,aipgitir,the letters of the alphabet,abgitir,http://dil.ie/730,alphabet,noun
+lex-apstanait-3,3,apstanait,9400,abstanait,abstinence,abstanit,http://dil.ie/93,abstinence,noun
+lex-acaldam-4,4,acaldam,3124,acaldam,"the act of addressing or conversing with, colloquy ; murmuring",accaldam,http://dil.ie/114,addressing,verbal_noun
+lex-accobor-5,5,accobor,3126,accobor,"the act of desiring, wishing; desire, wish, appetite",accobor,http://dil.ie/165,desire,verbal_noun
+lex-accomol-6,6,accomol,3127,accomol,"the act of joining, bringing together; combination, union, meeting, junction",accomol,http://dil.ie/170,"union, junction",verbal_noun
+lex-adaig-7,7,adaig,45,adaig,"night, eve of a day or festival",adaig,http://dil.ie/256,night,noun
+lex-adaltras-8,8,adaltras,,,,adaltras,http://dil.ie/281,adultery,noun
+lex-adbar-9,9,adbar,3186,adbar,"cause, reason, ground, matter, material",adbar,http://dil.ie/340,"material, cause, reason",noun
+lex-adnacul-11,10,adnacul,3202,adnacul,"the act of burying; burial, funeral",adnacul,http://dil.ie/509,"dying, burial, grave",verbal_noun
+lex-adrad-12,11,adrad,3203,adrad 1,"the act of worshipping, adorating",adrad,http://dil.ie/533,worship,verbal_noun
+lex-eitiud-13,12,éitiud,,,,æítiud,http://dil.ie/20870,clothing,noun
+lex-aicned-14,13,aicned,3210,aicned,"nature, inherent quality, essence",aicned,http://dil.ie/808,nature,noun
+lex-aigthiu-15,14,áigthiu,3221,áigthiu,the act of fearing,aigthiu,http://dil.ie/953,fearing,verbal_noun
+lex-ail-16,15,ail,94,ail 1,"rock, boulder, foundation",ail,http://dil.ie/954,rock,noun
+lex-ail-17,16,áil,3222,áil,"the act of asking, request, wish ; hook, point",áil,http://dil.ie/959,desire,noun
+lex-aille-18,17,aille,8014,aille,"act of praising, giving thanks; hymn of prace; grace before meals",aille,http://dil.ie/1044,grace before meals,noun
+lex-aimmser-19,18,aimmser,3232,aimser,"point or period of time, hour, tense",aimser,http://dil.ie/1149,time,noun
+lex-enech-20,19,enech,1259,einech,"face, front, cheek, honour",ainech,http://dil.ie/20066,"face, honour",noun
+lex-aingel-21,20,aiṅgel,124,aingel,angel,aingel,http://dil.ie/1364,angel,noun
+lex-ainmm-22,21,ainmm,3238,ainm,"name, noun (gramm)",ainm,http://dil.ie/1471,name,noun
+lex-ainmne-23,22,ainmne,3239,ainmne,"patience, forbearance",ainmne,http://dil.ie/1478,patience,noun
+lex-ainsem-24,23,áinsem,3244,áinsem 1,"the act of accusing, blaming",áinsem,http://dil.ie/1521,"accusing, blaming",verbal_noun
+lex-erbert-25,24,erbert,3249,airbert,"the act of using, enjoying, partaking of, employing, eating, living",airbert,http://dil.ie/1622,living,verbal_noun
+lex-airchinnech-26,25,airchinnech,132,airchinnech,"head, leader, superior; administrator (of ecclesiastical land, monastic estate)",airchinnech,http://dil.ie/1719,"leader, head",noun
+lex-airchisecht-27,26,airchisecht,3261,airchisecht,"the act of sparing, pitying; compassion",airchissecht,http://dil.ie/1724,sparing,verbal_noun
+lex-aircor-28,27,aircor,3271,aircur,"the act of pressing; pressure, oppression",aircor,http://dil.ie/1791,"pressure, affliction",noun
+lex-airde-29,28,airde,133,airde,"sign, token, portent, characteristic",airde,http://dil.ie/1812,"sign, token",noun
+lex-airec-30,29,airec,7010,airec,"the act of finding, acquiring, obtaining; invention",airec,http://dil.ie/1890,finding,verbal_noun
+lex-airechas-31,30,airechas,3280,airechas,"rank, legal status; precedence, sovereignty, superiority, importance",airechas,http://dil.ie/1900,leadership,noun
+lex-airgaire-32,31,airgaire,3284,airgaire,"the act of prohibiting, preventing, hindering; check",airgaire,http://dil.ie/2006,prohibition,verbal_noun
+lex-airitiu-33,32,airitiu,3300,airitiu,"the act of receiving, accepting; assumption",airitiu,http://dil.ie/2148,receiving,verbal_noun
+lex-airlicud-34,33,airlicud,,,,airlicud,http://dil.ie/2212,lending,verbal_noun
+lex-airmm-35,34,airmm,3307,airm,place,airm,http://dil.ie/2231,place,noun
+lex-airmitiu-36,35,airmitiu,3312,airmitiu,"the act of revering; reverence, honor",airmitiu,http://dil.ie/2280,"honour, reverence, respect",verbal_noun
+lex-ais-37,36,aís,3326,áes 1,"stage, period (of life); age, years (of person etc.)",aís,http://dil.ie/644,age,noun
+lex-aes-38,37,áes,3327,áes 2,"people, folk","aís, áis, oís, óis",http://dil.ie/645,"people, folk",noun
+lex-aisndis-39,38,aisndís,3330,aisndís,"the act of relating, telling, explaining, giving information; narration, pronunciation, biblical passage",aisndís,http://dil.ie/2507,declaring,verbal_noun
+lex-aithe-40,39,aithe,7021,aithe 1,"act of requiting, recompense",aithe,http://dil.ie/2753,recompense,verbal_noun
+lex-aithgne-41,40,aithgne,3343,aithgne,"the act of knowing, recognizing, perceiving",aithgne,http://dil.ie/2754,"knowledge, recognition",verbal_noun
+lex-aithirge-42,41,aithirge,3347,aithirge,"the act of repenting (of), regretting; penance",aithirge,http://dil.ie/2782,"penance, repentance",verbal_noun
+lex-aithis-43,42,aithis,3349,aithis,"insult, reproach, reviling",aithiss,http://dil.ie/2716,"reproach, insult, ignominy",noun
+lex-almmsan-44,43,almmsan,3359,almsan,alms,almsan,http://dil.ie/3002,alms,noun
+lex-altoir-45,44,altóir,7033,altóir,altar,altóir,http://dil.ie/3034,altar,noun
+lex-altramm-46,45,altramm,6178,altramm,fosterage,altram,http://dil.ie/3039,nurturing,verbal_noun
+lex-amaires-47,46,amaires,6179,amaires,"lack of faith, doubt",amires,http://dil.ie/3067,"unfaith, unbelief",noun
+lex-amairesach-48,46,amairesach,3365,amairesach,non-believing,amirissech,http://dil.ie/3069,unbeliever,noun
+lex-anad-49,47,anad,191,anad,"the act of staying, stopping, remaining, resting",anad,http://dil.ie/3265,staying,verbal_noun
+lex-anae-50,48,ánae,3371,anae,"wealth, riches, prosperity",anae (ánae),http://dil.ie/3271,"wealth, riches",noun
+lex-anamm-charae-51,49;50,anamm-charae,9337,anmcharae,confessor; spiritual director,anamchare,http://dil.ie/3684,soul friend,compound_noun
+lex-ain-ecnae-52,51;52,ain-ecnae,,,,anecne,http://dil.ie/1274,unwise person,prefixed_noun
+lex-ain-cride-53,51;53,ain-cride,3375,ancride,"wrong, injustice, injury, vengeance",ancride,http://dil.ie/1211,"wrong, injury",prefixed_noun
+lex-ain-fius-54,51;54,ain-ḟius,7042,anfius,"ignorance, lack of knowledge",anfius,http://dil.ie/1353,ignorance,prefixed_noun
+lex-anaimm-55,49,anaimm,3372,ainimm,soul (as opposed to the body),"anim, ainim(m)",http://dil.ie/1402,soul,noun
+lex-apstal-56,55,apstal,3389,apstal,apostle,"apstal, abstal",http://dil.ie/3887,apostle,noun
+lex-apstalach-57,55,apstalach,3390,apstalacht,"apostleship, apostolate",apstalacht,http://dil.ie/3889,apostolate,noun
+lex-apthu-58,56,apthu,3391,apthu,"death, perdition",apthu,http://dil.ie/3897,"perdition, utter loss",verbal_noun
+lex-airigud-59,57,airigud,,,,arigud,http://dil.ie/2156,perception,verbal_noun
+lex-airilliud-60,58,áirilliud,3295,áirilliud,"the act of deserving, meriting",árilliud,http://dil.ie/2110,deserving,verbal_noun
+lex-armm-61,59,armm,251,arm,"armour, battle-equipment, panoply, etc., weapon",arm,http://dil.ie/4184,arms,noun
+lex-ascnam-62,60,ascnam,3476,ascnam,"the act of going towards, striving towards, seeking",ascnam,http://dil.ie/4414,"striving, seeking",verbal_noun
+lex-aslach-63,61,aslach,3479,aslach,"the act of tempting, instigating, inducing",aslach,http://dil.ie/4447,seduction,verbal_noun
+lex-astud-64,62,astud,3489,astud,"the act of holding back, detaining",astud,http://dil.ie/4546,binding,verbal_noun
+lex-athach-65,63,athach,3495,athach,"breeze, blast",athach,http://dil.ie/4605,blast,noun
+lex-athair-66,64,athair,285,athair,father,athir,http://dil.ie/4625,father,noun
+lex-attrab-67,65,attrab,3505,atrab,"the act of inhabiting, living (in), dwelling, occupying; habitation, house, possession, locative case",atrab,http://dil.ie/4959,dwelling,verbal_noun
+lex-attlugud-68,66,attlugud,3507,attlugud,"the act of giving thanks, rejoicing (?); thanksgiving",attlugud,http://dil.ie/4944,giving thanks,verbal_noun
+lex-augtordas-69,67,áugtordás,9762,augtardás,"authority, authoritative source",augtortás,http://dil.ie/4993,authority,noun
+lex-airlatu-70,68,airlatu,3511,aurlatu,"obedience, submission",aurlatu,http://dil.ie/5028,"obedience, submission",noun
+lex-bae-71,69,baë,3518,baë,"profit, advantage, benefit",baë,http://dil.ie/5125,"benefit, profit",noun
+lex-bag-72,70,bág,6202,bág,contest,bág,http://dil.ie/5152,struggle,noun
+lex-bairgen-73,71,bairgen,3519,bairgen,"bread, loaf",bairgen,http://dil.ie/5232,unleavened bread,noun
+lex-baithes-74,72,baithes,9093,baithes,baptism,"baithis, bathis, baithes",http://dil.ie/5268,baptism,noun
+lex-ball-75,73,ball,3522,ball,"of inanimate objects part, portion, piece; article, object ; limb, member, organ",ball,http://dil.ie/5299,member,noun
+lex-bas-76,74,bás,337,bás,the act of dying; death,bás,http://dil.ie/5444,death,verbal_noun
+lex-beimm-77,75,béimm,3526,béimm,"the act of striking; blow, stroke, cut","béim, béimm",http://dil.ie/5566,blow,verbal_noun
+lex-bel-78,76,bél,3527,bél,lip; in plural usually mouth,bél,https://dil.ie/5607,"lips, mouth",noun
+lex-belrae-79,77,bélrae,3528,bélrae,"speech, language; dialect",bélre,http://dil.ie/5638,"language, tongue",noun
+lex-ben-80,78,ben,358,ben 1,"woman, female, wife",ben,http://dil.ie/5644,woman,noun
+lex-bendacht-81,79,bendacht,360,bendacht,the act of blessing,bendacht,http://dil.ie/5661,blessing,noun
+lex-beo-82,80,béo,,,,béo,http://dil.ie/5671,living,noun
+lex-bes-83,81,bés,3539,bés 1,"habit, custom, usual procedure, practice; manner, way; custom; in plural also: character","bés, béss",http://dil.ie/5755,"manner, custom",noun
+lex-besad-84,81,bésad,3541,bésad,"customary action, behavior",bésad,https://dil.ie/5758,"custom, usage",noun
+lex-bescnae-85,81,béscnae,3542,bésgnae,"custom, usage, discipline, morality;  manner, way",bésgne,http://dil.ie/5762,habit,noun
+lex-bestatu-86,81,béstatu,3543,béstatu,"morals, morality",bestatu,http://dil.ie/5767,morality,noun
+lex-bethu-87,82,bethu,376,bethu,"life, existence, food, nourishment, property",bethu,http://dil.ie/5779,"life, existence",noun
+lex-biad-88,83,biäd,377,biäd,food,bïad,http://dil.ie/5813,food,noun
+lex-bibdu-89,84,bibdu,3551,bibdu,"one who is guilty, criminal, liable, condemned",bibdu,http://dil.ie/5851,guilty person,noun
+lex-bith-bethu-90,85;82,bith-bethu,,,,bid–bethu,http://dil.ie/5971;http://dil.ie/5779,eternal life,prefixed_noun
+lex-biuth-91,86,biuth,385;8110,biuth;bith,"the world, land, territory, as adjective: lasting, permanent, perpetual;world",bith,http://dil.ie/5971,world,noun
+lex-bolad-92,87,bolad,3558,bolad,"smell, scent",bolad,http://dil.ie/6340,"odour, scent",noun
+lex-brath-93,88,bráth,3563,bráth,"estimation; Judgment,Doomsday",bráth,http://dil.ie/6579,judgement,noun
+lex-brathair-94,89,bráthair,418,bráthair,"brother, kinsman, cousin , brother",bráth(a)ir,http://www.dil.ie/6585,brother,noun
+lex-briathar-95,90,bríathar,3568,bríathar,"word,  utterance, talk, speech; in religious sense Word (of God); gramm. verb sayings, discourse",bríathar,http://dil.ie/6796,word,noun
+lex-brig-96,91,bríg,3570,bríg,"value, worth; advantage, validity, virtue, efficacy; power, strength, force, authority, vigor",bríg,https://dil.ie/6813,"power, value",noun
+lex-brith-97,92,brith,9582,brith,"the act of bearing, carrying","brith, breth",http://dil.ie/6758,carrying,verbal_noun
+lex-brithem-98,92,brithem,3573,brithem,judge,brithem,http://dil.ie/6699,judge,noun
+lex-brithemnacht-99,92,brithemnacht,3575,brithemnacht,"judging, judgment, adjudication",brithemnac(h)t,http://dil.ie/6704,adjudication,noun
+lex-bron-100,93,brón,3577,brón,"sorrow, grief, grieving, lamentation; distress, burden",brón,http://dil.ie/6964,sadness,noun
+lex-buaid-101,94,búaid,3589,búaid,"victory, triumph, gift",búaid,http://dil.ie/7221,victory,noun
+lex-buide-102,95,buide,3591,buide 2,"favor, gratitude, thanks; good-will",buide,http://dil.ie/7348,thanks,noun
+lex-buinne-103,96,buinne,8290,buinne,"torrent, flood; sprig, sprout, stalk, sapling, spout, pipe; circlet, bracelet; wattle, wickerwork",buinne,http://dil.ie/7399,"pipe, flute",noun
+lex-buith-104,97,buith,3561,both 1,"the act of being, existing, being hungry","both; buith, buíth, buid, bith, bid, bíd",http://dil.ie/7435,being,verbal_noun
+lex-bunad-105,98,bunad,3599,bunad,"origin, basis, source, stock, race",bunad,http://dil.ie/7450,"stock, origin",noun
+lex-burbbae-106,99,burbbae,,,,"burpe, burbe",http://dil.ie/7472,stupidity,noun
+lex-cain-chomracc-107,100;101,caín-chomracc,,caínchomrac,,caín–chomrac,https://dil.ie/7795,"benevolence, good will",prefixed_noun
+lex-cain-duthracht-108,100;102,caín-dúthracht,8182,caíndúthracht,well-wishing,caín–dúthracht,http://dil.ie/7787;http://dil.ie/7819,good will,prefixed_noun
+lex-cain-gniom-109,100;103,caín-gníom,6272,caíngním,the act of well-doing; fair deed,caín–gním,http://dil.ie/7836,good work,prefixed_noun
+lex-cain-scel-110,100;104,cáin-scél,,,,caín–scél,http://dil.ie/7787;http://dil.ie/36385,good news,prefixed_noun
+lex-caindleoir-111,105,caindléoir,,,,caindleóir,http://dil.ie/7813,"candle-bearer, acolyte",noun
+lex-caingen-112,106,caiṅgen,3613,caingen,"suit, claim, petition, message; business, matter",caingen,http://dil.ie/7832,"law suit, matter",noun
+lex-carae-113,50,carae,512,carae 1,"friend, relative",carae,http://dil.ie/8205,friend,noun
+lex-caratrad-114,50,caratrad,3639,caratrad,"friendship, alliance",caratrad,http://dil.ie/8219,friendship,noun
+lex-carcar-115,107,carcar,7149,carcar,prison,carcar,http://dil.ie/8226,"prison, captivity",noun
+lex-cath-116,108,cath,528,cath,"battle, fight, battalion",cath,http://dil.ie/8344,battle,noun
+lex-cathair-117,109,cathair,530,cathair 1,"city, fortified city, stone enclosure, fortress, monastic settlement",cathir,http://dil.ie/8362,city,noun
+lex-ceile-118,110,céile,553,céile,"client, servant, subject, fellow, vassal, companion",céile,http://dil.ie/8452,companion,noun
+lex-ceist-119,111,ceist,3651,ceist,"question, problem, enquiry, trouble, anxiety, apprehension",ceist,http://dil.ie/8525,question,noun
+lex-ceilide-120,110,céilide,6289,céilide,act of visiting,célide,http://dil.ie/8461,visit,noun
+lex-ceinel-121,113,ceinél,571,cenél,"kind, sort, type, kindred, race, tribe, nation, gramm. gender",cenél,http://dil.ie/8601,"kind, type",noun
+lex-ceinelae-122,113,ceinélae,3655,cenélae,"kind, sort; race",cenéle,http://dil.ie/8605,"sort, human race",noun
+lex-cenn-123,115,cenn,572,cenn 1,"head; end-point, termination, exchange, purchase",cenn,http://dil.ie/8622,head,noun
+lex-cennsae-124,116,cennsae,3661,cennsae,"mildness, meekness, gentleness",censae,http://dil.ie/8672,"meekness, mildness",noun
+lex-cerdd-125,117,cerdd,584,cerd 1,"craftman, artisan, handicraft, art, skill",cert,http://dil.ie/8753,artisan,noun
+lex-cesad-126,118,césad,3666,césad,the act of suffering; torment; very frequently the Passion of Christ; gramm. the passive voice; a passive verb,cés(s)ad,http://dil.ie/8826,suffering,verbal_noun
+lex-cet-127,119,cét,591,cét 1,hundred,cét,http://dil.ie/8862,hundred,numeral_noun
+lex-cetbuid-128,120;97,cétbuid,3676;593,cétbuid;cétbaid,"the act of sensing; opinion, way of thinking; sense, meaning, interpretation; feeling, understanding, skill;the act of feeling; sense,  skill, opinion",cétbuid,http://dil.ie/8896,"perception, sense",verbal_noun
+lex-cethardae-129,121,cethardae,3678,cethardae,fourfold; subst.: four things,cetharde,http://dil.ie/8913,tetrad,numeral_noun
+lex-cethorcho-130,121,cethorcho,597,cethorcho,forty,cethorcho,http://dil.ie/8921,forty,numeral_noun
+lex-ciall-131,122,cíall,606,cíall,"sense, intelligence, mind, thought, meaning, interpretation, wisdom, good sense",cíall,http://dil.ie/8983,sense,noun
+lex-cimbid-132,123,cimbid,617,cimbid,"ransom- or tribute-payer; captive, prisoner, condemned person (somet. one fated to die, victim)",cimbid,http://dil.ie/9101,victim,noun
+lex-ciun-133,124,ciun,3695,cin 1,"guilt, fault, crime; deceit, betrayal",cin,http://dil.ie/9104,fault,noun
+lex-claideb-134,125,claideb,3712,claideb,sword,claideb,http://dil.ie/9324,sword,noun
+lex-cland-135,126,cland,629,cland,"plant, offshoot, children, descedant, family, clan, offspring",cland,http://dil.ie/9365,family,noun
+lex-cleith-136,127,cleith,3718,cleth 2,"the act of concealing; concealment, hiding place, protection",cleith,http://dil.ie/9454,"concealing, hiding",verbal_noun
+lex-cloine-137,128,cloíne,3721,cloíne,"uneveness, crookedness, slant; iniquity, perversion, wickedness, bias; evil deeds (in plural)",cloíne,http://dil.ie/9339,iniquity,noun
+lex-cobodlus-138,129,cobodlus,3740,cobodlus,"fellowship, community, company",cobodlus,http://dil.ie/9833,"fellowship, communion",noun
+lex-cobuir-139,130,cobuir,662,cobair,"the act of helping, assisting",cobuir,http://dil.ie/9802,"help, aid",noun
+lex-coiceilsine-140,131,coicéilsine,3754,coicéilsine,"fellowship, companionship, clientship",cocéilsine,http://dil.ie/10050,fellowship,noun
+lex-cocubus-141,132,cocubus,,,,cocubus,http://dil.ie/9948,conscience,noun
+lex-coibdelach-142,133,coibdelach,7193,coibdelach,"relative, kinsman ; related, kin",coibdelach,http://dil.ie/9992,"cousin, kinship",noun
+lex-coibse-143,134,coibse,3737,cobais,"confession (of sin), confidence, secret",coibse,http://dil.ie/9804,confession,noun
+lex-coimmdiu-144,135,coimmdiu,8600,coimmdiu,"lord, master",coimdiu,http://dil.ie/10173,"Master, Lord",verbal_noun
+lex-col-145,136,col,3777,col,"infringement, violation; wrong, sin; guilt, blame, incest; degree of kinship which is impediment to marriage, shame, wicked, forbidden according to laws of consanguinity",col,http://dil.ie/10473,"wrong, crime, sin",noun
+lex-colainn-146,137,colainn,3779,colainn,"flesh, body",colinn,http://dil.ie/10477,"body, flesh",noun
+lex-comaccobor-147,5,comaccobor,3783,comaccobor,"(carnal) desire, concupiscence",comaccobor,http://dil.ie/10562,carnal desire,noun
+lex-comairbert-148,138,comairbert,3795,comairbert,"mode, manner of life; sustenance",comairbert,http://dil.ie/10633,way of life,noun
+lex-comairle-149,139,comairle,700,comairle,"counsel, admonition, advice, plan, decision",comairle,http://dil.ie/10657,advice,noun
+lex-comaitecht-150,140,comaitecht,3800,comaitecht,"the act of agreeing with, favoring, conniving with, going together, accompanying",comaitecht,http://dil.ie/10227,"indulgence, forbearance",verbal_noun
+lex-comalnad-151,141,comalnad,3802,comalnad,the act of fulfilling,comalnad,http://dil.ie/10712,fulfilling,verbal_noun
+lex-comarbbas-152,142,comarbbas,,,,comarbus,http://dil.ie/10742,inheritance,noun
+lex-comardae-153,143,comardae,704,comardae,"(equal) height, level",comarde,http://dil.ie/10762,"seal, authentication",noun
+lex-coimet-154,144;145,coimét,3810,comét,"the act of keeping, preserving, retaining, guarding",coméit,http://dil.ie/10185,"keeping, preserving",verbal_noun
+lex-commain-155,146,commaín,,,,commaín,http://dil.ie/11489,equal wealth,noun
+lex-comnesam-156,147,comnesam,3822,comnesam,neighbor,comnessam,http://dil.ie/11559,neighbour,noun
+lex-comrorggon-157,148,comrorggon,3825,comrorgun,"the act of erring; error, mistake, delusion",comrorcan,http://dil.ie/11688,error,noun
+lex-comthinol-158,149,comthinól,7230,comthinól,"the act of collecting together, assembling",comthinol,http://dil.ie/11858,"congregation, assembly",noun
+lex-condairggile-159,150,condairggile,,,,condarcille,http://dil.ie/12069,connivance,noun
+lex-cuntubart-160,151,cuntubart,3993;8176,cumtubart;cundubart,"doubt, uncertainty, perplexity;doubt",cuntubart,http://dil.ie/13952,doubt,noun
+lex-cor-161,152;153,cor,6358,cor,the act of putting,cor,http://dil.ie/12406,putting,verbal_noun
+lex-corae-162,154,córae,,,,córae,http://dil.ie/12416,"peace, concord",noun
+lex-corainte-163,155,Corainte,,,,Corinte,http://dil.ie/12476,Corinthian,proper_noun
+lex-corp-164,156,corp,819,corp,"human body, corpse, dead body, body of Eucharist, Communion, bulk, mass, main or central part, text",corp,http://dil.ie/12497,body,noun
+lex-cosc-165,157,cosc,3900,cosc,"the act of reproving, admonishing, correcting; reproof, correction",cosc,http://dil.ie/12582,correction,verbal_noun
+lex-coscrad-166,158,coscrad,826,coscrad,"the act of overthrowing, destroying, hacking, tearing apart, disturbing",coscrad,http://dil.ie/12590,"destruction, abrogation of law",verbal_noun
+lex-cosmuilius-167,159,cosmuilius,3910,cosmailius,"likeness, similarity, resemblance; comparison",cosmuilius,http://dil.ie/12610,likeness,noun
+lex-cosnam-168,160,cosnam,827,cosnam,"the act of contending for, striving for, gaining",cosnam,http://dil.ie/12617,contention,verbal_noun
+lex-cos-169,161,cos,824,cos,"foot, leg of human being, animal, stem, support",coss,http://dil.ie/12566,foot,noun
+lex-cotlud-170,162,cotlud,3916,cotlud,the act of sleeping; sleep,cotlud,http://dil.ie/12680,sleeping,verbal_noun
+lex-crabud-171,163,crábud,3917,crábud,"piety, devotion",crábud,http://dil.ie/12703,"devotion, piety",noun
+lex-creitem-172,164,creitem,3922,creitem,"the act of believing; belief, faith, (Christian) religion",cre(i)tem,http://dil.ie/12843,belief,verbal_noun
+lex-cride-173,53,cride,3928,cride,heart,cride,http://dil.ie/12925,heart,noun
+lex-croch-174,165,croch,3934,croch,the Cross,croch,http://dil.ie/13037,cross,noun
+lex-crochad-175,165,crochad,3935,crochad,"crucifixion, the act of hanging",crochad,http://dil.ie/13041,crucifixion,verbal_noun
+lex-crott-176,166,crott,3940,crott,"harp, lute",crot,http://dil.ie/13156,harp,noun
+lex-cruth-177,167,cruth,876,cruth,"shape, beauty of form, manner, appearance",cruth,http://dil.ie/13271,"form, manner",noun
+lex-cuairt-178,168,cúairt,6349,cúaird,"circuit, tour, visitation, journey ; circle, ring; circumference; globe (of heaven, earth); area, territory, district; inner space, enclosure",cúairt,http://dil.ie/13327,"visitation, circuit",noun
+lex-cubus-179,132,cubus,9317,cubus 2,conscience,cubus,http://dil.ie/13406,conscience,noun
+lex-cuimrech-180,169,cuimrech,6352,cuimrech,"the act of binding, fettering, fastening; captivity, bond, fetter, chain",cuimrech,http://dil.ie/13575,captivity,verbal_noun
+lex-cuindrech-181,170,cuindrech,3960,cuindrech,"the act of correcting, chastising, controlling",cuindrech,http://dil.ie/13602,castigation,verbal_noun
+lex-cuingid-182,171,cuingid,3964,cuingid 1,"the act of asking, seeking, requesting",cuingid,http://dil.ie/13614,seeking,verbal_noun
+lex-cuit-183,172,cuit,3970,cuit,"portion, part, share; a matter of, a mere",cuit,http://dil.ie/13717,"share, part, portion",noun
+lex-cul-184,173,cúl,906,cúl 1,"back, rear, back of head, neck",cúl,http://dil.ie/13749,goal,noun
+lex-cumang-185,174,cumang,3979,cumang,"power, ability, strength; gramm. force, function",cumacc,http://dil.ie/13814,"power, ability",verbal_noun
+lex-cumachtae-186,174,cumachtae,3976,cumachtae,"power, strength, might",cumachte,http://dil.ie/13790,"power, authority",verbal_noun
+lex-cummae-187,175,cummae,3984,cummae,"equally, in the same way; the same as, like",cumme,http://dil.ie/13852,likeness,noun
+lex-cumsanad-188,176,cumsanad,3987,cumsanad,"the act of resting, ceasing, resposing, repose",cumsanad,http://dil.ie/13885,"resting, ceasing",verbal_noun
+lex-cumscugud-189,177,cumscugud,3990,cumscugud,"the act of moving, changing; shift, mutation, transference, immutability",cumscugud,http://dil.ie/13901,moving,verbal_noun
+lex-cumtach-190,178,cumtach,3991,cumtach,"the act of adorning, ornamenting, building, constructing, composing, act of protecting, covering, supporting, helping, case, shrine",cumtach,http://dil.ie/13903,building,verbal_noun
+lex-cursagad-191,179,cúrsagad,3996,cúrsagad,"the act of reprimanding, reproving, correcting",cúrsagad,http://dil.ie/14015,reproving,verbal_noun
+lex-cutrummus-192,180,cutrummus,4004,cutrummus,equality,cutrummus,http://dil.ie/14062,equality,noun
+lex-dag-duine-193,181;182,dag-duine,,,,dag–duine,http://dil.ie/14139;http://dil.ie/19139,good man,prefixed_noun
+lex-dag-gnim-194,181;103,dag-gním,9102,dag-gním,"the act of doing well; good deed, good work",dag–gním,http://dil.ie/14139;http://dil.ie/26218,good deed,prefixed_noun
+lex-daltae-195,183,daltae,952,daltae,"foster child, pupil",dalte,http://dil.ie/14451,fosterling,noun
+lex-dam-196,184,dam,953,dam 1,"ox, stag",dam,http://dil.ie/14462,ox,noun
+lex-dan-197,185,dán,4019,dán,"gift, bestowal, endowment, present; skill, science, artistic faculty, art, poem",dán,http://dil.ie/14559,"gift from God, skill",noun
+lex-deacht-198,186,deächt,4028,deächt,"divinity, godhead",deacht,http://dil.ie/14811,divinity,noun
+lex-dead-199,187,deäd,969,deäd,"end, conclusion",dëad,http://dil.ie/14812,end,noun
+lex-debuith-200,188,debuith,4030,debuid,"the act of fighting; strife, contention; diversity of opinion or purpose, difference, variance, dispute or quarrel, often with a notion of vehemence",debuith,http://dil.ie/14851,"discord, strife",verbal_noun
+lex-dechor-201,189,dechor,4036,dechor,"condition of being different, dissimilarity, diversity",dechor,http://dil.ie/14907,"distinction, difference",noun
+lex-deide-202,190,déide,4040,déide,"double, consisting of two things, pair",déde,http://dil.ie/15152,two things,numeral_noun
+lex-deicsiu-203,191,déicsiu,4048,déicsiu,"the act of looking, gazing, viewing, searching, inspecting, glancing",déicsiu,http://dil.ie/15143,beholding,verbal_noun
+lex-deimnigiud-204,192,deimnigiud,4054,deimnigud,"the act of confirming, making firm, securing, fortifying, proving, attesting",deimnigud,http://dil.ie/15219,confirming,verbal_noun
+lex-delb-205,193,delb,4063,delb,"form, figure, appearance, shape, likeness, image; composing",delb,http://dil.ie/15324,"shape, form",noun
+lex-demun-206,194,demun,4067;8397,demon;demun,"demon, devil, evil spirit",demun,http://dil.ie/15433,"demon, devil",noun
+lex-denum-207,195,dénum,1001,dénum,"the act of doing, making, creating; deed, work, activity",dénum,http://dil.ie/15474,doing,verbal_noun
+lex-deoladacht-208,196,déoladacht,,,,deoladacht,http://dil.ie/15511,grace,noun
+lex-derchoiniud-209,197,derchoíniud,4079,derchoíniud,"the act of despairing; despair, dejection",derchoíniud,http://dil.ie/15598,despair,verbal_noun
+lex-deiscipul-210,198,deiscipul,4091,descipul,disciple,descipul,http://dil.ie/15268,disciple,noun
+lex-de-sercc-211,199;200,dé-ṡercc,4092,déṡerc,"love of God; charity, alms-giving",désercc,http://dil.ie/15024,love of God,compound_noun
+lex-deisimmrecht-212,201,deisimmrecht,4094,desimrecht,"example, exemplar, pattern",dessimrecht,http://dil.ie/15770,example,noun
+lex-deithiden-213,202,deithiden,4060,deithiden,"care, concern, solicitude, attention",dethiden,http://dil.ie/15300,"care, anxiety",noun
+lex-dias-214,190,diäs,8836,diäs,"pair, couple",dḯas,http://dil.ie/15982,two persons,numeral_noun
+lex-dias-215,204,diäs,,,,"días, diass",https://dil.ie/15981,ear of corn,noun
+lex-diu-216,205,diü,1024,diä,day,dia,http://dil.ie/15848,day,noun
+lex-dia-217,199,día,1023,día 2,"god, deity, God","dia, día",http://dil.ie/15847,God,noun
+lex-diabul-218,206,díabul,9674,díabul 2,"the devil, Lucifer",díabul,http://dil.ie/15865,devil,noun
+lex-didnad-219,207,dídnad,4122,dídnad,"the act of comforting, consoling, refreshing; refreshment",dídnad,http://dil.ie/16225,"consolation, relief",verbal_noun
+lex-digal-220,208,dígal,4124,dígal,"the act of avenging, punishing, vengeance",dígal,http://dil.ie/16293,"punishment, vengeance",verbal_noun
+lex-dilgud-221,209,dílgud,4133,dílgud,"the act of forgiving; forgiveness, pardon, remission, forgiving",dílgud,http://dil.ie/16416,forgiveness,verbal_noun
+lex-diltud-222,210,díltud,4142,díltud,"the act of rejecting, denying, refusing to acknowledge; gramm. negation",díltud,http://dil.ie/16976,scandal,verbal_noun
+lex-dimicem-223,211,dímicem,4149,dímicem,"the act of judging severely, condemning, disdaining",dímiccem,http://dil.ie/16537,reprobation,verbal_noun
+lex-dioth-224,212,díoth,1058,díth,"loss, absence, lack, need, desire",díth,http://dil.ie/16842,"loss, damage",noun
+lex-ditiu-225,213,dítiu,4168,dítiu,"the act of protecting; protection, defense; covering, cover, shelter",dítiu,http://dil.ie/16919,protecting,verbal_noun
+lex-diuitte-226,214,díuitte,4172,díüite,"simplicity, sincerity",dḯuitte,http://dil.ie/16965,sincerity,noun
+lex-dliged-227,215,dliged,4180,dliged,"principle, rule, norm; reason, argument; law, due, right, prerogative; dictum, authoritative statement; guiding priniciple, theory",dliged,http://dil.ie/17034,law,noun
+lex-dlum-228,216,dlúm,1064,dlúm,"mass, nucleus, aggregation",dlúm,http://dil.ie/17076,a mass,noun
+lex-dodcad-229,217,dodcad,4315,dodcad,"ill-luck, misfortune",dodced,http://dil.ie/17461,misfortune,noun
+lex-doguilse-230,218,doguilse,4319,dogailse,"grief, sadness, dejection",doguilse,http://dil.ie/17721,"grief, sorrow",noun
+lex-doenacht-231,182,dóenacht,4323,doínacht,"humanity (vs. deity), humanness, Manhood",doínecht,http://dil.ie/17562,humanity (of Christ),noun
+lex-doire-232,219,doíre,4330,doíre,"slavery, bondage, captivity",doíre,http://dil.ie/17939,"captivity, bondage",noun
+lex-domun-233,220,domun,1114,domun 1,"world, the Earth",domun,http://dil.ie/18161,world,noun
+lex-drog-gniom-234,103,drog-gníom,9110,droch-gním,the act of doing evilly; evil deed,drog–gním,http://dil.ie/18753;http://dil.ie/26218,bad deed,prefixed_noun
+lex-drui-235,221,druí,1148,druí,druid,druï,http://dil.ie/18853,druid,noun
+lex-du-alaig-236,222;223,du-álaig,4352,düálaig,"vice, fault of character",duálaig,http://dil.ie/18961,vice,prefixed_noun
+lex-duil-237,224,dúil,4356,dúil 1,"element, being, creature, thing",dúil,http://dil.ie/19089,creation,noun
+lex-duine-238,182,duine,1170,duine,"person, human being",duine,http://dil.ie/19139,person,noun
+lex-dul-239,225,dul,1174,dul 1,"the act of going; occasion, time, turn, going",dul,http://dil.ie/19189,going,verbal_noun
+lex-duilchinne-240,226,dúilchinne,4359,dúlchinne,"reward, recompense",dúlchine,http://dil.ie/19210,"recompense, reward",noun
+lex-duthracht-241,102,dúthracht,8183,dúthracht,"the act of wishing, desiring; wish, desire",dúthracht,http://dil.ie/19315,desire,verbal_noun
+lex-eicen-242,227,éicen,1218,éicen,"necessity, compulsion, violence, in response to a question, indeed, surely, of truth",écen,http://dil.ie/19711,necessity,noun
+lex-eclais-243,228,eclais,1210,eclais,the Christian church (as institution),eclais,http://dil.ie/19585,church,noun
+lex-ecndach-244,229,écndach,4390,écndach,"reviling, slandering, defaming",écndach,http://dil.ie/19622,slandering,noun
+lex-ecosc-245,230,écosc,4396,écosc,"appearance, aspect; figure of speech; kind, species",écosc(c),http://dil.ie/19455,"characteristic, argument",noun
+lex-eitsecht-246,231,éitsecht,4414,éitsecht,"the act of hearing; faculty of hearing, listening",éitsecht,https://dil.ie/20934,listening,verbal_noun
+lex-eitsid-247,231,éitsid,4415,éitsid,hearer,éitsid,,"hearer, listener",noun
+lex-ellach-248,232,ellach,7387,ellach,"combination, composition ; joining, uniting; union",ellach,http://dil.ie/19970,"communion, body of Chr.",verbal_noun
+lex-eilned-249,233,éilned,4406,éilned,"the act of polluting, corrupting; pollution, defilement, corruption",élned,http://dil.ie/19789,"polluting, defiling",verbal_noun
+lex-eipeltu-250,234,eipeltu,4435,eipeltu,"the act of dying, perishing; death",epeltu,http://dil.ie/20180,"perishing, destruction",verbal_noun
+lex-eipert-251,235,eipert,4436,eipert,"the act of saying; speech, statement, word",epert,http://dil.ie/20181,saying,verbal_noun
+lex-eipistil-252,236,eipistil,1232,eipistil,"epistle, letter",epistil,http://dil.ie/20187,epistle,noun
+lex-epscop-253,237,epscop,1268,epscop,bishop,epscop,http://dil.ie/20188,bishop,noun
+lex-ere-254,238,ere,8991,aire 2,"load, burden",ere,http://dil.ie/1884,burden,noun
+lex-eiritic-255,239,eiritic,,,,eritic,,heretic,noun
+lex-esorggon-256,240,esorggon,4485,esorgun,"the act of smiting, striking, beating, destructing; a blow",essarcon,http://dil.ie/20560,beating,verbal_noun
+lex-eiseirge-257,241,eiséirge,6460,eiséirge,resurrection,esséirge,http://dil.ie/20489,resurrection,verbal_noun
+lex-et-258,242,ét,4495,ét 1,"jealousy, emulation",ét,http://dil.ie/20623,jealousy,noun
+lex-etarcert-259,243,etarcert,4521,etarcert,"the act of interpreting, investigating, discussing; interpretation",etarcert,http://dil.ie/20792,interpretation,verbal_noun
+lex-etach-260,244,étach,4497,étach,"raiment, garment, clothing, covering",étach,http://dil.ie/20626,garment,verbal_noun
+lex-etarddibe-261,245,etarddibe,,,,etardibe,http://dil.ie/20808,destruction,verbal_noun
+lex-etarscarad-262,246,etarscarad,4513,etarscarad,"the act of separating, dividing, dissolution",etarscarad,http://dil.ie/20740,separation,verbal_noun
+lex-etarggnae-263,247,etarggnae,1295,etargnae,"the act of finding out, learning, knowing, understanding; knowledge, information (especially gained through experience), the faculty of understanding or cognition, interpretation, significance, explanation, acquaintance, signification",etergne,http://dil.ie/20712,"knowledge, proof",verbal_noun
+lex-etrad-264,248,étrad,4527,étrad,"lust, concupiscence, fornication",étrad,http://dil.ie/20894,"lust, fornication",noun
+lex-exceptaid-265,249,exceptaid,7413,exceptaid,an exception,exceptaid,http://dil.ie/20446,exception,noun
+lex-failte-266,250,fáilte,4549,fáilte,"joy, happiness; welcome, greeting, salutation",fáilte,http://dil.ie/21119,"joy, welcome",noun
+lex-faith-267,251,fáith,4557,fáith,"seer, prophet",fáith,http://dil.ie/21211,prophet,noun
+lex-feichem-268,252,féichem,4570,féichem,"claimant, creditor, debtor; one who is under obligations",féchem,http://dil.ie/21402,debtor,noun
+lex-fecht-269,253,fecht,1366,fecht,"journey, expedition, time, occasion, course",fecht,http://dil.ie/21408,"journey, duration",noun
+lex-fedb-270,254,fedb,,,,fedb,http://dil.ie/21432,widow,noun
+lex-felsub-271,255,felsub,,,,felsub,http://dil.ie/21558,philosopher,noun
+lex-fer-272,256,fer,1383,fer 1,"man, person, pl. inhabitants",fer,http://dil.ie/21665,man,noun
+lex-fergg-273,257,fergg,6490,ferg,anger,ferc,http://dil.ie/21716,anger,noun
+lex-fetarlaice-274,258,fetarlaice,4585,fetarlaic,Old Testament,fetarlic(c)e,http://dil.ie/21813,Old Covenant,noun
+lex-fiach-275,259,fíach,4595,fíach,"obligation, payment due, debt",fíach,http://dil.ie/21871,debt,noun
+lex-fiadnaise-276,260,fíadnaise,4602,fíadnaise,"witness, testimony",fíadnisse,http://dil.ie/21911,"witness, testimony",noun
+lex-fion-277,261,fíon,1442,fín 1,"wine, vine, pl grapes (?)",fín,http://dil.ie/22086,wine,noun
+lex-fior-dia-278,262;199,fíor-día,,,,fír–día,http://dil.ie/22171;http://dil.ie/15847,true God,prefixed_noun
+lex-firianugud-279,262,fíriánugud,,,,fírianugud,http://dil.ie/22201,justification,verbal_noun
+lex-firinne-280,262,fírinne,4620,fírinne,"truth; justice, righteousness",fírinne,http://dil.ie/22203,"righteousness, truth",noun
+lex-fiurt-281,263,fiurt,4626,fiurt,miracle,fiurt,http://dil.ie/22279,miracle,noun
+lex-fius-282,54,fius,4627,fius,"the act of finding out, ascertaining; knowledge, information, science","fiuss, fius, fis",http://dil.ie/22221,knowledge,verbal_noun
+lex-flaith-283,264,flaith,1478,flaith 1,"a ruler, prince, chief, lord, lordship, sovereignty",flaith,http://dil.ie/22281,"realm, kingdom",noun
+lex-flaithemnacht-284,264,flaithemnacht,4629,flaithemnacht,"rule, sovereignty; princedom",flaithemnacht,http://dil.ie/22287,sovereignty,noun
+lex-fled-285,265,fled,4632,fled,"feast, banquet, carousal",fled,http://dil.ie/22295,feast,noun
+lex-fochaith-286,266,fochaith,4678,fochaid,"the act of suffering, trying, attempting; trial, tribulation, affliction, anxiety, sorrow",fochith,http://dil.ie/22412,"temptation, tribulation",verbal_noun
+lex-fochunn-287,267,fochunn,4688,fochunn,"cause, occasion",fochonn,http://dil.ie/22484,"cause, occasion",noun
+lex-fochraicc-288,268,fochraicc,4682,fochraic,"the act of rewarding; reward, recompense, payment, price",fochricc,http://dil.ie/22497,reward,verbal_noun
+lex-focrae-289,269,fócrae,9569,fúacrae,"announcement, warning",fócrae,http://dil.ie/22543,announcement,verbal_noun
+lex-fodaitiu-290,270,fodaitiu,4691,fodaitiu,"the act of bearing, enduring",foditiu,http://dil.ie/22610,enduring,verbal_noun
+lex-fognam-291,271,fognam,4701,fognam,service,fognam,http://dil.ie/22777,service,verbal_noun
+lex-fogur-292,272,fogur,4704,fogur,"sound (used of speech, natural sounds)",fogur,http://dil.ie/22802,"speech sound, voice",noun
+lex-foigde-293,273,foigde,1514,foigde,"the act of begging; beseech, request, free victual, entertainment",foigde,http://dil.ie/22848,begging,verbal_noun
+lex-foilsigud-294,274,foilsigud,7463,foillsigud,"the act of manifesting, demonstrating",foilsigud,http://dil.ie/22891,manifesting,verbal_noun
+lex-foirbthetu-295,275,foirbthetu,4717,foirbthetu,perfection,foirbthetu,http://dil.ie/22953,"perfection, completeness",noun
+lex-foisitiu-296,276,foísitiu,4726,foísitiu,"the act of confessing; confession, profession, concession, avowal, acknowledgment",foísitiu,http://dil.ie/21189,confession,verbal_noun
+lex-folad-297,277,folad,4731,folad,"substance, material, essence; benefit, “consideration”, signification",folud,http://dil.ie/23188,"substance, essence",noun
+lex-forbae-298,278,forbae,4769,forbae,"the act of finishing, completing; end, termination, culmination",forbae,http://dil.ie/23335,completion,verbal_noun
+lex-forband-299,279,forband,4771,forbann,superstition (of heathen law or rites),forband,http://dil.ie/23355,superstitious command,noun
+lex-foircenn-300,280,foircenn,1534,forcenn,"end, final limit (generally of time or procedure), what is destined",forcenn,http://dil.ie/23431,"end, final limit",noun
+lex-foircital-301,281,foircital,1535,forcetal,"the act of teaching, instructing, admonishing, learning, studying",forcetal,http://dil.ie/23434,teaching,verbal_noun
+lex-foircitlaid-302,281,foircitlaid,4777,forcetlaid,"teacher, instructor",forcetlid,http://dil.ie/23436,teacher,noun
+lex-foirggell-303,282,foirggell,4776,forcell,"the act of bearing witness, testifying; testimony",forgell,http://dil.ie/23662,testimony,verbal_noun
+lex-formmat-304,283,formmat,4788,format,"the act of envying; envy, jealousy",format,http://dil.ie/23768,envy,verbal_noun
+lex-forngaire-305,284,forṅgaire,4791,forngaire,"the act of admonishing; admonition, injunction, direction",forṅgaire,http://dil.ie/23818,command,verbal_noun
+lex-foroil-306,285,foróil,,,,foróil,http://dil.ie/23830,"abundance, excess",noun
+lex-fortacht-307,286,fortacht,4794,fortacht,"the act of aiding, helping",fortacht,http://dil.ie/23939,help,verbal_noun
+lex-forus-308,287,forus,1549,forus,"established or fundamental principles of knowledge or science, the principle or enactments of a law, enforcement, sanction, a station that which is stable, basis, foundation, bottom, recapitulation",forus,http://dil.ie/24049,"foundation, basis",noun
+lex-frecor-309,288,frecor,,frecor,,freccor céill,https://dil.ie/24271,"putting against, attending",verbal_noun
+lex-frecrae-310,289,frecrae,4812,frecrae,the act of answering or responding; an answer,frecre,http://dil.ie/24273,answer,verbal_noun
+lex-freiscsiu-311,290,freiscsiu,4818,frescisiu,"the act of expecting, looking forward to, anticipating; expectation, hope",frescsiu,http://dil.ie/24299,hope,verbal_noun
+lex-frithorggon-312,291,frithorggon,4853,frithorgun,"the act of molesting, harassing; offense, injury, annoyance",frithorcon,http://dil.ie/24528,"offence, injury",verbal_noun
+lex-fuath-313,292,fúath,1580,fúath,"likeness, form, spectre, phantom, semblance",fúath,http://dil.ie/24715,form,noun
+lex-fugall-314,293,fugall,1584,fuigell,"the act of passing judgment on; judicial pronouncement, sentence, decision",fugell,http://dil.ie/24781,judgement,verbal_noun
+lex-fuil-315,294,fuil,1585,fuil,"blood, an effusion of blood",fuil,http://dil.ie/24792,blood,noun
+lex-fulang-316,295,fulaṅg,9749,fulang,the act of supporting; support,"folog, fulang",http://dil.ie/24943,enduring,verbal_noun
+lex-gabal-317,296,gabál,1597,gabál,"the act of taking, assuming, singing, saying (of a psalm), capturing, holding; armful, snare, ambush",gabáal,http://dil.ie/25035,taking,verbal_noun
+lex-gairdde-318,297,gairdde,4889,gairte,"shortness, briefness",gairte,http://dil.ie/25256,shortness of time,noun
+lex-galar-319,298,galar,1613,galar,"sickness, disease, physical pain, mental suffering, distress, grief, damage",galar,http://dil.ie/25293,sickness,noun
+lex-gau-320,299,gáu,4896,gáu,"falsehood, lie",gáu,http://dil.ie/25465,falsehood,noun
+lex-gein-321,300,gein,4899,gein,birth; origin,gein,http://dil.ie/25530,"birth, nativity",verbal_noun
+lex-gell-322,301,gell,4902,gell,"pledge, surety",gell,http://dil.ie/25584,pledge,noun
+lex-genas-323,302,genas,6564,genas 1,"purity, chastity",genas,http://dil.ie/25653,chastity,noun
+lex-geintlide-324,303,geintlide,1632,geintlide,"gentiles, heathens, the heathen Norsemen",gentlide,http://dil.ie/25690,gentile,noun
+lex-giun-326,305,giun,1649,giun,"mouth, edge of weapon","giun, gin",http://dil.ie/25866,mouth,noun
+lex-gluas-327,306,glúas,7518,glúas,"gloss, commentary, explanation",glúass,http://dil.ie/26170,gloss,noun
+lex-gnas-328,307,gnás,4920,gnás,"intercourse, companionship, frequentation; custom, usage",gnás,http://dil.ie/26190,companionship,noun
+lex-gniom-329,103,gníom,4928,gním,"the act of doing, acting, performing, executing; gramm. the active voice; an active verb, fact, deed, action, activity",gním,http://dil.ie/26218,deed,verbal_noun
+lex-gnuis-330,308,gnúis,4929,gnúis,"face, countenance; aspect, kind, form, species",gnúis,http://dil.ie/26261,face,noun
+lex-goire-331,309,goire,6585,goire,"piety, dutifulness, (familial) affection",goire,http://dil.ie/26324,duty to parents,noun
+lex-gortae-332,310,gortae,4937,gortae,"hunger, famine",gorte,http://dil.ie/26428,"hunger, famine",noun
+lex-grad-333,311,grád,4939,grád 1,"grade, rank, degree, order; ecclesiastical holy orders",grád,http://dil.ie/26459,"grade, rank",noun
+lex-grainne-334,312,gráinne,,,,gráinne,http://dil.ie/26507,grain,noun
+lex-guide-335,313,guide,4952,guide,the act of praying; prayer,guide,http://dil.ie/26785,prayer,verbal_noun
+lex-iarfaigid-336,314,íarfaigid,4965,íarfaigid,"the act of inquiring, challenging; inquiry, inquisition, challenge, interrogation",íarfigid,http://dil.ie/26970,asking,verbal_noun
+lex-iocc-337,315,íocc,4977,ícc,"the act of healing, saving, curing, paying for, enduring; salvation, cure, redress, satisfaction, solution, answer (to a question or problem), requital, atonement, revenge, salvation",ícc,http://dil.ie/27149,salvation,verbal_noun
+lex-aidpart-338,316,aidpart,4400,audpart,the act of offering; sacrifice,idbart,http://dil.ie/27181,offering,verbal_noun
+lex-idal-339,317,ídal,4981,ídal,idol ; heathen,ídol,http://dil.ie/27176,idol,noun
+lex-iffernn-340,318,iffernn,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
+lex-il-baill-341,319;73,il-baill,,,,il–baill,http://dil.ie/27239;http://dil.ie/5299,many members,prefixed_noun
+lex-il-beimm-342,319;75,il-béimm,,,,il–béim,http://dil.ie/27239;http://dil.ie/5566,many blows,prefixed_noun
+lex-il-belrae-343,319;77,il-bélrae,,,,il–bélre,http://dil.ie/27239;http://dil.ie/6758,many-tongued,prefixed_noun
+lex-ilar-344,320,ilar,4985,ilar,"multitude, abundance, plural (grammatical)",ilar,http://dil.ie/27244,multitude,noun
+lex-imbed-345,321,imbed,4991,imbed,"large quantity, abundance, excess, amount, number",imbed,http://dil.ie/27298,abundance,noun
+lex-imbresan-346,322,imbresan,8414,imbresan,"the act of contending, disputing; strife, feud, contention",imbressan,http://dil.ie/28035,"contention, strife",verbal_noun
+lex-immcheist-347,111,immcheist,,,,imcheist,http://dil.ie/27347,"mutual contention, strife of words",noun
+lex-immchomarc-348,323,immchomarc,4999,immchomarc,"the act of questioning; question, inquiry, interrogation",imchomarc,http://dil.ie/27387,salutation,verbal_noun
+lex-immdibe-349,324,immdibe,5003,immdibe,the act of circumcising; circumcision,imdibe,http://dil.ie/27472,circumcision,verbal_noun
+lex-immfogaibetu-350,325,immḟogaibetu,,,,imfogbaidetu,http://dil.ie/27535,continence,noun
+lex-immarmus-351,326,immarmus,5045,immarmus,"the act of transgressing; transgression, sin, (esp the Fall)",immarmus,http://dil.ie/27761,sin,verbal_noun
+lex-immradud-352,327,immrádud,5058,immrádud,"the act of thinking, deliberating",immrádud,http://dil.ie/28018,"thinking of, considering",verbal_noun
+lex-immned-353,328,immned,5051,imned,"tribulation, anxiety, suffering, sorrow",imned,http://dil.ie/27982,"tribulation, trouble",noun
+lex-immrol-354,329,immról,,,,imról,http://dil.ie/28052,"great draught, abundance",noun
+lex-immthanad-355,330,immthánad,5063;7552,immthánad;immthánud,alternation,imthánad,http://dil.ie/28130,alternation,noun
+lex-immthecht-356,331,immthecht,1770,immthecht,the act of going about,imthecht,http://dil.ie/28137,"going, marching",verbal_noun
+lex-immthrenugud-357,332,immthrénugud,5068,immthrénugud,"the act of enjoining, assuring, confirming, commending",imthrénugud,http://dil.ie/28175,"confirming, strengthening",verbal_noun
+lex-immthugae-358,333,immthugae,,,,imthuge,http://dil.ie/28183,clothing,verbal_noun
+lex-incholnugud-359,334,incholnugud,5099,incholnugud,incarnation,incholnugud,http://dil.ie/28277,incarnation,noun
+lex-indarbbae-360,335,indarbbae,1783,indarbae,"the act of expelling, driving out; expulsion, rejection",indarpe,http://dil.ie/28323,expulsion,verbal_noun
+lex-indas-361,336,indas,5104,indas,"the act of pointing out; manner, kind, nature, appearance, condition, method, way",indas,http://dil.ie/28336,"kind, manner, nature",verbal_noun
+lex-indeb-362,337,indeb,5107,indeb,"gain, increase, wealth, power",indeb,http://dil.ie/28352,"gain, riches, lucre",noun
+lex-indirge-363,338,indírge,,,,indírge,http://dil.ie/28436,injustice,noun
+lex-indnaide-364,339,indnaide,5117,indnaide,"the act of waiting, awaiting; expectation",indnide,http://dil.ie/28497,expectation,verbal_noun
+lex-inducbal-365,340,inducbál,5118;7560,inducbál;indocbál,"act of glorifying, glory, renown;the act of glorifying; renown",indocbál,http://dil.ie/28501,blessedness,verbal_noun
+lex-ingen-366,341,ingen,1799,ingen 1,"daughter, girl, virgin",ingen,http://dil.ie/28651,daughter,noun
+lex-ingnae-367,342,ingnae,5132,ingnae,"the act of understanding, comprehending","ingn(a)e, engn(a)e",http://dil.ie/20097,comprehension,verbal_noun
+lex-ingreimm-368,343,ingreimm,5137,ingreimm 1,the act of persecuting,ingreimm,http://dil.ie/28706,persecution,verbal_noun
+lex-inne-369,344,inne,5147,inne 1,"middle, center, inward part; meaning, sense, signification; quality, real value",inne,http://dil.ie/28806,"quality, attribute",noun
+lex-insce-370,345,insce,5151,insce,"saying, speech, statement, word",insce,http://dil.ie/28887,"word, saying, utterance",noun
+lex-intliucht-371,346,intliucht,5164,intliucht,"meaning, signification, mind",intliucht,http://dil.ie/28959,"mind, understanding",noun
+lex-intamail-372,347,intamail,5156,intamail,"the act of imitating, simulation, pretence, semblance, comparison, likeness",intsamil,http://dil.ie/28925,imitation,verbal_noun
+lex-airail-373,348,airáil,4440,airáil,"enjoining, urging, instigating",iráil,http://dil.ie/20202,enjoining,noun
+lex-airbag-374,349,airbág,,,,irbág,http://dil.ie/1605,"glorying, boasting",verbal_noun
+lex-airchrae-375,350,airchrae,,,,irchre,http://dil.ie/1759,"perishing, destroying",verbal_noun
+lex-ereschae-376,351,ereschae,,,,iresche,http://dil.ie/29053,faith,noun
+lex-eres-377,351,eres,5174,ires,"faith, religion, belief","iress, ires",http://dil.ie/29051,(Christian) faith (in God),noun
+lex-airfocrae-378,352,airḟócrae,,,,irfócre,http://dil.ie/1976,"suggesting, warning",verbal_noun
+lex-airgal-379,353,airgal,3285,airgal,"the act of fighting; strife, contest, line of battle, battalion",irgal,http://dil.ie/2010,"conflict, strife",verbal_noun
+lex-airnaigde-380,354,airnaigde,151,airnigde,the act of praying; prayer,irnigde,http://dil.ie/2324,prayer,verbal_noun
+lex-ittge-381,355,ittge,,,,itge,http://dil.ie/29148,prayer,noun
+lex-iudaide-383,356,Iúdaide,,iúdaidei,,Iúdide,http://dil.ie/29202,Jew,proper_noun
+lex-lae-384,357,laë,1862,laë,"day, daytime",laa,http://dil.ie/29234,day,noun
+lex-lam-385,358,lám,1883,lám,"hand, arm",láam,http://dil.ie/29507,hand,noun
+lex-labrad-386,359,labrad,1863,labrad,"the act of speaking; speech, utterance",labrad,http://dil.ie/29249,speaking,verbal_noun
+lex-laithe-387,357,laithe,5206,laithe,day,laithe,http://dil.ie/29234,day,noun
+lex-lanamnas-388,360,lánamnas,8357,lánamnus,partership; marriage,lánamnas,http://dil.ie/29549,sexual relations,noun
+lex-lanae-389,361,lánae,5210;7576,lánae,"fullness, completeness",láne,http://dil.ie/29420,fulness,noun
+lex-lann-390,362,lann,8056,lann,"thin plate, layer; blade, sword",lann,http://dil.ie/29565,"thin plate, crown",noun
+lex-lathar-391,363,láthar,5214,láthar,"arrangement, disposition, interpretation, appointment, design; machination, wiles; vigour, energy, power; place, position, point, space",láthar,http://dil.ie/29631,"disposition, design",noun
+lex-legad-392,364,legad,5222,legad,"the act of melting, dissolving, smelting, decaying, perishing, liquifying",legad,http://dil.ie/29736,dissolution,verbal_noun
+lex-leigend-393,365,léigend,1901,léigend,"the act of reading, studying; text",légend,http://dil.ie/29778,"reading, studying",verbal_noun
+lex-leire-394,366,léire,1905,léire,"zeal, devotion, care, assiduity, exertion, pains",léire,http://dil.ie/29812,diligence,noun
+lex-les-395,367,les,1916,les 1,"relief, benefit, advantage, good, profit, interest, in compounds: substitute, not properly belonging, cause, case, affair, matter",less,http://dil.ie/29990,benefit,noun
+lex-lestar-396,368,lestar,5234,lestar,"vessel, container",lestar,http://dil.ie/30022,vessel,noun
+lex-leth-397,369,leth,1919,leth,"half, side, direction, in compounds: half-, semi-, quasi-",leth,http://dil.ie/30036,"side, direction",noun
+lex-lie-398,370,lië,1932,liä 1,"stone, pillar stone, whetstone",lie,http://dil.ie/30096,stone,noun
+lex-li-399,371,lí,1931;9078,lí;lí 1,"beauty, lustre, glory",líi,http://dil.ie/30091,colour (of body),noun
+lex-lin-400,372,lín,1947,lín 1,"number, full number, complement, multitude (of persons)",línn,http://dil.ie/30233,multitude,noun
+lex-lobad-401,373,lobad,5258,lobad,"the act of putrefying, decaying",lobad,http://dil.ie/30392,decaying,verbal_noun
+lex-lobrae-402,374,lobrae,5260,lobrae,"weakness, infirmity, sickness",lobre,http://dil.ie/30400,"infirmity, weakness",noun
+lex-loc-403,375,loc,5263,loc,"place, position",locc,http://dil.ie/30411,place,noun
+lex-log-404,376,lóg,5267,lóg,"value, worth, equivalent; purchase-price, act of buying; interest, profit, advantage ; reward, requital, compensation, payment, price, fee, wage",lóg,http://dil.ie/30495,reward,noun
+lex-lucht-405,377,lucht,1989,lucht,"contents, cargo, people, inhabitant",luct,http://dil.ie/30908,category of people,noun
+lex-luige-406,378,luige,1992;6666,luige;lugae,the act of swearing; oath,luige,http://dil.ie/30984,oath,verbal_noun
+lex-mam-407,379,mám,5294,mám 1,yoke,máam,http://dil.ie/31500,yoke,noun
+lex-macc-408,380,macc,2011,macc 1,"son, male descendent, young man, son, The Son (i.e. Christ), young male animal, boy, male descendant",macc,http://dil.ie/31166,son,noun
+lex-machdad-409,381,machdad,5296,machdad,"wonder, astonishment",machthad,http://dil.ie/31203,marvel,noun
+lex-maigister-410,382,maigister,,magister,,magister,http://dil.ie/31317,"master, teacher",noun
+lex-moen-411,383,móen,2136,móen,"gift, benefit, in pl.: treasures, possessions, wealth",maín,http://dil.ie/31345,treasure,noun
+lex-martrae-412,384,martrae,2065,martrae,"martyrdom, violent death, relics",martrae,http://dil.ie/31640,martyrdom,noun
+lex-mebul-413,385,mebul,2075;8396,mebul;mebol,"shame, disgrace, deceit, treachery, a cause of shame;shame, disgrace, deceit, treachery",mebul,http://dil.ie/31708,shame,noun
+lex-meit-414,386,méit,2081,méit,"size, quantity, as rel. adv. introducing a subord. clause: as much as, as far as, to the extent that amount, so much, Greatness, magnitude (of size, quantity, number, extent, degree)",méit,http://dil.ie/31852,"greatness, magnitude",noun
+lex-menmmae-415,387,menmmae,5343,menmae,"heed, attention; mind, thought; the thinking faculty, the understanding, heed, state of mind, feelings; spirit, courage, self-confidence; desire, inclination; pleasure, elation",menme,http://dil.ie/31948,mind,noun
+lex-meirtrech-416,388,meirtrech,7643,mertrech,"a harlot, prostitute",mertrech,http://dil.ie/31804,harlot,noun
+lex-mes-417,389,mes,2095,mes 1,"the act of judging, correcting; emendation, opinion, verdict",mess,http://dil.ie/32021,judgement,verbal_noun
+lex-mil-418,390,míl,6704,míl 2,soldier,míl,http://dil.ie/32222,soldier,noun
+lex-mile-419,391,míle,2112,míle,thousand,míle,http://dil.ie/32234,thousand,numeral_noun
+lex-milte-420,390,mílte,,,,mílte,http://dil.ie/32272,military service,noun
+lex-miscuis-421,392,miscuis,5380,miscuis,"hatred, dislike",miscuis,http://dil.ie/32351,"hatred, emnity",noun
+lex-mod-422,393,mod,5388,mod,"measure, limit; manner, mode, way, fashion",mod,http://dil.ie/32427,"manner, way",noun
+lex-moidem-423,394,moídem,5391,moídem,"a boast, matter for glorying",móidem,http://dil.ie/32457,boasting,verbal_noun
+lex-molad-424,395,molad,5394,molad,"the act of praising; song of praise, panegyric",molad,http://dil.ie/32490,praising,verbal_noun
+lex-morad-425,396,mórad,,,,mórad,http://dil.ie/32551,exalting,verbal_noun
+lex-mrath-426,397,mrath,5407,mrath,the act of betraying; treachery,mrath,http://dil.ie/32620,"betraying, deceiving",noun
+lex-mug-427,398,mug,5413,mug,a male slave or servant,mug,http://dil.ie/32675,slave,noun
+lex-munad-428,399,múnad,,,,múnad,http://dil.ie/32834,teaching,verbal_noun
+lex-muinter-429,400,muinter,2187,muinter,"family, household, followers, adherents, attendents, troops, party, a community or group of persons connected by some common bond",muntar,http://dil.ie/32754,community,noun
+lex-neb-buith-430,401;97,neb-buith,,,,neb–buith,http://dil.ie/33072;http://dil.ie/7435,non-being,prefixed_noun
+lex-neb-chomalnad-431,401;402,neb-chomalnad,,,,neb–chomalnad,http://dil.ie/33072;http://dil.ie/10712,un-fulfilment,prefixed_noun
+lex-neb-martu-432,401;403,neb-martu,,,,neb–martu,http://dil.ie/33072;http://dil.ie/31588,immortality,prefixed_noun
+lex-neb-thabart-433,401;404,neb-thabart,,,,neb–thabart,http://dil.ie/33072;http://dil.ie/39363,non-inflicting,prefixed_noun
+lex-nem-434,405,nem,2243,nem,"heaven, the abode of the blessed, ceiling, sky",nem,http://dil.ie/33070,heaven,noun
+lex-nert-435,406,nert,2249,nert,"strength, force",nert,http://dil.ie/33116,"strength, power",noun
+lex-nertad-436,406,nertad,5446,nertad,"the act of strengthening, exhorting, urging",nertad,http://dil.ie/33117,strengthening,verbal_noun
+lex-nochtae-437,407,nochtae,,,,"nochte, nocte",http://dil.ie/33225,nakedness,noun
+lex-noebad-438,408,nóebad,,,,noíbad,http://dil.ie/33246,sanctification,verbal_noun
+lex-nu-fiadnaise-439,409;260,nú-ḟiadnaise,5463,núḟiadnaise,New Testament,nuiednisse,http://dil.ie/33352,New Testament,prefixed_noun
+lex-uacht-440,410,úacht,3030,úacht,"cold, coldness",ócht,http://dil.ie/42580,cold,noun
+lex-ogae-441,411,ógae,2344,ógae,"wholeness, perfection, chastity, celibacy, virginity",óge,http://dil.ie/33572,"celibacy, virginity",noun
+lex-oigi-442,412,oígi,2348,oígi,"guest, stranger, esp. one receiving hospitality",oígi,http://dil.ie/33642,guest,noun
+lex-oenur-443,413,óenur,6756;7690,óenar;óenḟer,"one man;single individual, one alone",oínar,http://dil.ie/33521,single individual,numeral_noun
+lex-oentu-444,413,óentu,5482,óentu,"oneness, unity, consent",oíntu,http://dil.ie/33548,unity,noun
+lex-oipred-445,414,oipred,5483,oipred,"act of working; activity, operation, performance",oipred,http://dil.ie/33686,"work, operation",noun
+lex-olc-446,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,evil-doer,noun
+lex-olc-447,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,"evil, wrong",noun
+lex-omun-448,416,omun,5504,omun,"fear, the state of being afraid",ómon,http://dil.ie/33853,fear,noun
+lex-uar-449,417,úar,6123,úar 2,"hour, time, occasion; point of time","ór, úar",http://dil.ie/42763,"hour, time",noun
+lex-ordd-450,418,ordd,5515,ord 1,"order, sequence, class of persons",ord,http://dil.ie/33966,"practice, procedure, order",noun
+lex-orbbae-451,419,orbbae,5513,orbae,"patrimony, heritage, real estate",orpe,http://dil.ie/33941,"inheritance, patrimony",noun
+lex-peccad-452,420,peccad,5523,peccad,sin,peccad,http://dil.ie/34237,sin,noun
+lex-peccthach-453,420,peccthach,5524,pecthach,"sinful, committing sin",pecthach,http://dil.ie/34240,sinner,noun
+lex-pian-454,421,pían,5530,pían,"penalty, punishment, torment, pain",pén,http://dil.ie/34308,punishment,noun
+lex-pendait-455,422,pendait,9345,pendait,penance,penn(a)it,http://dil.ie/34273,penitence,noun
+lex-persan-456,423,persan,5529,persan,"person, character, quality; gramm. individual; appearance; person of the Trinity",persan,http://dil.ie/34285,person,noun
+lex-popul-457,424,popul,5537,popul,"a group of people, a tribe, people held together by a common interest, also used for members of a religious community",popul,http://dil.ie/34472,people,noun
+lex-preicept-458,425,preicept,5541,preicept,act of teaching or preaching,precept,http://dil.ie/34520,preaching,noun
+lex-preiceptoir-459,425,preiceptóir,5540,preiceptóir,"teacher, preacher",preceptóir,http://dil.ie/34521,preacher,noun
+lex-primit-460,426,prímit,5544,prímit,first-fruit,primit,http://dil.ie/34570,first fruit,noun
+lex-proind-461,427,proind,2485,proind,"A meal, refection, generally of the chief meal of the day",proind,http://dil.ie/34594,meal,noun
+lex-rann-462,428,rann,2525,rann 1,"part, share, division, part (of speech), portion",rann,http://dil.ie/34804,"part, portion",noun
+lex-rath-463,429,rath,5553,rath 1,grace,rath,http://dil.ie/34833,grace,verbal_noun
+lex-ree-464,430,reë,5555,ré,"space, interval of time ; period; lapse of time; space, intervening distance",ré,http://dil.ie/34864,period of time,noun
+lex-recht-465,431,recht,5557,recht,law,recht,http://dil.ie/34898,law,noun
+lex-ret-466,432,rét,5603,rét 1,thing,réit,http://dil.ie/35158,"thing, deed, matter",noun
+lex-relad-467,433,rélad,5562,rélad,"the act of making manifest, showing, declaring",rélad,http://dil.ie/34988,making manifest,verbal_noun
+lex-riar-468,434,ríar,2566,ríar 1,"will, demand, claim, supplying needs, maintenance",ríar,http://dil.ie/35223,"will, wish",noun
+lex-richtu-469,435,ríchtu,5608,ríchtu,"the act of reaching, coming to, arriving",ríchtu,http://dil.ie/35261,"reaching, arrival",verbal_noun
+lex-ri-470,436,rí,2563,rí,king,ríi,http://dil.ie/35181,king,noun
+lex-riuth-471,437,riuth,2584,riuth,"the act of running; a run, rapid course",riuth,http://dil.ie/35354,"running, course",verbal_noun
+lex-rosc-472,438,rosc,5631,rosc,eye,rosc,http://dil.ie/35559,eye,noun
+lex-ruccae-473,439,ruccae,5633,ruccae,"shame, disgrace",rucce,http://dil.ie/35672,"shame, disgrace",noun
+lex-run-474,440,rún,5636,rún,"mystery, secret",rún,http://dil.ie/35787,mystery,noun
+lex-sapait-475,441,sapait,5638,sabbait,the Sabbath,"sabait, sapait",http://dil.ie/35837,Sabbath,noun
+lex-sacart-476,442,sacart,2634,sacart,priest,sacart,http://dil.ie/35846,priest,noun
+lex-saeb-apstal-477,443;55,sáeb-apstal,,,,saíb–apstal,http://dil.ie/35877;http://dil.ie/3887,false apostle,prefixed_noun
+lex-saigid-478,444,saigid,2642,saigid 2,"the act of seeking, aiming at, trying to get, advancing, attacking",saigid,http://dil.ie/35952,discussing,verbal_noun
+lex-saegol-479,445,sáegol,5648,sáegol,"an age, period of time, duration, human lifetime",saígul,http://dil.ie/35896,lifetime,noun
+lex-sain-lae-480,446;357,sain-laë,,,,sain–láa,"http://dil.ie/36008,",particular day,prefixed_noun
+lex-sainred-481,446,sainred,5656,sainred,"peculiar or belonging to (an individual), characteristic of; particular, special, set apart, peculiar property",sainred,http://dil.ie/36030,special property,noun
+lex-saeth-482,447,sáeth,2638,sáeth,"trouble, hardship, distress, tribulation; disease",saíth,http://dil.ie/35912,tribulation,noun
+lex-saethar-483,447,sáethar,5662,sáethar,"labor, work, toil; difficulty, trouble, effort, exertion",saíthar,http://dil.ie/35915,"labour, toil",noun
+lex-salm-484,448,salm,5666,salm,psalm,salm,http://dil.ie/36097,psalm,noun
+lex-sant-485,449,sant,5670,sant,"strong desire, eagerness",sant,http://dil.ie/36189,greed,noun
+lex-scarad-486,450,scarad,9420,scarad,the act of separating; separation,scarad,http://dil.ie/36326,separating,verbal_noun
+lex-scel-487,104,scél,5682,scél,"story, tale, narration ; tiding, news",scél,http://dil.ie/36385,"news, story",noun
+lex-scribend-488,451,scríbend,5689,scríbend,"act of writing ; record, book, manuscript; (holy); letter, message",scríbent,http://dil.ie/36641,writing,verbal_noun
+lex-seichem-489,452,seichem,5708,seichem,"the act of following, imitating",sechem,http://dil.ie/36757,imitating,verbal_noun
+lex-sechtae-490,453,sechtae,7784,sechtae 2,"simulation, pretence",sechte,http://dil.ie/36795,"simulation, hypocrisy",noun
+lex-secndap-491,454,secndap,2706,secnap,the prior of a monastery,secṅdap,http://dil.ie/36818,vice-abbot,noun
+lex-sen-duine-492,182,sen-duine,,,,sen–duine,http://dil.ie/37130,old person,prefixed_noun
+lex-sen-mathair-493,455;456,sen-máthair,,,,sen–máthir,http://dil.ie/37152,grandmother,prefixed_noun
+lex-sen-pheccad-494,455;420,sen-pheccad,,,,sen–pecad,http://dil.ie/37090;http://dil.ie/34237,old sin,prefixed_noun
+lex-senchas-495,455,senchas,5724,senchas,"old tales, ancient history, tradition, genealogy, traditional law",senchas,http://dil.ie/37124,"tradition, lore",noun
+lex-seinmm-496,457,seinmm,6850,seinm,the act of playing a musical instrument,senim,http://dil.ie/36943,sound,verbal_noun
+lex-serbae-497,458,serbae,,,,serbe,http://dil.ie/37217,bitterness,noun
+lex-sercc-498,200,sercc,5732,serc,"the act of loving; love, affection",sercc,http://dil.ie/37233,love,verbal_noun
+lex-set-499,459,sét,2745,sét 2,"valuable object, chattel, treasure",sét,http://dil.ie/37323,object of value,noun
+lex-set-500,460,sét,2744,sét 1,"way, path, manner",sét,http://dil.ie/37322,"path, way",noun
+lex-seitig-501,461,séitig,9141,séitig,wife,sétig,http://dil.ie/37013,wife,noun
+lex-sians-502,462,síans,5741,síans,"sense, perception, perceptive faculty, meaning",síans,http://dil.ie/37381,sense,noun
+lex-sid-503,463,síd,2756,síd 2,"peace, goodwill, truce",síid,http://dil.ie/37442,peace,noun
+lex-siol-504,464,síol,2760,síl,"seed, origin, offspring; the seed of plants and animals",síl,http://dil.ie/37503,seed,noun
+lex-smacht-505,465,smacht,5766,smacht,"rule, ordinance, regulation, command, stipulation",smacht,http://dil.ie/38009,"rule, institute",noun
+lex-so-scelae-506,466;104,so-scélae,5812,soscélae,"good news, Gospel",so–scéle,http://dil.ie/38384,gospel,prefixed_noun
+lex-sochuide-507,467,sochuide,2800,sochuide,"multitude, crowd, host",sochuide,http://dil.ie/38230,multitude,noun
+lex-soilse-508,468,soilse,5783,soilse,"brightness, light",soilse,http://dil.ie/38344,light,noun
+lex-soerad-509,469,sóerad,5789,sóerad,"the act of freeing, delivering; deliverance",soírad,http://dil.ie/35901,saving,verbal_noun
+lex-soire-510,469,soíre,5792,soíre,"freedom, liberty, nobility (of race, character etc.)",soíre,http://dil.ie/36041,freedom,noun
+lex-sonartae-511,470,sonartae,5807,sonartae,"strength, firmness, courage",sonirte,http://dil.ie/38467,"firmness of body, faith",noun
+lex-spirut-512,471,spirut,5815,spirut,spirit,spirut,http://dil.ie/38630,spirit,noun
+lex-suainem-513,472,súainem,5826,súainem,"rope, cord, string",súainem,http://dil.ie/39071,rope,noun
+lex-su-alaig-514,223,su-álaig,,,,súalig,http://dil.ie/39093,virtue,prefixed_noun
+lex-suide-515,473,suide,5834,suide 2,the act of sitting (down); seat,suide,http://dil.ie/39196,sitting,verbal_noun
+lex-suil-516,474,súil,5838,súil,eye,súil,http://dil.ie/39215,eye,noun
+lex-tabairt-517,404,tabairt,2863,tabart 1,"the act of giving, bringing, taking, placing; the act of imposing on, putting on, inflicting",tabart,http://dil.ie/39363,giving,verbal_noun
+lex-taidbsiu-518,475,taidbsiu,5855,taidbsiu,"the act of showing, pointing out, manifesting, demonstrating; appearance, form",taidbsiu,http://dil.ie/39549,appearance,verbal_noun
+lex-taidchor-519,476,taidchor,5877,taithchor,the act of returning,taidchur,http://dil.ie/40221,return,verbal_noun
+lex-taidchricc-520,477,taidchricc,5856,taidchrecc,"the act of redeeming; redemption, salvation",taidchricc,http://dil.ie/39879,redemption,verbal_noun
+lex-tairggiud-521,478,táirggiud,5864,táirciud,"the act of causing, bringing about; cause",táirciud,http://dil.ie/40092,causing,verbal_noun
+lex-tairisem-522,479,tairisem,5865;8553,tairisem;tairissem,"the act of remaining, stopping;the act of remaining, staying, continuing, delaying, withstanding, resisting, standing out against; persistence, stability",tairissem,http://dil.ie/39731,abiding,verbal_noun
+lex-tairmmthecht-523,480,tairmmthecht,5869,tairmthecht,"the act of traversing; passage, transition, transgression, sin",tairmthecht,http://dil.ie/39768,transgressing,verbal_noun
+lex-tairngire-524,481,tairṅgire,5870,tairngire,the act of promising; prophecy,tairngire,http://dil.ie/39777,promise,verbal_noun
+lex-talam-525,482,talam,5880,talam,"earth, world; ground ; land",talam,http://dil.ie/39932,earth,noun
+lex-tathair-526,483,tathaír,,,,tathaír,http://dil.ie/40215,condemning,verbal_noun
+lex-techt-527,225,techt,2894,techt 1,"the act of going; messenger, gramm.ending",techt,http://dil.ie/40269,going,verbal_noun
+lex-techtairecht-528,225,techtairecht,5901,techtairecht,"message, errand, mission, embassy",techtairecht,http://dil.ie/40286,embassy,noun
+lex-tecmall-529,484,tecmall,9614,tecmall,"the act of collecting, gathering",tecmallad,http://dil.ie/40312,"gathering, collection",verbal_noun
+lex-techtaire-530,225,techtaire,9885,techtaire,messanger,tectaire,http://dil.ie/40285,messenger,noun
+lex-tech-531,485,tech,2893,tech,"house, dwelling, mansion, temple",teg,http://dil.ie/40265,house,noun
+lex-tegdais-532,485,tegdais,5908,tegdais,"house, dwelling, mansion",tegdais,http://dil.ie/40335,household,noun
+lex-teglach-533,485,teglach,6903,teglach,"inmates of a house, household",teglach,http://dil.ie/40338,family,noun
+lex-teist-534,486,teist,9580,teist,witness,teist,http://dil.ie/40443,testimony,noun
+lex-teimel-535,487,teimel,5922,teimel,"darkness, gloom",temel,http://dil.ie/40370,"darkness, obscurity",noun
+lex-tempul-536,488,tempul,5923,tempul,"temple, church",tempul,http://dil.ie/40485,temple,noun
+lex-tairchomracc-537,489,tairchomracc,5929,terchomracc,"the act of assembling; assembly, gathering, convocation, muster",terchomrac,http://dil.ie/40549,"assembly, congregation",verbal_noun
+lex-testas-538,486,testas,,,,testas,http://dil.ie/40619,witness,noun
+lex-teistimin-539,486,teistimin,5935,testimin,"text, scriptural quotation, passage, testimony",testimin,http://dil.ie/40445,testimony,noun
+lex-tichtu-540,225,tíchtu,2931,tíchtu,"the act of coming, coming to",tíchtu,http://dil.ie/40709,coming,verbal_noun
+lex-timmnae-541,490,timmnae,5944,timmnae,act of commanding; precept,timne,http://dil.ie/40791,"commandment, precept",verbal_noun
+lex-timmthirecht-542,491,timmthirecht,5945,timmthirecht,"the act of serving, ministering to; ministration",timthirecht,http://dil.ie/40825,"serving, service",verbal_noun
+lex-tinchosc-543,492,tinchosc,,,,tinchosc,http://dil.ie/40846,teaching,verbal_noun
+lex-tindnaccul-544,493,tindnaccul,5951,tindnacol,"the act of bestowing, handing over; gift",tindnacul,http://dil.ie/40857,bestowing,verbal_noun
+lex-tinol-545,149,tinól,,,,tinól,http://dil.ie/40918,"collection, gathering",verbal_noun
+lex-tintud-546,494,tintúd,2939,tintúd,"the act of returning, translating; conversion, translation, recalling",tintuúth,http://dil.ie/40928,conversion,verbal_noun
+lex-tir-547,495,tír,2941,tír,"land; territory, country; earth, ground",tír,http://dil.ie/40940,land,noun
+lex-titul-548,496,titul,5963,titul,"title, heading",titul,http://dil.ie/40988,title,noun
+lex-tobae-549,497,tóbae,5968,tóbae,"the act of cutting (down), cutting off, removing; incision",tóbe,http://dil.ie/41046,"cutting off, severance",verbal_noun
+lex-toidiusgud-550,498,toidiusgud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
+lex-togairm-551,499,togairm,5985,togairm,"the act of invoking, petitioning, calling; appellation, vocation",togairm,http://dil.ie/41155,invoking,verbal_noun
+lex-toeb-552,500,tóeb,2951,tóeb,side (of body),tóib,http://dil.ie/39454,side,noun
+lex-toimtiu-553,501,toimtiu,5994,toimtiu,act of thinking; opinion,toimtiu,http://dil.ie/41229,"thinking, opinion",verbal_noun
+lex-toiniud-554,502,toíniud,5995,tóiniud,"the act of descending, departing, setting",tóiniud,http://dil.ie/41236,"fall, departing",verbal_noun
+lex-toisc-555,503,toisc,8388,toisc,"need, necessity; wish, desire",toisc,http://dil.ie/41297,"need, necessity",noun
+lex-tol-556,504,tol,2958,tol,"desire, appetite, will, affection",tol,http://dil.ie/41316,will,noun
+lex-tomalt-557,505,tomalt,9756,tomalt,"the act of consuming, using; consumption",tomalt,http://dil.ie/41363,consuming,verbal_noun
+lex-torad-558,506,torad,6010,torad,"produce, increase, fruit, increase; result, profit",torad,http://dil.ie/43360,fruit,noun
+lex-torbae-559,507,torbae,6016,torbae,"the act of profiting; profit, benefit, usefulness, labor, work",torbae,http://dil.ie/41441,"profit, benefit",verbal_noun
+lex-toros-560,508,toros,9720,toirse,sorrow; act of complaining,toros,http://dil.ie/41280,"sadness, sorrow",noun
+lex-tosach-561,509,tosach,2976,tosach,"beginning, precedence",tosach,http://dil.ie/41498,beginning,noun
+lex-toischid-562,510,toischid,9318,taiscid,"need, necessity; food, sustenance",toschid,http://dil.ie/41298,giving sustenance,noun
+lex-treide-563,511,tréide,6043,tréide,"three things ; triple, consisting of three things",tréde,http://dil.ie/41741,triad,numeral_noun
+lex-triar-564,511,triär,2999,triär,three persons or things,tríar,http://dil.ie/41892,three persons,numeral_noun
+lex-troccaire-565,513,tróccaire,6061,trócaire,mercy,trócaire,http://dil.ie/41974,mercy,noun
+lex-tuarggun-566,514,túarggun,6079,túargun,"the act of grinding or threshing corn, scutching flax, wearing away",túarcun,http://dil.ie/42222,treading,verbal_noun
+lex-tuarae-567,515,túarae,6951,túarae,"food, sustenance",túare,http://dil.ie/42214,"food, sustenance",noun
+lex-tuath-568,516,túath,3012,túath,"people, tribe, country",túath,http://dil.ie/42241,kingdom,noun
+lex-tuidecht-569,225,tuidecht,3017,tuidecht,"the act of coming; arrival, advent",tuidecht,http://dil.ie/42299,"going against, resisting",verbal_noun
+lex-tuistid-570,517,tuistid,6100,tuistid,"parent, creator",tuistid,http://dil.ie/42428,"begetter, parent",noun
+lex-tuistiu-571,517,tuistiu,6101,tuistiu,"the act of creating, engendering, begetting; procreation",tuistiu,http://dil.ie/42432,bearing children,verbal_noun
+lex-uabar-572,518,úabar,,,,úabar,http://dil.ie/42574,vanity,noun
+lex-uailbe-573,519,úailbe,,,,úailbe,http://dil.ie/42628,levity,noun
+lex-uall-574,520,úall,6119,úall 1,"pride, arrogance, vainglory",úall,http://dil.ie/42708,"pride, arrogance",noun
+lex-uathad-575,521,úathad,3053,úathad,"gramm. singular, a small number, a few, rare",úathad,http://dil.ie/42815,"small number, few",noun
+lex-umaldoit-576,522,umaldóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
+lex-utmuille-577,523,utmuille,6144,utmaille,"movement, restlessness, unsteadiness, instability",utmuille,http://dil.ie/43341,"unsteadiness, restlessness",noun
