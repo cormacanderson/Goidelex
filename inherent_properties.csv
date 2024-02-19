@@ -27,7 +27,7 @@ stem_io,io-stem,This flexeme is inflected as an io-stem,morphosyntax,nominal_ste
 stem_irreg,Irregular noun,The inflection of this flexeme is irregular,morphosyntax,nominal_stem
 stem_k,k-stem noun,This flexeme is inflected as a k-stem,morphosyntax,nominal_stem
 stem_n,n-stem noun,This flexeme is inflected as an n-stem,morphosyntax,nominal_stem
-stem_n/ā,"n-stem noun, ā-stem genitive singular","This flexeme is inflected as an n-stem, except in the genitive singular, where it is inflected like an ā-stem",nominal_stem,morphosyntax
+stem_n/ā,"n-stem noun, ā-stem genitive singular","This flexeme is inflected as an n-stem, except in the genitive singular, where it is inflected like an ā-stem",morphosyntax,nominal_stem
 stem_nk,nk-stem noun,This flexeme is inflected as an nk-stem,morphosyntax,nominal_stem
 stem_nt,nt-stem noun,This flexeme is inflected as an nt-stem,morphosyntax,nominal_stem
 stem_o,o-stem noun,This flexeme is inflected as an o-stem,morphosyntax,nominal_stem

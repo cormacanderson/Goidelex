@@ -163,7 +163,7 @@
             "title": "Inherent Properties",
             "description": "semicolon-separated foreign keys identifying non-predictable phonological or morphological information about the lexeme in the inherent properties table",
             "constraints": {
-              "pattern": "sync|sync_vf|sync_pal|sync_vel|sync_none|sync_nd|alt_schwa|alt_eo|alt_iu|alt_vel_stem|alt_sync_epen|alt_none|gen_fem|gen_masc|gen_neut|gen_unk|stem_ā|stem_i|stem_ī|stem_ī/ā|stem_ī/ā/n|stem_iā|stem_indecl|stem_indecl/i|stem_io|stem_irreg|stem_k|stem_n|stem_nk|stem_nt|stem_o|stem_r|stem_s|stem_t|stem_u|stem_unk|num_all|num_sg|num_pl(;(vals))+"
+              "pattern": "sync|sync_vf|sync_pal|sync_vel|sync_none|sync_nd|alt_schwa|alt_eo|alt_iu|alt_vel_stem|alt_sync_epen|alt_none|gen_fem|gen_masc|gen_neut|gen_unk|stem_ā|stem_i|stem_ī|stem_ī/ā|stem_ī/ā/n|stem_iā|stem_indecl|stem_indecl/i|stem_io|stem_irreg|stem_k|stem_n|stem_n/ā|stem_nk|stem_nt|stem_o|stem_r|stem_s|stem_t|stem_u|stem_unk|num_all|num_sg|num_pl(;(vals))+"
             }
           },
           {
