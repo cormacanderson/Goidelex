@@ -1,21 +1,15 @@
-textid,label,Comment,reference
+text_id,label,Comment,reference
 1,Annals of Ulster,,Mac Airt and Mac Niocaill 1983
 2,Vita Columbae,,"Anderson and Anderson 1961; Thes. II, 272–280"
 3,Baile Chuinn,,Murray and Bhreathnach 2005
-4,Disciples and Relatives of Columba,,"Anderson and Anderson 1961;
-Thes. II, 281"
+4,Disciples and Relatives of Columba,,"Anderson and Anderson 1961;Thes. II, 281"
 5,Poems of Blathmac,,Barrett 2018; Carney 1964
-6,Milan Glosses,,"Griffith and Stifter 2013a;
-Thes. I, 7–483"
-7,St Gall Priscian,,"Bauer 2015a;
-Thes. II, 49–224"
+6,Milan Glosses,,"Griffith and Stifter 2013a;Thes. I, 7–483"
+7,St Gall Priscian,,"Bauer 2015a;Thes. II, 49–224"
 8,Paris Priscian,,Bauer 2015a
-9,Karlsruhe Priscian,,"Bauer 2015a;
-Thes. II, 225–230"
-10,Leiden Priscian,,"Bauer 2015a;
-Thes. II, 231"
-11,Milan Priscian,,"Bauer 2015a;
-Thes. II, 232"
+9,Karlsruhe Priscian,,"Bauer 2015a;Thes. II, 225–230"
+10,Leiden Priscian,,"Bauer 2015a;Thes. II, 231"
+11,Milan Priscian,,"Bauer 2015a;Thes. II, 232"
 12,Armagh Glosses Minor Glosses,,"Thes. I, 494–498; II, 45"
 13,Berlin Augustine Minor Glosses,,"Stern 1910, 479-485"
 14,Bern Glossae Divinae Historiae Minor Glosses,,"Thes. I, 2"
@@ -24,8 +18,7 @@ Thes. II, 232"
 17,Fulda Gospels Minor Glosses,,"Meyer 1912, 173-174"
 18,Cambridge(Corpus) Canons Minor Glosses,,"Thes. II, 38"
 19,Cambridge(Corpus) Glossary Minor Glosses,,"Lindsay 1921, 128"
-20,Cambridge(UL) Juvencus Minor Glosses,,"McKee 2000;
-Thes. II, 44"
+20,Cambridge(UL) Juvencus Minor Glosses,,"McKee 2000;Thes. II, 44"
 21,Karlsruhe Augustine Minor Glosses,,"Thes. II, 1–9"
 22,Karlsruhe Bede Minor Glosses,,"Thes. II, 10–30"
 23,Laon Cassiodorus Minor Glosses,,"Meyer 1912, 175–176"

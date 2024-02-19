@@ -1,0 +1,328 @@
+{
+  "name": "goidelex",
+  "title": "Goidelex",
+  "profile": "data-package",
+  "contributors": [
+    {
+      "title": "Cormac Anderson"
+    },
+    {
+      "title": "Theodorus Fransen"
+    },
+    {
+      "title": "Sacha Beniamine"
+    }
+  ],
+  "keywords": [
+    "lexicon",
+    "lexemes",
+    "Irish"
+  ],
+  "resources": [
+    {
+      "name": "lexemes",
+      "type": "table",
+      "path": "lexemes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": [
+          "lexeme_id"
+        ],
+        "fields": [
+          {
+            "name": "lexeme_id",
+            "type": "string",
+            "title": "Identifier for the lexeme",
+            "description": "The primary key for this table, it identifies the entire row and acts as a foreign key in the Flexemes table"
+          },
+          {
+            "name": "derivational_families",
+            "type": "string",
+            "title": "Reference to a derivational family id",
+            "description": "Foreign key identifier from the Derivation table"
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "Lexeme label (citation form)",
+            "description": "Human readable citation form for the lexeme in normalised orthography",
+            "constraints": {
+              "required": true,
+              "pattern": "(a|e|i|o|u|á|é|í|ó|ú|b|c|d|f|g|h|l|m|n|p|r|s|t|ë|ä|ï|ṡ|-|x|ḟ|ṅ|ü|A|E|I|O|U|Á|É|Í|Ó|Ú|B|C|D|F|G|H|L|M|N|P|R|S|T|Ë|Ä|Ï|-|X|Ḟ|Ṅ|Ü|Ṡ|·)+"
+            }
+          },
+          {
+            "name": "CorPH_ids",
+            "type": "string",
+            "title": "Lexeme identifier in CorPH",
+            "description": "The identification number(s) of the corresponding lexeme in the CorPH database."
+          },
+          {
+            "name": "CorPH_labels",
+            "type": "string",
+            "title": "Lexeme label (citation form) in CorPH",
+            "description": " The citation form of the corresponding lexeme in the CorPH database."
+          },
+          {
+            "name": "CorPH_meaning",
+            "type": "string",
+            "title": "Lexeme meaning in CorPH",
+            "description": "A full meaning description extracted from the CorPH database."
+          },
+          {
+            "name": "Wb_label",
+            "title": "Lexeme label (citation form) in Würzburg",
+            "type": "string",
+            "description": "The citation form of the corresponding lexeme in the lexicon of the Würzburg glosses"
+          },
+          {
+            "name": "DIL_URL",
+            "title": "URL in DIL",
+            "description": "The url of the corresponding lexeme in the online Dictionary of the Irish Language (eDIL).",
+            "format": "uri",
+            "type": "string"
+          },
+          {
+            "name": "gloss",
+            "type": "string",
+            "title": "gloss",
+            "description": "A short description of the meaning of the lexeme.",
+            "constraints": {
+              "required": true
+            }
+          },
+          {
+            "name": "POS",
+            "type": "string",
+            "title": "Part Of Speech",
+            "description": "The part of speech of the lexeme",
+            "constraints": {
+              "required": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "flexemes",
+      "type": "table",
+      "path": "flexemes.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "foreignKeys": [
+          {
+            "fields": [
+              "lexeme"
+            ],
+            "reference": {
+              "resource": "lexemes",
+              "fields": [
+                "lexeme_id"
+              ]
+            }
+          }
+        ],
+        "primaryKey": [
+          "flexeme_id"
+        ],
+        "fields": [
+          {
+            "name": "flexeme_id",
+            "type": "string",
+            "title": "Identifier for the flexeme",
+            "description": "The primary key for this table, this identifies the entire row and can act as a foreign key in the Forms table of any derived resources, such as an attested or generated lexicon, that follow the Paralex or CLDF standards."
+          },
+          {
+            "name": "label",
+            "type": "string",
+            "title": "Flexeme label (citation form)",
+            "description": "Human readable label for the flexeme in normalised orthography",
+            "constraints": {
+              "pattern": "(a|e|i|o|u|á|é|í|ó|ú|b|c|d|f|g|h|l|m|n|p|r|s|t|ë|ä|ï|ṡ|-|x|ḟ|ṅ|ü|A|E|I|O|U|Á|É|Í|Ó|Ú|B|C|D|F|G|H|L|M|N|P|R|S|T|Ë|Ä|Ï|-|X|Ḟ|Ṅ|Ü|Ṡ|·)+",
+              "required": true
+            }
+          },
+          {
+            "name": "lexeme",
+            "title": "Lexeme",
+            "description": "Foreign key identifying the parent lexeme in the Lexemes table",
+            "type": "string"
+          },
+          {
+            "name": "texts",
+            "title": "Present in texts",
+            "description": "Semicolon-separated set of available texts in which this variant occurs, given as text codes separated by a semicolon. This is a foreign key identifier from the text table ",
+            "type": "string"
+          },
+          {
+            "name": "etymology",
+            "title": "Etymology",
+            "description": "The etymology of the flexeme, drawn from CorPH",
+            "type": "string"
+          },
+          {
+            "name": "inherent_properties",
+            "title": "Inherent Properties",
+            "description": "semicolon-separated foreign keys identifying non-predictable phonological or morphological information about the lexeme in the inherent properties table",
+            "type": "string"
+          },
+          {
+            "name": "phonological_form",
+            "title": "Phonological form",
+            "description": "A phonological form generated by grapheme to phoneme conversion",
+            "type": "string",
+            "constraints": {
+              "pattern": "((a|ə|p|t|k|b|d|g|ɸ|β|x|ɣ|s|h|m|μ|ɴ|n|ŋ|ʟ|l|ʀ|r|Ø|ʲ|ʷ|ˠ|ˈ) )+"
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "derivational_families",
+      "type": "table",
+      "path": "derivational_families.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": [
+          "family_id"
+        ],
+        "fields": [
+          {
+            "name": "family_id",
+            "type": "string",
+            "title": "Identifier for the family",
+            "description": "The primary key for this table, it identifies the entire row and acts as a foreign key in the Lexemes table"
+          },
+          {
+            "name": "derivational_base",
+            "title": "Derivational base",
+            "description": "The citation form in normalised orthography for the derivational base of a complex lexeme",
+            "type": "string",
+            "constraints": {
+              "pattern": "(a|e|i|o|u|á|é|í|ó|ú|b|c|d|f|g|h|l|m|n|p|r|s|t|ë|ä|ï|ṡ|-|x|ḟ|ṅ|ü|A|E|I|O|U|Á|É|Í|Ó|Ú|B|C|D|F|G|H|L|M|N|P|R|S|T|Ë|Ä|Ï|-|X|Ḟ|Ṅ|Ü|Ṡ|·)+"
+            }
+          },
+          {
+            "name": "base_POS",
+            "title": "Base Part Of Speech",
+            "description": "Part of speech of the base",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "inherent_properties",
+      "type": "table",
+      "path": "inherent_properties.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": [
+          "properties_id"
+        ],
+        "fields": [
+          {
+            "name": "properties_id",
+            "type": "string",
+            "title": "Identifier for the property",
+            "description": "The primary key of this table and a foreign key in the Flexemes table"
+          },
+          {
+            "name": "label",
+            "title": "property label",
+            "description": "Human readable label identifying the phonological or morphonological property to which the identifier refers",
+            "type": "string"
+          },
+          {
+            "name": "comment",
+            "title": "Comment",
+            "description": "The text description of the property described",
+            "type": "string"
+          },
+          {
+            "name": "domain",
+            "title": "Domain",
+            "description": "The linguistic domain to which this property pertains",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "morphonology",
+                "morphosyntax"
+              ],
+              "required": true
+            }
+          },
+          {
+            "name": "type",
+            "title": "Type",
+            "description": "This field assigns a type grouping to each class identified",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "gender",
+                "syncope",
+                "number_restriction",
+                "alternation",
+                "nominal_stem"
+              ],
+              "required": true
+            }
+          }
+        ]
+      }
+    },
+    {
+      "name": "texts",
+      "type": "table",
+      "path": "texts.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "schema": {
+        "primaryKey": [
+          "text_id"
+        ],
+        "fields": [
+          {
+            "name": "text_id",
+            "type": "string",
+            "title": "Text id",
+            "description": "Text identifier"
+          },
+          {
+            "name": "label",
+            "title": "Text label",
+            "description": "Human readable label identifying the text",
+            "type": "string"
+          },
+          {
+            "name": "Comment",
+            "title": "Comment",
+            "description": "The text description of the property described",
+            "type": "any"
+          },
+          {
+            "name": "reference",
+            "title": "Reference",
+            "description": "A bibliographic reference for this text",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
