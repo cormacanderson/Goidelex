@@ -19,7 +19,7 @@ stem_ā,ā-stem noun,This flexeme is inflected as an ā-stem,morphosyntax,nomina
 stem_i,i-stem noun,This flexeme is inflected as an i-stem,morphosyntax,nominal_stem
 stem_ī,ī-stem noun,This flexeme is inflected as an ī-stem,morphosyntax,nominal_stem
 stem_ī/ā,Mixed ī-/ā-stem,This flexeme is inflected as an ī/ā-stem,morphosyntax,nominal_stem
-stem_ī/ā/n,"Mixed ī-/ā-stem singular, n-stem plural",This flexeme is declined as an ī/ā-stem in the singular and inflected as an n-stem in the plural,morphosyntax,nominal_stem
+stem_ī/ā/n,"Mixed ī-/ā-stem singular, n-stem plural",This flexeme is inflected as an ī/ā-stem in the singular and inflected as an n-stem in the plural,morphosyntax,nominal_stem
 stem_iā,iā-stem,This flexeme is inflected as an iā-stem,morphosyntax,nominal_stem
 stem_indecl,Indeclinable,This flexeme is undeclinable,morphosyntax,nominal_stem
 stem_indecl/i,"Indeclinable singular, i-stem plural",This flexeme is undeclinable in the singular and inflected as an i-stem in the plural,morphosyntax,nominal_stem
@@ -27,6 +27,7 @@ stem_io,io-stem,This flexeme is inflected as an io-stem,morphosyntax,nominal_ste
 stem_irreg,Irregular noun,The inflection of this flexeme is irregular,morphosyntax,nominal_stem
 stem_k,k-stem noun,This flexeme is inflected as a k-stem,morphosyntax,nominal_stem
 stem_n,n-stem noun,This flexeme is inflected as an n-stem,morphosyntax,nominal_stem
+stem_n/ā,"n-stem noun, ā-stem genitive singular","This flexeme is inflected as an n-stem, except in the genitive singular, where it is inflected like an ā-stem",nominal_stem,morphosyntax
 stem_nk,nk-stem noun,This flexeme is inflected as an nk-stem,morphosyntax,nominal_stem
 stem_nt,nt-stem noun,This flexeme is inflected as an nt-stem,morphosyntax,nominal_stem
 stem_o,o-stem noun,This flexeme is inflected as an o-stem,morphosyntax,nominal_stem

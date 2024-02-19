@@ -321,7 +321,7 @@ lexeme_id,derivational_families,label,CorPH_ids,CorPH_labels,CorPH_meaning,Wb_la
 321,300,gein,4899,gein,birth; origin,gein,http://dil.ie/25530,"birth, nativity",verbal_noun
 322,301,gell,4902,gell,"pledge, surety",gell,http://dil.ie/25584,pledge,noun
 323,302,genas,6564,genas 1,"purity, chastity",genas,http://dil.ie/25653,chastity,noun
-324,303,geinti,1632,geinti,"gentiles, heathens, the heathen Norsemen",genti,http://dil.ie/25690,gentiles,noun
+324,303,geintlide,1632,geintlide,"gentiles, heathens, the heathen Norsemen",gentlide,http://dil.ie/25690,gentile,noun
 326,305,giun,1649,giun,"mouth, edge of weapon","giun, gin",http://dil.ie/25866,mouth,noun
 327,306,glúas,7518,glúas,"gloss, commentary, explanation",glúass,http://dil.ie/26170,gloss,noun
 328,307,gnás,4920,gnás,"intercourse, companionship, frequentation; custom, usage",gnás,http://dil.ie/26190,companionship,noun
@@ -526,7 +526,7 @@ lexeme_id,derivational_families,label,CorPH_ids,CorPH_labels,CorPH_meaning,Wb_la
 528,225,techtairecht,5901,techtairecht,"message, errand, mission, embassy",techtairecht,http://dil.ie/40286,embassy,noun
 529,484,tecmall,9614,tecmall,"the act of collecting, gathering",tecmallad,http://dil.ie/40312,"gathering, collection",verbal_noun
 530,225,techtaire,9885,techtaire,messanger,tectaire,http://dil.ie/40285,messenger,noun
-531,485,teg,2893,tech,"house, dwelling, mansion, temple",teg,http://dil.ie/40265,house,noun
+531,485,tech,2893,tech,"house, dwelling, mansion, temple",teg,http://dil.ie/40265,house,noun
 532,485,tegdais,5908,tegdais,"house, dwelling, mansion",tegdais,http://dil.ie/40335,household,noun
 533,485,teglach,6903,teglach,"inmates of a house, household",teglach,http://dil.ie/40338,family,noun
 534,486,teist,9580,teist,witness,teist,http://dil.ie/40443,testimony,noun
