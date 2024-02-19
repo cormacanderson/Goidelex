@@ -21,7 +21,7 @@ flexeme_id,label,lexeme,text,inherent_properties
 20,enech,20,79;6;5;56,sync_nd;alt_none;gen_neut;stem_o;num_all
 20.1,ainach,20,1;6;5,sync_nd;alt_none;gen_neut;stem_o;num_all
 21,aiṅgel,21,,sync;alt_none;gen_masc;stem_o;num_all
-22,ainmm,22,,sync_none;alt_vel_stem;gen_neut;stem_n;num_all
+22,ainmm,22,,sync_none;alt_vel_stem;gen_neut;stem_n/ā;num_all
 23,ainmne,23,,sync_vf;alt_none;gen_fem;stem_nt;num_all
 24,áinsem,24,,sync_none;alt_none;gen_masc;stem_u;num_all
 25,erbert,25,,sync_nd;alt_none;gen_fem;stem_ā;num_all
@@ -56,7 +56,7 @@ flexeme_id,label,lexeme,text,inherent_properties
 52,ain-ecnae,52,,sync_vf;alt_none;gen_masc;stem_io;num_all
 53,ain-cride,53,,sync_vf;alt_none;gen_neut;stem_io;num_all
 54,ain-ḟius,54,,sync_none;alt_none;gen_masc;stem_u;num_all
-55,anaimm,55,79;6,sync;alt_none;gen_fem;stem_n;num_all
+55,anaimm,55,79;6,sync;alt_none;gen_fem;stem_n/ā;num_all
 55.1,anaimm,55,79;6,sync;alt_none;gen_fem;stem_ī/ā/n;num_all
 55.2,ainimm,55,,sync_vel;alt_none;gen_fem;stem_ī/ā/n;num_all
 56,apstal,56,,sync_none;alt_none;gen_masc;stem_o;num_all
@@ -84,7 +84,7 @@ flexeme_id,label,lexeme,text,inherent_properties
 74.2,baithis,74,79;50,sync_nd;alt_none;gen_fem;stem_i;num_all
 75,ball,75,,sync_none;alt_schwagen_masc;stem_o;num_all
 76,bás,76,,sync_none;alt_none;gen_neut;stem_o;num_all
-77,béimm,77,,sync_none;alt_none;gen_neut;stem_n;num_all
+77,béimm,77,,sync_none;alt_none;gen_neut;stem_n/ā;num_all
 78,bél,78,,sync_none;alt_eo;gen_masc;stem_o;num_all
 79,bélrae,79,,sync_vf;alt_none;gen_neut;stem_io;num_all
 80,ben,80,,sync_none;alt_none;gen_fem;stem_irreg;num_all
@@ -385,8 +385,8 @@ flexeme_id,label,lexeme,text,inherent_properties
 321,gein,321,,sync_none;alt_none;gen_neut;stem_n;num_all
 322,gell,322,,sync_none;alt_schwagen_neut;stem_o;num_all
 323,genas,323,,sync;alt_none;gen_masc;stem_u;num_all
-324,geinti,324,,sync_vf;alt_none;gen_masc;stem_i;num_all
-324.1,geintlide,324,,sync_vf;alt_none;gen_masc;stem_io;num_pl
+324.1,geinti,324,,sync_vf;alt_none;gen_masc;stem_i;num_all
+324,geintlide,324,,sync_vf;alt_none;gen_masc;stem_io;num_all
 326,giun,326,,sync_none;alt_none;gen_masc;stem_u;num_all
 327,glúas,327,,sync_none;alt_none;gen_fem;stem_ā;num_all
 328,gnás,328,,sync_none;alt_none;gen_fem;stem_ā;num_all
@@ -404,7 +404,7 @@ flexeme_id,label,lexeme,text,inherent_properties
 339.1,ídol,339,79,sync;alt_none;gen_masc;stem_o;num_all
 340,iffernn,340,,sync_none;alt_none;gen_masc;stem_o;num_all
 341,il-baill,341,,sync_none;alt_none;gen_masc;stem_o;num_all
-342,il-béimm,342,,sync_none;alt_none;gen_neut;stem_n;num_all
+342,il-béimm,342,,sync_none;alt_none;gen_neut;stem_n/ā;num_all
 343,il-bélrae,343,,sync_vf;alt_none;gen_neut;stem_io;num_all
 344,ilar,344,,sync_nd;alt_none;gen_neut;stem_o;num_all
 345,imbed,345,6;7;50;43,sync_none;alt_none;gen_neut;stem_o;num_all
@@ -634,8 +634,8 @@ flexeme_id,label,lexeme,text,inherent_properties
 528,techtairecht,528,,sync_none;alt_none;gen_fem;stem_ā;num_all
 529,tecmmallad,529,,sync_nd;alt_none;gen_masc;stem_u;num_all
 530,techtaire,530,,sync_vf;alt_none;gen_masc;stem_io;num_all
-531,teg,531,,sync_none;alt_schwa;gen_neut;stem_s;num_all
-531.1,tech,531,,sync_none;alt_schwa;gen_neut;stem_s;num_all
+531,tech,531,,sync_none;alt_schwa;gen_neut;stem_s;num_all
+531.1,teg,531,,sync_none;alt_schwa;gen_neut;stem_s;num_all
 531.2,taig,531,,sync_none;alt_none;gen_neut;stem_s;num_all
 532,tegdais,532,,sync_none;alt_none;gen_fem;stem_i;num_all
 533,teglach,533,,sync_nd;alt_none;gen_neut;stem_o;num_all

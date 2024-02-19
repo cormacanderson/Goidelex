@@ -321,7 +321,7 @@ lexeme_id,derivational_family,label,CorPH_label,Wb_label,DIL_URL,gloss,POS
 321,300,gein,gein,gein,http://dil.ie/25530,"birth, nativity",verbal_noun
 322,301,gell,gell,gell,http://dil.ie/25584,pledge,noun
 323,302,genas,genas 1,genas,http://dil.ie/25653,chastity,noun
-324,303,geinti,geinti,genti,http://dil.ie/25690,gentiles,noun
+324,303,geintlide,geintlide,gentlide,http://dil.ie/25690,gentile,noun
 326,305,giun,giun,"giun, gin",http://dil.ie/25866,mouth,noun
 327,306,glúas,glúas,glúass,http://dil.ie/26170,gloss,noun
 328,307,gnás,gnás,gnás,http://dil.ie/26190,companionship,noun
@@ -526,7 +526,7 @@ lexeme_id,derivational_family,label,CorPH_label,Wb_label,DIL_URL,gloss,POS
 528,225,techtairecht,techtairecht,techtairecht,http://dil.ie/40286,embassy,noun
 529,484,tecmall,tecmall,tecmallad,http://dil.ie/40312,"gathering, collection",verbal_noun
 530,225,techtaire,techtaire,tectaire,http://dil.ie/40285,messenger,noun
-531,485,teg,tech,teg,http://dil.ie/40265,house,noun
+531,485,tech,tech,teg,http://dil.ie/40265,house,noun
 532,485,tegdais,tegdais,tegdais,http://dil.ie/40335,household,noun
 533,485,teglach,teglach,teglach,http://dil.ie/40338,family,noun
 534,486,teist,teist,teist,http://dil.ie/40443,testimony,noun
