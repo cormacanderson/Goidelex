@@ -7,7 +7,7 @@ A broad categorisation into major parts of speech. The following values were rec
 - `noun`
 - `verb`
 - `adjective`
-- `prefixed_adjective`: where adjectives can occur either prefixed to a noun or independently, they are classified rather as adjectives
+- `prefix`: where adjectives can occur either prefixed to a noun or independently, they are classified rather as adjectives
 
 # Lexemes
 ## derivation
