@@ -189,7 +189,7 @@ corp-164,corp,lex-corp-164,,< Lat. corpus,sync_none;alt_schwa;gen_masc;stem_o;nu
 corp-164.1,corp,lex-corp-164,,< Lat. corpus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈkʷarˠpˠ
 cosc-165,cosc,lex-cosc-165,,vn. of con·secha,sync_none;alt_none;gen_neut;stem_o;num_all,ˈkʷasˠkˠ
 coscrad-166,coscrad,lex-coscrad-166,,*kom-skarā-tu-; vn. of con·scara,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷasˠkˠrˠaðˠ
-cosmuilius-167,cosmuilius,lex-cosmuilius-167,,*kom-samali-stu-; denominative (abstract): < cosmail,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈkʷasʷμʷəlʲəsʷ
+cosmuilius-167,cosmuilius,lex-cosmuilius-167,,*kom-samali-stu-; denominative (abstract): < cosmail,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈkʷasʷmʷəlʲəsʷ
 cosnam-168,cosnam,lex-cosnam-168,,*kom-snī-mu-; vn. of con·sní,sync_none;alt_none;gen_masc;stem_u;num_all,ˈkʷasˠnˠaμˠ
 cos-169,cos,lex-cos-169,,*koχsā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈkʷasˠ
 cotlud-170,cotlud,lex-cotlud-170,,vn. of con·tuili,sync;alt_epen;gen_masc;stem_u;num_all,ˈkʷadʷlʷəðʷ
@@ -246,7 +246,7 @@ derchoiniud-209,derchoíniud,lex-derchoiniud-209,,vn. of *do·rochoíni,sync;alt
 deiscipul-210,deiscipul,lex-deiscipul-210,,,sync;alt_none;gen_masc;stem_o;num_all,ˈdʲasʲkʲəbʷəlʷ
 de-sercc-211,dé-ṡercc,lex-de-sercc-211,,día + serc,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʲa-ˈhʲarˠkˠ
 deisimmrecht-212,deisimmrecht,lex-deisimmrecht-212,79;7,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʲasʲəmʲrʲaxˠtˠ
-deismrecht-212.1,deismrecht,lex-deisimmrecht-212,6;7,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʲasʲμˠrʲaxˠtˠ
+deismrecht-212.1,deismrecht,lex-deisimmrecht-212,6;7,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʲasʲmˠrʲaxˠtˠ
 deithiden-213,deithiden,lex-deithiden-213,79;6,,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaθʲəðʲanˠ
 deithitiu-213.1,deithitiu,lex-deithiden-213,70,,sync_vf;alt_none;gen_fem;stem_n;num_all,ˈdʲaθʲədʲəØʷ
 dias-214,diäs,lex-dias-214,,,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲəØʲasˠ
@@ -602,7 +602,7 @@ sians-502,síans,lex-sians-502,79;6,,sync_none;alt_none;gen_masc;stem_u;num_all,
 sens-502.1,séns,lex-sians-502,7;12;13,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈsʲaØʲnˠsˠ
 sid-503,síd,lex-sid-503,,*sīd-e/os-,sync_none;alt_none;gen_neut;stem_s;num_all,ˈsʲəØʲðʲ
 siol-504,síol,lex-siol-504,,*sīlo-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈsʲəØʲalˠ
-smacht-505,smacht,lex-smacht-505,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈsˠμˠaxˠtˠ
+smacht-505,smacht,lex-smacht-505,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈsˠmˠaxˠtˠ
 so-scelae-506,so-scélae,lex-so-scelae-506,,so- + scél,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈsʷa-ˈsʲkʲaØʲlˠaØʲ
 sochuide-507,sochuide,lex-sochuide-507,,*su-ku̯oti̯ā-,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈsʷaxʷəðʲaØʲ
 soilse-508,soilse,lex-soilse-508,,"denominative (abstract): < solus (adjective prefix so-/su- + the root of lés, compare dolus)",sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈsʷalʲsʲaØʲ
@@ -641,7 +641,7 @@ tegdais-532,tegdais,lex-tegdais-532,,,sync_none;alt_none;gen_fem;stem_i;num_all,
 teglach-533,teglach,lex-teglach-533,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈtʲaɣˠlˠaxˠ
 teist-534,teist,lex-teist-534,,< Lat. testis,sync_none;alt_none;gen_fem;stem_i;num_all,ˈtʲasʲtʲ
 teimel-535,teimel,lex-teimel-535,,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtʲaμʲalˠ
-tempul-536,tempul,lex-tempul-536,,< Latin: templum,sync;alt_none;gen_masc;stem_o;num_all,ˈtʲaμʷpʷəlʷ
+tempul-536,tempul,lex-tempul-536,,< Latin: templum,sync;alt_none;gen_masc;stem_o;num_all,ˈtʲamʷpʷəlʷ
 tairchomracc-537,tairchomracc,lex-tairchomracc-537,,vn. of do·airchomraicci,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈtˠarʷxʷaμˠrˠakˠ
 testas-538,testas,lex-testas-538,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈtʲasˠtˠasˠ
 teistimin-539,teistimin,lex-teistimin-539,,,sync;alt_none;gen_masc;stem_indecl/i;num_all,ˈtʲasʲtʲəμʲənʲ
