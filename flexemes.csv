@@ -20,7 +20,7 @@ aille-18,aille,lex-aille-18,,"< Latin: < allelūia [?] (see also Vendryes, Lex.)
 aimmser-19,aimmser,lex-aimmser-19,,,sync_none;alt_none;gen_fem;stem_n/ā;num_all,ˈØˠamʲsʲarˠ
 enech-20,enech,lex-enech-20,79;6;5;56,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠanʲaxˠ
 ainach-20.1,ainach,lex-enech-20,1;6;5,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠanˠaxˠ
-aingel-21,aiṅgel,lex-aingel-21,,< Lat. angelus,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠaɴʲɣʲalˠ
+aingel-21,aiṅgel,lex-aingel-21,,< Lat. angelus,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠaŋʲgʲalˠ
 ainmm-22,ainmm,lex-ainmm-22,,*anman,sync_none;alt_vel_stem;gen_neut;stem_n;num_all,ˈØˠanʲmʲ
 ainmne-23,ainmne,lex-ainmne-23,,,sync_vf;alt_none;gen_fem;stem_nt;num_all,ˈØˠanʲμˠnʲaØʲ
 ainsem-24,áinsem,lex-ainsem-24,,vn. of ad·nessa,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØˠaØˠnʲsʲaμˠ
@@ -125,7 +125,7 @@ cain-duthracht-108,caín-dúthracht,lex-cain-duthracht-108,,compound: caín + d�
 cain-gniom-109,caín-gníom,lex-cain-gniom-109,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈkˠaØʲnʲ-ˈɣʲnʲəØʲaμˠ
 cain-scel-110,caín-scél,lex-cain-scel-110,,,sync_none;alt_eo;gen_neut;stem_o;num_all,ˈkˠaØʲnʲ-ˈsʲkʲaØʲlˠ
 caindleoir-111,caindléoir,lex-caindleoir-111,,,sync_nd;alt_none;gen_masc;stem_i;num_all,ˈkˠanʲdˠlʲaØʷrʲ
-caingen-112,caiṅgen,lex-caingen-112,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈkˠaɴʲɣʲanˠ
+caingen-112,caiṅgen,lex-caingen-112,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈkˠaŋʲgʲanˠ
 carae-113,carae,lex-carae-113,,*kare/ant- ; old participle,sync_vf;alt_none;gen_masc;stem_nt;num_all,ˈkˠarˠaØʲ
 caratrad-114,caratrad,lex-caratrad-114,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈkˠarˠadˠrˠaðˠ
 carcar-115,carcar,lex-carcar-115,,,sync;alt_none;gen_fem;stem_ā;num_all,ˈkˠarˠkˠarˠ
@@ -360,7 +360,7 @@ foircitlaid-302,foircitlaid,lex-foircitlaid-302,,"(+ agent sufix -(th)(a)id, *-i
 foirggell-303,foirggell,lex-foirggell-303,79;6;70,vn. of for·gella,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷarʲgʲaʟˠ
 forggal-303.1,forggal,lex-foirggell-303,6;81,vn. of for·gella,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷarˠgˠalˠ
 formmat-304,formmat,lex-formmat-304,,vn. of for·moinethar; *uφer-men-to-,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷarˠmˠadˠ
-forngaire-305,forṅgaire,lex-forngaire-305,79;6;70,vn. of for·congair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɸʷarˠɴˠɣˠarʲaØʲ
+forngaire-305,forṅgaire,lex-forngaire-305,79;6;70,vn. of for·congair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɸʷarˠŋˠgˠarʲaØʲ
 forgaire-305.1,forgaire,lex-forngaire-305,6;7,vn. of for·congair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɸʷarˠɣˠarʲaØʲ
 foroil-306,foróil,lex-foroil-306,,,sync_nd;alt_none;gen_unk;stem_i;num_all,ˈɸʷarʷaØʷlʲ
 fortacht-307,fortacht,lex-fortacht-307,,vn. of for·téit,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈɸʷarˠtˠaxˠtˠ
@@ -375,7 +375,7 @@ fuath-313,fúath,lex-fuath-313,,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈɸ
 fugall-314,fugall,lex-fugall-314,79,*uφo-gistlo-; vn. of fo·gella,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈɸʷəɣʷaʟˠ
 fuigell-314.1,fuigell,lex-fugall-314,80,*uφo-gistlo-; vn. of fo·gella,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈɸʷəɣʲaʟˠ
 fuil-315,fuil,lex-fuil-315,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈɸʷəlʲ
-fulang-316,fulaṅg,lex-fulang-316,79;70,vn. of fo·luigi,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷəlʷaɴˠɣˠ
+fulang-316,fulaṅg,lex-fulang-316,79;70,vn. of fo·luigi,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷəlʷaŋˠgˠ
 fulach-316.1,fulach,lex-fulang-316,6;80,vn. of fo·luigi,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈɸʷəlʷaxˠ
 gabal-317,gabál,lex-gabal-317,79;5;1;70;12;47,*gabaglā- (influenced by *kaglā- cf. Schumacher 2000: 205); vn. of gaibid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈgˠaβˠaØˠlˠ
 gabail-317.1,gabáil,lex-gabal-317,6;1;70,*gabaglā- (influenced by *kaglā- cf. Schumacher 2000: 205); vn. of gaibid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈgˠaβˠaØˠlʲ
@@ -627,7 +627,7 @@ taidchrecc-520.1,taidchrecc,lex-taidchricc-520,,vn. of do·aithchren,sync_none;a
 tairggiud-521,táirggiud,lex-tairggiud-521,,vn. of do·áirci,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈtˠaØˠrʲgʲəðʷ
 tairisem-522,tairisem,lex-tairisem-522,,*to-φari-stā-mu-; vn. of do·airissedar;vn. of do·airissedar,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈtˠarʲəsʲaμˠ
 tairmmthecht-523,tairmmthecht,lex-tairmmthecht-523,,vn. of tarmi·tét,sync_none;alt_none;gen_masc;stem_u;num_all,ˈtˠarʲmˠθʲaxˠtˠ
-tairngire-524,tairṅgire,lex-tairngire-524,,*to-φari-eni-gar-i̯o-; vn. of do·airngir,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈtˠarʲɴˠɣʲərʲaØʲ
+tairngire-524,tairṅgire,lex-tairngire-524,,*to-φari-eni-gar-i̯o-; vn. of do·airngir,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈtˠarʲŋˠgʲərʲaØʲ
 talam-525,talam,lex-talam-525,,*telamon-,sync;alt_none;gen_masc;stem_n;num_all,ˈtˠalˠaμˠ
 tathair-526,tathaír,lex-tathair-526,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈtˠaθˠaØʲrʲ
 techt-527,techt,lex-techt-527,,*tig-tā-; vn. of téit,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈtʲaxˠtˠ
