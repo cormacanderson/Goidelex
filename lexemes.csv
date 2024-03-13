@@ -276,7 +276,7 @@ lex-fiach-275,259,fíach,4595,fíach,"obligation, payment due, debt",fíach,http
 lex-fiadnaise-276,260,fíadnaise,4602,fíadnaise,"witness, testimony",fíadnisse,http://dil.ie/21911,"witness, testimony",noun
 lex-fion-277,261,fíon,1442,fín 1,"wine, vine, pl grapes (?)",fín,http://dil.ie/22086,wine,noun
 lex-fior-dia-278,262;199,fíor-día,4617;1023,fír;día 2,,fír–día,http://dil.ie/22171;http://dil.ie/15847,true God,prefixed_noun
-lex-firianugud-279,262,fíriánugud,,,,fírianugud,http://dil.ie/22201,justification,verbal_noun
+lex-firianugud-279,262,fíríanugud,,,,fírianugud,http://dil.ie/22201,justification,verbal_noun
 lex-firinne-280,262,fírinne,4620,fírinne,"truth; justice, righteousness",fírinne,http://dil.ie/22203,"righteousness, truth",noun
 lex-fiurt-281,263,fiurt,4626,fiurt,miracle,fiurt,http://dil.ie/22279,miracle,noun
 lex-fius-282,54,fius,4627,fius,"the act of finding out, ascertaining; knowledge, information, science","fiuss, fius, fis",http://dil.ie/22221,knowledge,verbal_noun
@@ -343,7 +343,7 @@ lex-il-belrae-343,319;77,il-bélrae,1742;3528,il;bélrae,,il–bélre,http://dil
 lex-ilar-344,320,ilar,4985,ilar,"multitude, abundance, plural (grammatical)",ilar,http://dil.ie/27244,multitude,noun
 lex-imbed-345,321,imbed,4991,imbed,"large quantity, abundance, excess, amount, number",imbed,http://dil.ie/27298,abundance,noun
 lex-imbresan-346,322,imbresan,8414,imbresan,"the act of contending, disputing; strife, feud, contention",imbressan,http://dil.ie/28035,"contention, strife",verbal_noun
-lex-immcheist-347,111,immcheist,,,,imcheist,http://dil.ie/27347,"mutual contention, strife of words",noun
+lex-immchist-347,111,immchist,,,,imcheist,http://dil.ie/27347,"mutual contention, strife of words",noun
 lex-immchomarc-348,323,immchomarc,4999,immchomarc,"the act of questioning; question, inquiry, interrogation",imchomarc,http://dil.ie/27387,salutation,verbal_noun
 lex-immdibe-349,324,immdibe,5003,immdibe,the act of circumcising; circumcision,imdibe,http://dil.ie/27472,circumcision,verbal_noun
 lex-immfogaibetu-350,325,immḟogaibetu,,,,imfogbaidetu,http://dil.ie/27535,continence,noun
@@ -434,7 +434,7 @@ lex-nert-435,406,nert,2249,nert,"strength, force",nert,http://dil.ie/33116,"stre
 lex-nertad-436,406,nertad,5446,nertad,"the act of strengthening, exhorting, urging",nertad,http://dil.ie/33117,strengthening,verbal_noun
 lex-nochtae-437,407,nochtae,,,,"nochte, nocte",http://dil.ie/33225,nakedness,noun
 lex-noebad-438,408,nóebad,,,,noíbad,http://dil.ie/33246,sanctification,verbal_noun
-lex-nu-fiadnaise-439,409;260,nú-ḟiadnaise,5463,núḟiadnaise,New Testament,nuiednisse,http://dil.ie/33352,New Testament,prefixed_noun
+lex-nu-fiadnaise-439,409;260,nú-ḟíadnaise,5463,núḟiadnaise,New Testament,nuiednisse,http://dil.ie/33352,New Testament,prefixed_noun
 lex-uacht-440,410,úacht,3030,úacht,"cold, coldness",ócht,http://dil.ie/42580,cold,noun
 lex-ogae-441,411,ógae,2344,ógae,"wholeness, perfection, chastity, celibacy, virginity",óge,http://dil.ie/33572,"celibacy, virginity",noun
 lex-oigi-442,412,oígi,2348,oígi,"guest, stranger, esp. one receiving hospitality",oígi,http://dil.ie/33642,guest,noun

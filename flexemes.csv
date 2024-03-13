@@ -327,7 +327,7 @@ fiach-275,fíach,lex-fiach-275,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈɸ
 fiadnaise-276,fíadnaise,lex-fiadnaise-276,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɸʲaØˠðˠnˠəsʲaØʲ
 fion-277,fíon,lex-fion-277,,< Lat. uīnum ; < L uīnum,sync_none;alt_none;gen_neut;stem_u;num_all,ˈɸʲəØʲnʷ
 fior-dia-278,fíor-día,lex-fior-dia-278,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈɸʲəØʲrʷ-ˈðʲaØˠ
-firianugud-279,fíriánugud,lex-firianugud-279,,,sync_nd;alt_none;gen_masc;stem_i;num_all,ˈɸʲəØʲrʲəanʷəɣʷəðʷ
+firianugud-279,fíríanugud,lex-firianugud-279,,,sync_nd;alt_none;gen_masc;stem_i;num_all,ˈɸʲəØʲrʲəanʷəɣʷəðʷ
 firinne-280,fírinne,lex-firinne-280,,denominative (abstract): < fírión/fírián/fírén < British,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈɸʲəØʲrʲəɴʲaØʲ
 fiurt-281,fiurt,lex-fiurt-281,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈɸʲərʷtʷ
 fius-282,fius,lex-fius-282,,*u̯id-tu-; vn. of ro·fitir,sync_none;alt_none;gen_neut;stem_u;num_all,ˈɸʲəsʷ
@@ -410,7 +410,7 @@ ilar-344,ilar,lex-ilar-344,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəl�
 imbed-345,imbed,lex-imbed-345,6;7;50;43,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʲbʲaðˠ
 imbad-345.1,imbad,lex-imbed-345,70;81,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷbʷaðˠ
 imbresan-346,imbresan,lex-imbresan-346,,*ambi-u̯rits-sn-o-; vn. of imm·fresnai,sync;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʲbʲrʲasˠanˠ
-immcheist-347,immcheist,lex-immcheist-347,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈØʲəmʲxʲəsʲtʲ
+immchist-347,immchist,lex-immchist-347,,,sync_none;alt_vel_stem;gen_fem;stem_i;num_all,ˈØʲəmʲxʲəsʲtʲ
 immchomarc-348,immchomarc,lex-immchomarc-348,,vn. of imm·comairc,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷxʷaμˠarˠkˠ
 immdibe-349,immdibe,lex-immdibe-349,,vn. of imm·diben,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲəmʲðʲəβʲaØʲ
 immfogaibetu-350,immḟogaibetu,lex-immfogaibetu-350,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØʲəmʷaɣˠəβʲadʷəØʷ
@@ -518,7 +518,7 @@ nert-435,nert,lex-nert-435,,*nerto-,sync_none;alt_none;gen_neut;stem_o;num_all,�
 nertad-436,nertad,lex-nertad-436,,vn. of nertaid,sync;alt_none;gen_masc;stem_u;num_all,ˈɴʲarˠtˠaðˠ
 nochtae-437,nochtae,lex-nochtae-437,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈɴʷaxˠtˠaØʲ
 noebad-438,nóebad,lex-noebad-438,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈɴʷaØʲβˠaðˠ
-nufiadnaise-439,nuḟíadnaise,lex-nu-fiadnaise-439,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɴʷəØˠXXXXaØˠðˠnˠəsʲaØʲ
+nu-fiadnaise-439,nú-ḟíadnaise,lex-nu-fiadnaise-439,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈɴʷəØˠXXXXaØˠðˠnˠəsʲaØʲ
 uacht-440,úacht,lex-uacht-440,6;81;5,*ou̯g-tu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØʷaØˠxˠtˠ
 ocht-440.1,ócht,lex-uacht-440,79,*ou̯g-tu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØʷaØʷxˠtˠ
 ogae-441,ógae,lex-ogae-441,79;6;7;5,*φou̯gi̯ā- ?,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØʷaØʷɣˠaØʲ
