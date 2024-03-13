@@ -74,7 +74,7 @@ athair-66.1,athair,lex-athair-66,6;5,"*φatīr-, φat(e)r-",sync_pal;alt_none;ge
 attrab-67,attrab,lex-attrab-67,79;6;7,*ad-treb-o-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØˠatˠrˠaβˠ
 aittreb-67.1,áittreb,lex-attrab-67,81,*ad-treb-o-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØˠaØˠtʲrʲaβˠ
 attlugud-68,attlugud,lex-attlugud-68,,vn. of at·tluichedar,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈØˠatʷlʷəɣʷəðʷ
-augtordas-69,áugtordás,lex-augtordas-69,,< Lat. auctoritas,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØˠaØʷɣʷtʷarˠðˠaØˠsˠ
+augtordas-69,áugtordás,lex-augtordas-69,,< Lat. auctoritas,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØˠaØʷɣʷdʷarˠðˠaØˠsˠ
 airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØˠarˠlˠadʷəØʷ
 bae-71,baë,lex-bae-71,,,sync;alt_none;gen_neut;stem_io;num_all,ˈbˠaØʲaØʲ
 bag-72,bág,lex-bag-72,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠaØˠɣˠ
@@ -265,8 +265,8 @@ ditiu-225,dítiu,lex-ditiu-225,,vn. of do·eim,sync_vf;alt_none;gen_fem;stem_n;n
 diuitte-226,díuitte,lex-diuitte-226,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʲəØʷtʲaØʲ
 dliged-227,dliged,lex-dliged-227,,*dlig-e-to-; vn. of dligid,sync_none;alt_none;gen_neut;stem_o;num_all,ˈdʲlʲəɣʲaðˠ
 dlum-228,dlúm,lex-dlum-228,,*dlūmā- ;,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷlʷəØʷμʷ
-dodcad-229,dodcad,lex-dodcad-229,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈdʷaðˠkˠaðˠ
-doidced-229.1,doidced,lex-dodcad-229,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈdʷaðʲkʲaðˠ
+dodcad-229,dodcad,lex-dodcad-229,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈdʷaðˠgˠaðˠ
+doidced-229.1,doidced,lex-dodcad-229,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈdʷaðʲgʲaðˠ
 doguilse-230,doguilse,lex-doguilse-230,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷaɣʷəlʲsʲaØʲ
 doenacht-231,dóenacht,lex-doenacht-231,6;70,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷaØʲnˠaxˠtˠ
 doinecht-231.1,doínecht,lex-doenacht-231,79,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷaØʲnʲaxˠtˠ
@@ -399,7 +399,7 @@ grainne-334,gráinne,lex-grainne-334,,,sync_vf;alt_none;gen_fem;stem_iā;num_all
 guide-335,guide,lex-guide-335,,vn. of guidid,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈgʷəðʲaØʲ
 iarfaigid-336,íarfaigid,lex-iarfaigid-336,,vn. of íarmo·foïch,sync;alt_none;gen_fem;stem_i;num_all,ˈØʲaØˠrˠɸˠaɣʲəðʲ
 iocc-337,íocc,lex-iocc-337,,vn. of íccaid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØʲəØʲakˠ
-aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠaðˠpˠarˠtˠ
+aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠaðˠbˠarˠtˠ
 idal-339,ídal,lex-idal-339,6;7;81,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʲalˠ
 idol-339.1,ídol,lex-idal-339,79,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʷalˠ
 iffernn-340,iffernn,lex-iffernn-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠɴˠ
