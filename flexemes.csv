@@ -18,20 +18,20 @@ ail-16.1,ail,lex-ail-16,1,*φali-,sync_none;alt_none;gen_fem;stem_i;num_all,ˈØ
 ail-17,áil,lex-ail-17,,,sync_none;alt_vel_stem;gen_fem;stem_i;num_all,ˈØˠaØˠlʲ
 aille-18,aille,lex-aille-18,,"< Latin: < allelūia [?] (see also Vendryes, Lex.) < Hebrew: הַלְּלוּיָהּ",sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠaʟʲaØʲ
 aimmser-19,aimmser,lex-aimmser-19,,,sync_none;alt_none;gen_fem;stem_n/ā;num_all,ˈØˠamʲsʲarˠ
-enech-20,enech,lex-enech-20,79;6;5;56,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠanʲaxˠ
-ainach-20.1,ainach,lex-enech-20,1;6;5,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠanʷaxˠ
+enech-20,enech,lex-enech-20,79;6;5;56,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠənʲaxˠ
+ainach-20.1,ainach,lex-enech-20,1;6;5,*eni-ku̯a; neuter plurale tantum,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠənʷaxˠ
 aingel-21,aiṅgel,lex-aingel-21,,< Lat. angelus,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠaŋʲgʲalˠ
 ainmm-22,ainmm,lex-ainmm-22,,*anman,sync_none;alt_vel_stem;gen_neut;stem_n;num_all,ˈØˠanʲmʲ
 ainmne-23,ainmne,lex-ainmne-23,,,sync_vf;alt_none;gen_fem;stem_nt;num_all,ˈØˠanʲμʲnʲaØʲ
 ainsem-24,áinsem,lex-ainsem-24,,vn. of ad·nessa,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØˠaØˠnʲsʲaμˠ
-erbert-25,erbert,lex-erbert-25,,vn. of ar·beir,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʲβʲarˠtˠ
+erbert-25,erbert,lex-erbert-25,,vn. of ar·beir,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲβʲarˠtˠ
 airchinnech-26,airchinnech,lex-airchinnech-26,,*φari-ku̯enn-īko-? (GOI 223) ; denominative (adjectival): < airchinn,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠarʲxʲəɴʲaxˠ
 airchisecht-27,airchisecht,lex-airchisecht-27,,vn. of ar·ceissi,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʲxʲəsʲaxˠtˠ
-aircor-28,aircor,lex-aircor-28,,,sync_nd;alt_none;gen_masc;stem_unk;num_all,ˈØˠarʷkʷarˠ
+aircor-28,aircor,lex-aircor-28,,,sync_nd;alt_none;gen_masc;stem_unk;num_all,ˈØˠərʷkʷarˠ
 airde-29,airde,lex-airde-29,,*φari-u̯ei̯d-i̯o-,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲðʲaØʲ
 airec-30,airec,lex-airec-30,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈØˠarʲagˠ
 airechas-31,airechas,lex-airechas-31,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØˠarʲaxˠasˠ
-airgaire-32,airgaire,lex-airgaire-32,,vn. of ar·gair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʷɣʷarʲaØʲ
+airgaire-32,airgaire,lex-airgaire-32,,vn. of ar·gair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠərʷɣʷarʲaØʲ
 airitiu-33,airitiu,lex-airitiu-33,,vn. of ar·foím,sync_vf;alt_none;gen_fem;stem_n;num_all,ˈØˠarʲədʲəØʷ
 airlicud-34,airlicud,lex-airlicud-34,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØˠarʲlʲəgʷəðʷ
 airmm-35,airmm,lex-airmm-35,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈØˠarʲmʲ
@@ -75,7 +75,7 @@ attrab-67,attrab,lex-attrab-67,79;6;7,*ad-treb-o-,sync_none;alt_none;gen_neut;st
 aittreb-67.1,áittreb,lex-attrab-67,81,*ad-treb-o-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØˠaØˠtʲrʲaβˠ
 attlugud-68,attlugud,lex-attlugud-68,,vn. of at·tluichedar,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈØˠatʷlʷəɣʷəðʷ
 augtordas-69,áugtordás,lex-augtordas-69,,< Lat. auctoritas,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØˠaØʷɣʷdʷarˠðˠaØˠsˠ
-airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØˠarʷlʷadʷəØʷ
+airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØˠərʷlʷadʷəØʷ
 bae-71,baë,lex-bae-71,,,sync;alt_none;gen_neut;stem_io;num_all,ˈbˠaØʲaØʲ
 bag-72,bág,lex-bag-72,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠaØˠɣˠ
 bairgen-73,bairgen,lex-bairgen-73,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠarʲɣʲanˠ
@@ -298,20 +298,20 @@ eipert-251,eipert,lex-eipert-251,,vn. of as·beir,sync_none;alt_none;gen_fem;ste
 eipistil-252,eipistil,lex-eipistil-252,,< Latin: epistola < Greek: ἐπῐστολή,sync;alt_none;gen_fem;stem_ī/ā;num_all,ˈØʲabʲəsʲtʲəlʲ
 epscop-253,epscop,lex-epscop-253,79;6;5;1;70;50;81,< Latin: episcopus < Greek: ἐπίσκοπος,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØʲabʷsʷkʷabˠ
 espoc-253.1,espoc,lex-epscop-253,1,< Latin: episcopus < Greek: ἐπίσκοπος,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØʲasʷpʷagˠ
-ere-254,ere,lex-ere-254,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØˠarʲaØʲ
+ere-254,ere,lex-ere-254,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØˠərʲaØʲ
 eiritic-255,eiritic,lex-eiritic-255,,,sync_none;alt_none;gen_masc;stem_unk;num_all,ˈØʲarʲədʲəgʲ
 esorggon-256,esorggon,lex-esorggon-256,79,vn. of as·oirg,sync_pal;alt_none;gen_fem;stem_ā;num_all,ˈØʲasʷarʷgʷanˠ
 esarggun-256.1,esarggun,lex-esorggon-256,6,vn. of as·oirg,sync_pal;alt_none;gen_fem;stem_ā;num_all,ˈØʲasˠarʷgʷənʷ
 eiseirge-257,eiséirge,lex-eiseirge-257,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲasʲaØʲrʲɣʲaØʲ
 et-258,ét,lex-et-258,,,sync_none;alt_eo;gen_masc;stem_o;num_all,ˈØʲaØʲdˠ
 etarcert-259,etarcert,lex-etarcert-259,79;7,vn. of etar·certa,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØʲadˠarʲkʲarˠtˠ
-etercert-259.1,etercert,lex-etarcert-259,6;50,vn. of etar·certa,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠadʲarʲkʲarˠtˠ
+etercert-259.1,etercert,lex-etarcert-259,6;50,vn. of etar·certa,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠədʲarʲkʲarˠtˠ
 etach-260,étach,lex-etach-260,,*en(i)-tug-o-; vn. of in·tuigethar,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲaØʲdˠaxˠ
 etarddibe-261,etarddibe,lex-etarddibe-261,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲadˠarʲdʲəβʲaØʲ
 etarscarad-262,etarscarad,lex-etarscarad-262,,vn. of etar·scara,sync;alt_none;gen_masc;stem_u;num_all,ˈØʲadˠarˠsˠkˠarˠaðˠ
 etarggnae-263,etarggnae,lex-etarggnae-263,,*enter-gnii̯o-; vn. of etar·gnín,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲadˠarˠgˠnˠaØʲ
 etrad-264,étrad,lex-etrad-264,,denominative (abstract): < ét,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲaØʲdˠrˠaðˠ
-exceptaid-265,exceptaid,lex-exceptaid-265,,,sync_nd;alt_none;gen_masc;stem_unk;num_all,ˈØˠaxʲsʲkʲabˠtˠaðʲ
+exceptaid-265,exceptaid,lex-exceptaid-265,,,sync_nd;alt_none;gen_masc;stem_unk;num_all,ˈØˠəxʲsʲkʲabˠtˠaðʲ
 failte-266,fáilte,lex-failte-266,,< Latin: valentia/volentia [?],sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈɸˠaØˠlʲtʲaØʲ
 faith-267,fáith,lex-faith-267,,,sync_none;alt_none;gen_masc;stem_i;num_all,ˈɸˠaØˠθʲ
 feichem-268,féichem,lex-feichem-268,,,sync_none;alt_none;gen_masc;stem_n;num_all,ˈɸʲaØʲxʲaμˠ
@@ -399,7 +399,7 @@ grainne-334,gráinne,lex-grainne-334,,,sync_vf;alt_none;gen_fem;stem_iā;num_all
 guide-335,guide,lex-guide-335,,vn. of guidid,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈgʷəðʲaØʲ
 iarfaigid-336,íarfaigid,lex-iarfaigid-336,,vn. of íarmo·foïch,sync;alt_none;gen_fem;stem_i;num_all,ˈØʲaØˠrˠɸˠaɣʲəðʲ
 iocc-337,íocc,lex-iocc-337,,vn. of íccaid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØʲəØʲakˠ
-aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠaðʷbʷarˠtˠ
+aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠəðʷbʷarˠtˠ
 idal-339,ídal,lex-idal-339,6;7;81,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʲalˠ
 idol-339.1,ídol,lex-idal-339,79,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʷalˠ
 iffernn-340,iffernn,lex-iffernn-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠɴˠ
@@ -440,15 +440,15 @@ inne-369,inne,lex-inne-369,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØʲə�
 insce-370,insce,lex-insce-370,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØʲənʲsʲkʲaØʲ
 intliucht-371,intliucht,lex-intliucht-371,,< Lat. intellectus,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØʲənʲtʲlʲəxʷtʷ
 intamail-372,intamail,lex-intamail-372,,vn. of in·samlathar,sync;alt_none;gen_fem;stem_ī/ā;num_all,ˈØʲənʷtʷaμˠalʲ
-airail-373,airáil,lex-airail-373,,,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈØˠarʷaØˠlʲ
-airbag-374,airbág,lex-airbag-374,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʷβʷaØˠɣˠ
-airchrae-375,airchrae,lex-airchrae-375,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʷxʷrʷaØʲ
-ereschae-376,ereschae,lex-ereschae-376,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠarʲasˠxˠaØʲ
-eres-377,eres,lex-eres-377,,*φari-sist-ā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʲasˠ
-airfocrae-378,airḟócrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠarʷaØʷgˠrˠaØʲ
-airfuacrae-378.1,airḟúacrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠarʷaØˠgˠrˠaØʲ
-airgal-379,airgal,lex-airgal-379,,vn. of ar·fich,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʷɣʷalˠ
-airnaigde-380,airnaigde,lex-airnaigde-380,,*φari-ni-gu̯ed-i̯ā-; vn. of ar·neget,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠarʷnʷaɣʲðʲaØʲ
+airail-373,airáil,lex-airail-373,,,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈØˠərʷaØˠlʲ
+airbag-374,airbág,lex-airbag-374,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʷβʷaØˠɣˠ
+airchrae-375,airchrae,lex-airchrae-375,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠərʷxʷrʷaØʲ
+ereschae-376,ereschae,lex-ereschae-376,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠərʲasˠxˠaØʲ
+eres-377,eres,lex-eres-377,,*φari-sist-ā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲasˠ
+airfocrae-378,airḟócrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠərʷaØʷgˠrˠaØʲ
+airfuacrae-378.1,airḟúacrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠərʷaØˠgˠrˠaØʲ
+airgal-379,airgal,lex-airgal-379,,vn. of ar·fich,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʷɣʷalˠ
+airnaigde-380,airnaigde,lex-airnaigde-380,,*φari-ni-gu̯ed-i̯ā-; vn. of ar·neget,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠərʷnʷaɣʲðʲaØʲ
 ittge-381,ittge,lex-ittge-381,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØʲətʲɣʲaØʲ
 iudae-383.1,Iúdae,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_pl,ˈØʲəØʷðʷaØʲ
 iudaide-383,Iúdaide,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈØʲəØʷðʷaðʲaØʲ
@@ -620,8 +620,8 @@ suil-516,súil,lex-suil-516,,*sūli-,sync_none;alt_none;gen_fem;stem_i;num_all,�
 tabairt-517,tabairt,lex-tabairt-517,79;6;70;1,*to-ber-tā-; vn. of do·beir,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈtˠaβˠarʲtʲ
 tabart-517.1,tabart,lex-tabairt-517,79;6,*to-ber-tā-; vn. of do·beir,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈtˠaβˠarˠtˠ
 taidbsiu-518,taidbsiu,lex-taidbsiu-518,,vn. of do·adbat,sync_vf;alt_none;gen_fem;stem_n;num_all,ˈtˠaðʲβʲsʲəØʷ
-taidchor-519,taidchor,lex-taidchor-519,,vn. of do·aithchuiredar,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtˠaðʷxʷarˠ
-taidchur-519.1,taidchur,lex-taidchor-519,,vn. of do·aithchuiredar,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtˠaðʷxʷərʷ
+taidchor-519,taidchor,lex-taidchor-519,,vn. of do·aithchuiredar,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtˠəðʷxʷarˠ
+taidchur-519.1,taidchur,lex-taidchor-519,,vn. of do·aithchuiredar,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtˠəðʷxʷərʷ
 taidchricc-520,taidchricc,lex-taidchricc-520,,vn. of do·aithchren,sync_none;alt_none;gen_fem;stem_ī/ā;num_all,ˈtˠaðʲxʲrʲəkʲ
 taidchrecc-520.1,taidchrecc,lex-taidchricc-520,,vn. of do·aithchren,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈtˠaðʲxʲrʲakˠ
 tairggiud-521,táirggiud,lex-tairggiud-521,,vn. of do·áirci,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈtˠaØˠrʲgʲəðʷ
@@ -642,7 +642,7 @@ teglach-533,teglach,lex-teglach-533,,,sync_nd;alt_none;gen_neut;stem_o;num_all,�
 teist-534,teist,lex-teist-534,,< Lat. testis,sync_none;alt_none;gen_fem;stem_i;num_all,ˈtʲasʲtʲ
 teimel-535,teimel,lex-teimel-535,,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈtʲaμʲalˠ
 tempul-536,tempul,lex-tempul-536,,< Latin: templum,sync;alt_none;gen_masc;stem_o;num_all,ˈtʲamʷpʷəlʷ
-tairchomracc-537,tairchomracc,lex-tairchomracc-537,,vn. of do·airchomraicci,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈtˠarʷxʷaμˠrˠakˠ
+tairchomracc-537,tairchomracc,lex-tairchomracc-537,,vn. of do·airchomraicci,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈtˠərʷxʷaμˠrˠakˠ
 testas-538,testas,lex-testas-538,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈtʲasˠtˠasˠ
 teistimin-539,teistimin,lex-teistimin-539,,,sync;alt_none;gen_masc;stem_indecl/i;num_all,ˈtʲasʲtʲəμʲənʲ
 teistimin-539.1,teistimin,lex-teistimin-539,,,sync;alt_none;gen_fem;stem_indecl/i;num_all,ˈtʲasʲtʲəμʲənʲ
