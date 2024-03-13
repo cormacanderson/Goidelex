@@ -167,7 +167,7 @@ comaccobor-147,comaccobor,lex-comaccobor-147,,,sync;alt_none;gen_neut;stem_o;num
 comairbert-148,comairbert,lex-comairbert-148,,*kom-φari-ber-tā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈkʷaμˠarʲβʲarˠtˠ
 comairle-149,comairle,lex-comairle-149,,*kom-φari-li-i̯ā-; vn. of con·airlethar,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈkʷaμˠarʲlʲaØʲ
 comaitecht-150,comaitecht,lex-comaitecht-150,79;6;7;70,vn. of con·éitet,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈkʷaμˠadʲaxˠtˠ
-coimitecht-150.1,coimitecht,lex-comaitecht-150,79,vn. of con·éitet,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈkʷaμʲadʲaxˠtˠ
+coimitecht-150.1,coimitecht,lex-comaitecht-150,79,vn. of con·éitet,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈkʷaμʲədʲaxˠtˠ
 comalnad-151,comalnad,lex-comalnad-151,,denominative (abstract) < comlán; vn. of comalnaithir,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷaμˠalˠnˠaðˠ
 comarbbus-152,comarbbus,lex-comarbbas-152,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷaμˠarʷbʷəsʷ
 comardae-153,comardae,lex-comardae-153,,*kom-ardu̯i̯ā-,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈkʷaμˠarˠðˠaØʲ
@@ -220,7 +220,7 @@ cursagad-191.1,cúrsagad,lex-cursagad-191,6,vn. of cúrsagaid,sync_none;alt_none
 cutrummus-192,cutrummus,lex-cutrummus-192,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷədʷrʷəmʷəsʷ
 dag-duine-193,dag-duine,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈdˠaɣˠ-ˈðʷənʲaØʲ
 dag-doini-193.1,dag-doíni,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_i;num_pl,ˈdˠaɣˠ-ˈðʷaØʲnʲəØʲ
-dag-gniom-194,dag-gníom,lex-dag-gniom-194,,compound: dag- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaɣˠ-ˈgʲnʲəØʲμʲ
+dag-gniom-194,dag-gníom,lex-dag-gniom-194,,compound: dag- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaɣˠ-ˈɣʲnʲəØʲaμˠ
 daltae-195,daltae,lex-daltae-195,,*to-al-ti̯o-,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈdˠalˠtˠaØʲ
 dam-196,dam,lex-dam-196,,*damo-,sync_none;alt_schwa;gen_masc;stem_o;num_all,ˈdˠaμˠ
 dan-197,dán,lex-dan-197,,*dānu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaØˠnˠ
@@ -272,7 +272,7 @@ doenacht-231,dóenacht,lex-doenacht-231,6;70,,sync_none;alt_none;gen_fem;stem_ā
 doinecht-231.1,doínecht,lex-doenacht-231,79,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷaØʲnʲaxˠtˠ
 doire-232,doíre,lex-doire-232,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷaØʲrʲaØʲ
 domun-233,domun,lex-domun-233,,*duβ-no-,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈdʷaμʷənʷ
-drog-gniom-234,drog-gníom,lex-drog-gniom-234,,compound: droch- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷrʷaɣˠ-ˈgʲnʲəØʲaμˠ
+drog-gniom-234,drog-gníom,lex-drog-gniom-234,,compound: droch- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷrʷaɣˠ-ˈɣʲnʲəØʲaμˠ
 drui-235,druí,lex-drui-235,,*dru-u̯id-,sync_none;alt_none;gen_masc;stem_t;num_all,ˈdʷrʷəØʲ
 drui-235.1,druï,lex-drui-235,,*dru-u̯id-,sync;alt_none;gen_masc;stem_t;num_all,ˈdʷrʷəØʲəØʲ
 du-alaig-236,du-álaig,lex-du-alaig-236,,,sync_pal;alt_none;gen_fem;stem_i;num_all,ˈdʷə-ˈØˠaØˠlˠaɣʲ
@@ -415,7 +415,7 @@ immchomarc-348,immchomarc,lex-immchomarc-348,,vn. of imm·comairc,sync_nd;alt_no
 immdibe-349,immdibe,lex-immdibe-349,,vn. of imm·diben,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲəmʲðʲəβʲaØʲ
 immfogaibetu-350,immḟogaibetu,lex-immfogaibetu-350,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØʲəmʷaɣˠaβʲadʷəØʷ
 immarmus-351,immarmus,lex-immarmus-351,,vn. of imm·ruimdethar,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØʲəmʷarʷμʷəsʷ
-immradud-352,immrádud,lex-immradud-352,,vn. of imm·rádi,sync;alt_none;gen_masc;stem_u;num_all,ˈØʲəmʷrʷaØˠðʷədʷ
+immradud-352,immrádud,lex-immradud-352,,vn. of imm·rádi,sync;alt_none;gen_masc;stem_u;num_all,ˈØʲəmʷrʷaØˠðʷəðʷ
 immned-353,immned,lex-immned-353,,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʲnʲaðˠ
 immrol-354,immról,lex-immrol-354,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷrʷaØʷlˠ
 immthanad-355,immthánad,lex-immthanad-355,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷθʷaØˠnˠaðˠ
@@ -484,7 +484,7 @@ luige-406,luige,lex-luige-406,79;5,;*lug-i̯o-; vn. of tongaid,sync_vf;alt_none;
 lugae-406.1,lugae,lex-luige-406,6,;*lug-i̯o-; vn. of tongaid,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈʟʷəɣʷaØʲ
 mam-407,mám,lex-mam-407,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈmˠaØˠμˠ
 macc-408,macc,lex-macc-408,,*maku̯ku̯o-,sync_none;alt_none;gen_masc;stem_o;num_all,ˈmˠakˠ
-machdad-409,machdad,lex-machdad-409,6;7;22;80,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈmˠaxˠðˠadˠ
+machdad-409,machdad,lex-machdad-409,6;7;22;80,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈmˠaxˠðˠaðˠ
 machthad-409.1,machthad,lex-machdad-409,79;6;5,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈmˠaxˠθˠaðˠ
 maigister-410,maigister,lex-maigister-410,,,sync;alt_none;gen_masc;stem_o;num_all,ˈmˠaɣʲəsʲtʲarˠ
 main-411,maín,lex-moen-411,,*moi̯ni-,sync_none;alt_none;gen_fem;stem_i;num_all,ˈmˠaØʲnʲ
@@ -509,7 +509,7 @@ munad-428,múnad,lex-munad-428,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈmʷ�
 muined-428.1,múined,lex-munad-428,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈmʷəØʷnʲaðˠ
 muinter-429,muinter,lex-muinter-429,79;70;5;1,<Lat. monasterium? via British?,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈmʷənʲtʲarˠ
 muntar-429.1,muntar,lex-muinter-429,6;7,<Lat. monasterium? via British?,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈmʷənʷtʷarˠ
-neb-buith-430,neb-buith,lex-neb-buith-430,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈɴʲaβˠ-ˈbʷəθʲ
+neb-buith-430,neb-buith,lex-neb-buith-430,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈɴʲaβˠ-ˈβʷəθʲ
 neb-chomalnad-431,neb-chomalnad,lex-neb-chomalnad-431,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈɴʲaβˠ-ˈxʷaμˠalˠnˠaðˠ
 neb-martu-432,neb-martu,lex-neb-martu-432,,,sync_vf;alt_none;gen_masc;stem_nt;num_all,ˈɴʲaβˠ-ˈμˠarʷtʷəØʷ
 neb-thabart-433,neb-thabart,lex-neb-thabart-433,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈɴʲaβˠ-ˈθˠaβˠarˠtˠ
