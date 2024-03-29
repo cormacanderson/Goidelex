@@ -271,7 +271,7 @@ Sample of maximum 20 input/output pairs:
 0 -> s / x _
 Sample of maximum 20 input/output pairs:
 
-	exceptaid -> exsceptaid
+	eixceptaid -> eixsceptaid
 
 
 %%%% 3. Orthographic ff is f
@@ -361,7 +361,7 @@ Sample of maximum 20 input/output pairs:
 	etarcertt -> etarccertt
 	etircertt -> etirccertt
 	etarscarad -> etarsccarad
-	exsceptaid -> exscceptaid
+	eixsceptaid -> eixscceptaid
 	foircenn -> foirccenn
 	forcan -> forccan
 	foircital -> foirccital
@@ -427,7 +427,7 @@ Sample of maximum 20 input/output pairs:
 0 -> t / [pc] _ (?=t([^h]|#))
 Sample of maximum 20 input/output pairs:
 
-	exscceptaid -> exsccepttaid
+	eixscceptaid -> eixsccepttaid
 	ppreicept -> ppreiceptt
 	ppreiceptóir -> ppreicepttóir
 
@@ -435,7 +435,7 @@ Sample of maximum 20 input/output pairs:
 0 -> p / p _ (?=t([^h]|#))
 Sample of maximum 20 input/output pairs:
 
-	exsccepttaid -> exscceppttaid
+	eixsccepttaid -> eixscceppttaid
 	ppreiceptt -> ppreicepptt
 	ppreicepttóir -> ppreiceppttóir
 
@@ -621,25 +621,62 @@ Sample of maximum 20 input/output pairs:
 % vowels: a, e, i, o, u, A, E, I, O, U
 % symbols: -, ·, :, /., /s, ᴸ, ᴺ, ᴴ
 %
-%%%%%%%%%%%%%%%     Variables / Shorthands     %%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%    Shorthands     %%%%%%%%%%%%%%%
 %
-% These define shorthands used for readability & brevity in
-% the rules
+%%%% 1. Shorthands
 %
-%%%% 1. Define the class of vowels
+% We use two shorthands for readability and brevity in the rules.
 %
-%%%% 2. Define the class of consonants
+% 1i. Defines the class of vowels. Capital <I, U, E, O, A> stand for
+% long <í ú é ó á> in the normalised orthography.
 %
-%%%%%%%%%%%%%%%     Stress     %%%%%%%%%%%%%%%
-%%%% 3. Primary stress
+% 1ii. Defines the class of vowels (omitting the zero consonant Ø).
 %
-% Assigns a primary stress mark i) word-initially, ii) after
-% either of the markers · or -
-% ADD : here
-% ADD ᴸᴺᴴ here
-% also further down, context [ˈˌ] _ should be checked
+%%%% 1i. Defining the class of vowels
 %
-0 -> ˈ / (#|[·-]) _
+%%%% 1ii. Defining the class of consonants
+%
+%%%%%%%%%%%%%%%     Boundary markers and stress     %%%%%%%%%%%%%%%
+%
+% The normalised orthography permits the following boundary markers:
+% <-, ·, :, ᴸ, ᴺ, ᴴ, /s (whitespace)> In addition, we use here
+% </. (full stop)>, separating hiatus vowels. Descriptions follow.
+%
+% 1) Three mutation markers <ᴸ, ᴺ, ᴴ>, preceding a stressed syllable. A following consonant following is parsed as radical (phrase-initial).
+% The following contexts occur:
+% a) Without another marker: preceding a stressed syllable, after an unstressed constitutent.
+% e.g. aᴸcatt 'his cat'; aᴺcatt 'their cat'
+% b) With whitespace: preceding a stressed syllable, after a stressed constitutent.
+% e.g. Cúᴸ Culainn
+% c) With the hyphen: preceding a stressed syllable, after a stressed constitutent.
+% e.g. senᴸ-máthair
+% A further operation can resolve these to phonological forms
+% e.g. a̟ᴸcatt -> a:chatt 'his cat'; aᴺcatt -> a:catt 'their cat'; Cúᴸ Culainn -> Cú Chulainn; sen-máthair
+%
+% 2) The mid-dot <·>, preceding a stressed syllable, after an unstressed constitutent. A following consonant following is parsed as radical (phrase-initial).
+% e.g. as·beir 'says'
+%
+% 3) The colon <:>, preceding a stressed syllable, after an unstressed constitutent. A following consonant following has its ordinary contextual value.
+% e.g. a:chatt 'his cat'; a:ccatt 'her cat'; a:catt 'their cat'
+%
+% 4) The hyphen <->, preceding a stressed syllable, after a stressed constitutent (see note). A following consonant following has its ordinary contextual value.
+% While conventionally used for compounds, this can be replaced by a mutation marker and whitespace.
+% e.g. sen-máthair ~ senᴸ máthair 'grandmother'
+%
+% 5) The equals sign <=>, preceding an unstressed syllable. Used before one of the closed class of notae augentes and immediately followed by whitespace.
+% e.g. ad·cobra=som 'he desires'
+%
+% 6) Whitespace < /s (whitespace)>. Used before a new stress group.
+%
+%%%% 2. Stress assignment
+%
+% Stress can be assigned in the following contexts:
+% i) After a mutation marker, optionally followed by whitespace
+% ii) After the mid-dot, colon, or hyphen
+% iii) After whitespace, except when the following string contains a mutation marker, a mid-dot, or a colon
+% iv) Initially on the line
+%
+0 -> ˈ / ([ᴸᴺᴴ]/s?)|[·:-]|/s(?![^/s]+[·:])|# _
 Sample of maximum 20 input/output pairs:
 
 	ai.er -> ˈai.er
@@ -664,27 +701,150 @@ Sample of maximum 20 input/output pairs:
 	enex -> ˈenex
 
 
-%%%%%%%%%%%%%%%     Preliminaries     %%%%%%%%%%%%%%%
-%%%% 5. Delete hanging Ø
+%%%% 4. Prepositional elements
 %
-% e.g. immḟogbaidetu: imØogbaidetu -> imogbaidetu
-% e.g. airḟograe: airØograe -> airograe
+% It is unclear the extent to which prepositional elements assimilate in colour to a following element.
+% The following policy is adopted here:
+% i) For imm-, ind-, and frith-, we assume assimilation to following i-colour and u-colour, but not to a-colour.
+% ii) For com- we assume assimilation to following u-colour and a-colour, but not to i-colour (unless the orthography indicates otherwise.
+% iii) For etar-, we do not assume assimilation to following i-colour or u-colour. With etir-, we don not assume assimilation to following u-colour or a-colour.
+% iv) For air-/er-, we assume assimilation to following i-colour, u-colour and a-colour (cf. Rule 6)
 %
-Ø -> 0 / ::C:: _
+% As this is a closed class, we fully specify these elements here and protect them from the ensuing sound changes
+%
+ˈim -> ˈØʲəmʲ! / _ ::C::*[ieIE]
 Sample of maximum 20 input/output pairs:
 
-	ˈainØius -> ˈainius
-	ˈimØoɣaiβedu -> ˈimoɣaiβedu
-	ˈairØOgrae -> ˈairOgrae
-	ˈairØUagrae -> ˈairUagrae
+	ˈimbeð -> ˈØʲəmʲ!beð
+	ˈimbresan -> ˈØʲəmʲ!bresan
+	ˈimxist -> ˈØʲəmʲ!xist
+	ˈimðiβe -> ˈØʲəmʲ!ðiβe
+	ˈimneð -> ˈØʲəmʲ!neð
+	ˈimθext -> ˈØʲəmʲ!θext
+	ˈimθrEnuɣuð -> ˈØʲəmʲ!θrEnuɣuð
 
 
-%%%% 6.  Assign Ø to word-initial vowels
+ˈim -> ˈØʲəmʷ! / _
+Sample of maximum 20 input/output pairs:
+
+	ˈimbað -> ˈØʲəmʷ!bað
+	ˈimxoμark -> ˈØʲəmʷ!xoμark
+	ˈimØoɣaiβedu -> ˈØʲəmʷ!Øoɣaiβedu
+	ˈimarμus -> ˈØʲəmʷ!arμus
+	ˈimrAðuð -> ˈØʲəmʷ!rAðuð
+	ˈimrOl -> ˈØʲəmʷ!rOl
+	ˈimθAnað -> ˈØʲəmʷ!θAnað
+	ˈimθAnuð -> ˈØʲəmʷ!θAnuð
+	ˈimθuɣae -> ˈØʲəmʷ!θuɣae
+
+
+ˈkoμ -> ˈkʷaμʷ! / _ ::C::*[uoUO]
+Sample of maximum 20 input/output pairs:
+
+	ˈkoμrorgon -> ˈkʷaμʷ!rorgon
+
+
+ˈkoμ -> ˈkʷaμˠ! / _
+Sample of maximum 20 input/output pairs:
+
+	ˈkoμakoβor -> ˈkʷaμˠ!akoβor
+	ˈkoμairβert -> ˈkʷaμˠ!airβert
+	ˈkoμairle -> ˈkʷaμˠ!airle
+	ˈkoμaidext -> ˈkʷaμˠ!aidext
+	ˈkoμalnað -> ˈkʷaμˠ!alnað
+	ˈkoμarbus -> ˈkʷaμˠ!arbus
+	ˈkoμarðae -> ˈkʷaμˠ!arðae
+	ˈkoμnesaμ -> ˈkʷaμˠ!nesaμ
+	ˈkoμθinOl -> ˈkʷaμˠ!θinOl
+
+
+ˈedar -> ˈØʲadˠarˠ! / _
+Sample of maximum 20 input/output pairs:
+
+	ˈedarkert -> ˈØʲadˠarˠ!kert
+	ˈedardiβe -> ˈØʲadˠarˠ!diβe
+	ˈedarskarað -> ˈØʲadˠarˠ!skarað
+	ˈedargnae -> ˈØʲadˠarˠ!gnae
+
+
+ˈedir -> ˈØʲadʲərʲ! / _
+Sample of maximum 20 input/output pairs:
+
+	ˈedirkert -> ˈØʲadʲərʲ!kert
+
+
+ˈer -> ˈØˠərʲ! / _ ::C::*[ieIE]
+Sample of maximum 20 input/output pairs:
+
+	ˈerβert -> ˈØˠərʲ!βert
+	ˈere -> ˈØˠərʲ!e
+	ˈeresxae -> ˈØˠərʲ!esxae
+	ˈeres -> ˈØˠərʲ!es
+
+
+ˈair -> ˈØˠərʷ! / _ ::C::*[uoUO]
+Sample of maximum 20 input/output pairs:
+
+	ˈairkor -> ˈØˠərʷ!kor
+
+
+ˈair -> ˈØʲarˠ! / _ ::C::*[aA]
+Sample of maximum 20 input/output pairs:
+
+	ˈairɣaire -> ˈØʲarˠ!ɣaire
+	ˈairladu -> ˈØʲarˠ!ladu
+	ˈairAil -> ˈØʲarˠ!Ail
+	ˈairβAɣ -> ˈØʲarˠ!βAɣ
+	ˈairxrae -> ˈØʲarˠ!xrae
+	ˈairɣal -> ˈØʲarˠ!ɣal
+	ˈairnaiɣðe -> ˈØʲarˠ!naiɣðe
+
+
+%%%%%%%%%%%%%%%     Rewriting vowels before colour assignment     %%%%%%%%%%%%%%%
 %
-% We posit a zero consonant word initially. This zero consonant can
-% be specified for consonant colour.
+% Vowels in Old Irish have a dual function of indicating vowel quality and marking consonant colour.
+% The following rules rewrite vowels before consonant colour assignment.
 %
-0 -> Ø / [ˈˌ] _ ::V::
+%%%%
+%%%% Source and target vowel inventories
+%%%%
+%
+% short vowels: a, ai, au; e, ei, eu; o, oi; i, iu; u, ui; əi, əu
+% target:
+% aa, ai, au
+% ea, ei, eu
+% oa, oi, ou
+% ii, iu
+% uu, ui
+% əu, əi
+%
+%
+% final vowels: a, ea; ae, e; ai, i; o, eo; u, iu
+% target:
+% aA, iA, uA
+% aE, iE, uE
+% aO, iO, uO
+% aI, iI, uI
+% aU, iU, uU
+%
+% long vowels: á, ái, ía, úa, úai; áe, aí, é, éi, óe, oí; áu, éo, éoi, ó, ói; ío, í, uí; íu, íui, ú, úi
+% target:
+% aA, aAa, aAi, aAu; iA, iAa, (iAi), iAu; uA, uAa, uAi, uAu
+% aE, aEa, aEi, aEu; iE, iEa, iEi, iEu; uE, uEa, uEi, uEu
+% aO, aOa, aOi, aOu; iO, iOa, iOi, iOu; uO, uOa, uOi, uOu
+% aI, aIa, aIi, aIu; iI, iIa, iIi, iIu; uI, uIa, uIi, uIu
+% aU, aUa, aUi, aUu; iU, iUa, iUi, iUu; uU, uUa, uUi, uUu
+%
+%
+%%%% 5.  Assign Ø
+%
+% A vowel must be preceded by a colour marker [ʲʷˠ]. In the phonology, only a consonant can host a colour marker.
+% This rule assigns a zero consonant to act as host, where no consonant precedes.
+% There are two contexts in which this occurs:
+% 1) Initially
+% 2) After a prepositional element (see Rule 5)
+%
+0 -> Ø / [ˈ!] _ ::V::
 Sample of maximum 20 input/output pairs:
 
 	ˈai.er -> ˈØai.er
@@ -709,90 +869,34 @@ Sample of maximum 20 input/output pairs:
 	ˈenex -> ˈØenex
 
 
-%%%% 7. Specifying the obscure vowel ö
+%%%% 6. The obscure vowel ö
 %
-% e.g. 	airgaire 	-> Øairgaire (Rule 6) 	-> Øʲaargaire
-%	airlatu 	-> Øairlatu (Rule 6) 	-> Øˠəurlatu
-% e.g. 	aircor 		-> Øˠəurcor
-% e.g. 	enech 		-> Øˠəinech
+% The obscure vowel ö, 'for which the Irish script had no ambiguous symbol' (GOI §80) is spelled in the normalised orthography with
+% <ai> before u-colour or a-colour, and with <e> before i-colour.
+% This rarely occurs outside the prepositional element air-/er-, for which see Rule 4.
+% For cases outside this environment we assume the representations /ˠəi/ before i-colour and /ˠəu/ before u-colour.
 %
-% The obscure vowel ö is spelled <ai> before u-colour or a-colour, and with <e> before i-colour in the normalised orthography.
-% Before i-colour and u-colour, we assume the representation /ˠə/, while before a-colour we assume the representation /ʲa/.
-% This is most frequently exemplified by the prepositional element air- (for other prepositional elements cf. Rule ).
-%
-ai -> ˠəu / _ ::C::+[ouOU]
+e -> ˠəi / _ ::C::+[eiEI]
 Sample of maximum 20 input/output pairs:
 
-	ˈØairkor -> ˈØˠəurkor
-	ˈØairOgrae -> ˈØˠəurOgrae
-	ˈØairUagrae -> ˈØˠəurUagrae
+	ˈØenex -> ˈØˠəinex
+
+
+ai -> ˠəu / _ ::C::+[aouAOU]
+Sample of maximum 20 input/output pairs:
+
+	ˈØainax -> ˈØˠəunax
+	ˈØaiðbart -> ˈØˠəuðbart
 	ˈtaiðxor -> ˈtˠəuðxor
 	ˈtaiðxur -> ˈtˠəuðxur
 	ˈtairxoμrak -> ˈtˠəurxoμrak
 
 
-e -> ˠəi / _ ::C::+[eiEI]
-Sample of maximum 20 input/output pairs:
-
-	ˈØenex -> ˈØˠəinex
-	ˈØerβert -> ˈØˠəirβert
-	ˈØere -> ˈØˠəire
-	ˈØedirkert -> ˈØˠəidirkert
-	ˈØexskeptaið -> ˈØˠəixskeptaið
-	ˈØeresxae -> ˈØˠəiresxae
-	ˈØeres -> ˈØˠəires
-
-
-ai -> e / _ ::C::+[aA]
-Sample of maximum 20 input/output pairs:
-
-	ˈØainax -> ˈØenax
-	ˈØairɣaire -> ˈØerɣaire
-	ˈØairladu -> ˈØerladu
-	ˈØaiðbart -> ˈØeðbart
-	ˈØairAil -> ˈØerAil
-	ˈØairβAɣ -> ˈØerβAɣ
-	ˈØairxrae -> ˈØerxrae
-	ˈØairɣal -> ˈØerɣal
-	ˈØairnaiɣðe -> ˈØernaiɣðe
-
-
-%%%%
-%%%% Vowel inventories
-%%%%
+%%%% 7. Long vowels with initial fada
 %
-% short vowels: a, ai, au; e, ei, eu; o, oi; i, iu; u, ui; əi, əu
-% target:
-% aa, ai, au
-% ea, ei, eu
-% oa, oi, ou
-% ii, iu
-% uu, ui
-%
-%
-% final vowels: a, ea; ae, e; ai, i; o, eo; u, iu
-% target:
-% aA, iA, uA
-% aE, iE, uE
-% aO, iO, uO
-% aI, iI, uI
-% aU, iU, uU
-%
-% long vowels: á, ái, ía, úa, úai; áe, aí, é, éi, óe, oí; áu, éo, éoi, ó, ói; ío, í, uí; íu, íui, ú, úi
-% target:
-% aA, aAa, aAi, aAu; iA, iAa, (iAi), iAu; uA, uAa, uAi, uAu
-% aE, aEa, aEi, aEu; iE, iEa, iEi, iEu; uE, uEa, uEi, uEu
-% aO, aOa, aOi, aOu; iO, iOa, iOi, iOu; uO, uOa, uOi, uOu
-% aI, aIa, aIi, aIu; iI, iIa, iIi, iIu; uI, uIa, uIi, uIu
-% aU, aUa, aUi, aUu; iU, iUa, iUi, iUu; uU, uUa, uUi, uUu
-%
-%
-%%%% 10. Unify representation of length
-%
-% The normalised orthography follows scholarly conventions with respect to placement of the fada
-% These rules rewrite these conventions to facilitate assignment of consonant colour
-%
-% Necessary as a first step so that Eoi and Uai do not interfere with short vowel rules.
+% The normalised orthography follows scholarly conventions with respect to placement of the fada.
+% These rules rewrite these conventions to facilitate assignment of consonant colour.
+% This is necessary at this point in the derivation so that Eoi and Uai do not interfere with the reassignment rules for short vowel.
 %
 Ae -> aE / _
 Sample of maximum 20 input/output pairs:
@@ -893,7 +997,7 @@ Sample of maximum 20 input/output pairs:
 	ˈɸUagrae -> ˈɸuAgrae
 	ˈɸUaθ -> ˈɸuAθ
 	ˈglUas -> ˈgluAs
-	ˈØˠəurUagrae -> ˈØˠəuruAgrae
+	ˈØairØUagrae -> ˈØairØuAgrae
 	ˈʟUaɣ -> ˈʟuAɣ
 	ˈØUaxt -> ˈØuAxt
 	ˈØUar -> ˈØuAr
@@ -923,20 +1027,7 @@ Sample of maximum 20 input/output pairs:
 	ˈsIol -> ˈsIul
 
 
-%
-% Interim long vowel inventory
-% í, ío, uí; iú, iúi, ú, úi; é, éi, ué, uéi, aé, aéi; ió, iói, ó, ói, aó; iá, uá, uái, á, ái
-%
-%
-%%%%%%%%%%%%%%%     Rewriting short vowels     %%%%%%%%%%%%%%%
-% short vowels: a, ai, au; e, ei, eu; o, oi; i, iu; u, ui
-% target:
-% aa, ai, au
-% ea, ei, eu
-% oa, oi, ou
-% ii, iu
-% uu, ui
-%%%% 8. vowel conventions for short vowels
+%%%% 8. a-colour and u-colour with short vowels
 %
 % The normalised orthography allows:
 % i) <ai> not <ui> after <u> or <i>, the obscure vowel, ú or ío  e.g. cumtaig, foircitlaid
@@ -970,7 +1061,7 @@ Sample of maximum 20 input/output pairs:
 	ˈburbae -> ˈburbue
 	ˈkumae -> ˈkumue
 	ˈɸoirkidlaið -> ˈɸoirkidluið
-	ˈØimθuɣae -> ˈØimθuɣue
+	ˈØʲəmʷ!θuɣae -> ˈØʲəmʷ!θuɣue
 	ˈØiɴdnaiðe -> ˈØiɴdnuiðe
 	ˈØinɣnae -> ˈØinɣnue
 	ˈØinɣraim -> ˈØinɣruim
@@ -985,6 +1076,7 @@ Sample of maximum 20 input/output pairs:
 0 -> o / (::C::|Ø)+(ˠəu|[ui]|U|Iu)::C::+ _ (?=a::C::)
 Sample of maximum 20 input/output pairs:
 
+	ˈØˠəunax -> ˈØˠəunoax
 	ˈbunað -> ˈbunoað
 	ˈkaEin-ˈðUθraxt -> ˈkaEin-ˈðUθroaxt
 	ˈkuɴtuβart -> ˈkuɴtuβoart
@@ -1003,8 +1095,7 @@ Sample of maximum 20 input/output pairs:
 	ˈɸuɣaʟ -> ˈɸuɣoaʟ
 	ˈɸulaŋg -> ˈɸuloaŋg
 	ˈɸulax -> ˈɸuloax
-	ˈØilar -> ˈØiloar
-	ˈØimbað -> ˈØimboað
+	ˈØˠəuðbart -> ˈØˠəuðboart
 
 
 % 8iii.
@@ -1014,7 +1105,7 @@ Sample of maximum 20 input/output pairs:
 
 	ˈØakoβor -> ˈØakoβoar
 	ˈØakoμol -> ˈØakoμoal
-	ˈØˠəurkor -> ˈØˠəurkoar
+	ˈØˠərʷ!kor -> ˈØˠərʷ!koar
 	ˈØaOɣdorðAs -> ˈØaOɣdoarðAs
 	ˈbolað -> ˈboalað
 	ˈboθ -> ˈboaθ
@@ -1022,34 +1113,34 @@ Sample of maximum 20 input/output pairs:
 	ˈkoβaðlus -> ˈkoaβaðlus
 	ˈkol -> ˈkoal
 	ˈkolaiɴ -> ˈkoalaiɴ
-	ˈkoμakoβor -> ˈkoaμakoβoar
-	ˈkoμairβert -> ˈkoaμairβert
-	ˈkoμairle -> ˈkoaμairle
-	ˈkoμaidext -> ˈkoaμaidext
-	ˈkoμalnað -> ˈkoaμalnað
-	ˈkoμarbus -> ˈkoaμarbus
-	ˈkoμarðae -> ˈkoaμarðae
+	ˈkʷaμˠ!Øakoβor -> ˈkʷaμˠ!Øakoβoar
 	ˈkomaEin -> ˈkoamaEin
-	ˈkoμrorgon -> ˈkoμrorgoan
+	ˈkʷaμʷ!rorgon -> ˈkʷaμʷ!rorgoan
 	ˈkoɴdairgile -> ˈkoaɴdairgile
+	ˈkor -> ˈkoar
+	ˈkoraiɴte -> ˈkoaraiɴte
+	ˈkorp -> ˈkoarp
+	ˈkorp -> ˈkoarp
+	ˈkosk -> ˈkoask
+	ˈkoskrað -> ˈkoaskrað
 
 
 % 8iv.
 %
-0 -> a / ::V::::C::+o?[ea]::C::+ _ u
+0 -> a / (::V::|!)(::C::|Ø)+o?[ea]::C::+ _ u
 Sample of maximum 20 input/output pairs:
 
 	ˈØaðnagul -> ˈØaðnagaul
-	ˈØerladu -> ˈØerladau
+	ˈØʲarˠ!ladu -> ˈØʲarˠ!ladau
 	ˈbEstadu -> ˈbEstadau
 	ˈkoaβaðlus -> ˈkoaβaðlaus
-	ˈkoaμarbus -> ˈkoaμarbaus
+	ˈkʷaμˠ!Øarbus -> ˈkʷaμˠ!Øarbaus
 	ˈØeibeltu -> ˈØeibeltau
 	ˈØabaltu -> ˈØabaltau
 	ˈØesargun -> ˈØesargaun
 	ˈɸoirβθedu -> ˈɸoirβθedau
-	ˈØimoaɣaiβedu -> ˈØimoaɣaiβedau
-	ˈØimoarμus -> ˈØimoarμaus
+	ˈØʲəmʷ!Øoaɣaiβedu -> ˈØʲəmʷ!Øoaɣaiβedau
+	ˈØʲəmʷ!Øarμus -> ˈØʲəmʷ!Øarμaus
 	ˈtiɴdnoakul -> ˈtiɴdnoakaul
 
 
@@ -1058,9 +1149,8 @@ Sample of maximum 20 input/output pairs:
 0 -> u / (::C::|Ø)[iuo] _ (?=::C::+O)
 Sample of maximum 20 input/output pairs:
 
-	ˈkoμθinOl -> ˈkoμθiunOl
+	ˈkʷaμˠ!θinOl -> ˈkʷaμˠ!θiunOl
 	ˈɸorOil -> ˈɸourOil
-	ˈØimrOl -> ˈØiumrOl
 	ˈtinOl -> ˈtiunOl
 
 
@@ -1084,16 +1174,21 @@ Sample of maximum 20 input/output pairs:
 	ˈkeθarxo -> ˈkeθaurxo
 	ˈkoβuir -> ˈkouβuir
 	ˈkoguβus -> ˈkouguuβus
-	ˈkoaμakoβoar -> ˈkoaμaukouβoar
-	ˈkoμrorgoan -> ˈkouμrourgoan
+	ˈkʷaμˠ!Øakoβoar -> ˈkʷaμˠ!Øaukouβoar
+	ˈkʷaμʷ!rorgoan -> ˈkʷaμʷ!rourgoan
 	ˈkuɴtuβoart -> ˈkuuɴtuuβoart
 
 
-%%%% 9. Unify representations of short vowels
+%%%% 9. Rewriting short and hiatus vowels
 %
-% short vowels, including in hiatus
+% These rules rewrite short vowels for colour assignment
 %
-% Following
+% 9i. Adds a vowel after a short vowel for colour assignment, also in hiatus.
+% 9ii. Raises the first vowel in hiatus, where only /ə/ is permitted after i-colour or u-colour.
+% 9iii. Adds a vowel before a short vowel for colour assignment.
+% 9iv. Rewrites the second vowel in hiatus for colour assignment.
+%
+% 9i.
 %
 0 -> i / (::C::|Ø)i _ (?=::C::|\.)
 Sample of maximum 20 input/output pairs:
@@ -1158,18 +1253,20 @@ Sample of maximum 20 input/output pairs:
 	ˈØaigneð -> ˈØaigneað
 	ˈØaimser -> ˈØaimsear
 	ˈØˠəinex -> ˈØˠəineax
-	ˈØenax -> ˈØeanaax
 	ˈØaiŋgel -> ˈØaiŋgeal
 	ˈØAiɴseμ -> ˈØAiɴseaμ
-	ˈØˠəirβert -> ˈØˠəirβeart
+	ˈØˠərʲ!βert -> ˈØˠərʲ!βeart
 	ˈØairxiiɴex -> ˈØairxiiɴeax
 	ˈØairxiisext -> ˈØairxiiseaxt
 	ˈØaireg -> ˈØaireag
 	ˈØairexas -> ˈØaireaxaas
-	ˈØerɣaire -> ˈØearɣaire
 	ˈØalmsan -> ˈØaalmsaan
+	ˈØaltOir -> ˈØaaltOir
+	ˈØaltram -> ˈØaaltraam
 
 
+% 9ii.
+%
 e -> i / _ a\.
 Sample of maximum 20 input/output pairs:
 
@@ -1179,9 +1276,7 @@ Sample of maximum 20 input/output pairs:
 	ˈʀea.e -> ˈʀia.e
 
 
-% Preceding
-%
-% Also single vowels before hiatus here
+% 9iii.
 %
 0 -> a / _ (?=a[aiu]::C::)|a-
 Sample of maximum 20 input/output pairs:
@@ -1201,11 +1296,11 @@ Sample of maximum 20 input/output pairs:
 	ˈØail -> ˈØaail
 	ˈØaiʟe -> ˈØaaiʟe
 	ˈØaimsear -> ˈØaaimsear
-	ˈØeanaax -> ˈØeanaaax
 	ˈØaiŋgeal -> ˈØaaiŋgeal
 	ˈØainm -> ˈØaainm
 	ˈØainμne -> ˈØaainμne
 	ˈØairxiiɴeax -> ˈØaairxiiɴeax
+	ˈØairxiiseaxt -> ˈØaairxiiseaxt
 
 
 0 -> i / _ (?=[ei][aiu]::C::)|[ie]-
@@ -1216,21 +1311,21 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaigneað -> ˈØaaignieað
 	ˈØaaimsear -> ˈØaaimsiear
 	ˈØˠəineax -> ˈØˠəinieax
-	ˈØeanaaax -> ˈØieanaaax
 	ˈØaaiŋgeal -> ˈØaaiŋgieal
 	ˈØAiɴseaμ -> ˈØAiɴsieaμ
-	ˈØˠəirβeart -> ˈØˠəirβieart
+	ˈØˠərʲ!βeart -> ˈØˠərʲ!βieart
 	ˈØaairxiiɴeax -> ˈØaairxiiiɴieax
 	ˈØaairxiiseaxt -> ˈØaairxiiisieaxt
 	ˈØaaireag -> ˈØaairieag
 	ˈØaaireaxaaas -> ˈØaairieaxaaas
-	ˈØearɣaaire -> ˈØiearɣaaire
 	ˈØaairiidiu -> ˈØaairiiidiu
 	ˈØaairliuguuð -> ˈØaairliiuguuð
 	ˈØaairμiidiu -> ˈØaairμiiidiu
 	ˈØaaiθiirɣe -> ˈØaaiθiiirɣe
 	ˈØaaiθriiɣe -> ˈØaaiθriiiɣe
 	ˈØaaiθiis -> ˈØaaiθiiis
+	ˈØaaaμaaireas -> ˈØaaaμaairieas
+	ˈØaaaμaaireasaaax -> ˈØaaaμaairieasaaax
 
 
 0 -> u / _ (?=[ou][aiu]::C::)|[ou]-
@@ -1238,7 +1333,8 @@ Sample of maximum 20 input/output pairs:
 
 	ˈØaaukouβoar -> ˈØaaukuouβuoar
 	ˈØaaukouμoal -> ˈØaaukuouμuoal
-	ˈØˠəurkoar -> ˈØˠəurkuoar
+	ˈØˠəunoax -> ˈØˠəunuoax
+	ˈØˠərʷ!koar -> ˈØˠərʷ!kuoar
 	ˈØaairliiuguuð -> ˈØaairliiuguuuð
 	ˈØaairiiuɣuuð -> ˈØaairiiuɣuuuð
 	ˈØaaustuuð -> ˈØaaustuuuð
@@ -1255,7 +1351,6 @@ Sample of maximum 20 input/output pairs:
 	ˈkaEin-ˈxoaμraaak -> ˈkaEin-ˈxuoaμraaak
 	ˈkaEin-ˈðUuθroaxt -> ˈkaEin-ˈðUuθruoaxt
 	ˈkEudβuið -> ˈkEudβuuið
-	ˈkoaβaaaðlaaus -> ˈkuoaβaaaðlaaus
 
 
 0 -> a / \.[oea] _ ::C::
@@ -1272,21 +1367,19 @@ Sample of maximum 20 input/output pairs:
 	ˈtrii.ar -> ˈtrii.aar
 
 
-%%%%%%%%%%%%%%%     Rewriting long voweLs     %%%%%%%%%%%%%%%
-%
-%%%% 11. Clarifying ambiguous colour around long vowels
+%%%% 10. Rewriting long vowels
 %
 % These rules rewrite long vowels for colour assignment.
 %
-% 11i. There is ambiguity in the case of medial ó and ói, where these might follow a-colour or u-colour.
+% 10i. There is ambiguity in the case of medial ó and ói, where these might follow a-colour or u-colour.
 % This rule isolates the a-colour cases (where <ó, ói> are the medial realisations of <áu, áui>.
 %
 % e.g. umaldóit
 %
-% 11ii. Elsewhere, the quality of a preceding consonant can be straightforwardly inferred by the vowel representation.
+% 10ii. Elsewhere, the quality of a preceding consonant can be straightforwardly inferred by the vowel representation.
 % These rules assign short vowels before long vowels for colour assignment
 %
-% 11iii. In many cases, the normalised orthography of long vowels is the same whether an a-colour or u-colour consonant follows.
+% 10iii. In many cases, the normalised orthography of long vowels is the same whether an a-colour or u-colour consonant follows.
 % In most cases (11iv.) we take the following vowel to be indicative of consonant colour, but the situation is less clear with final consonants.
 % For ó before a final consonant, e.g. brón, a-colour is assumed.
 %
@@ -1296,9 +1389,9 @@ Sample of maximum 20 input/output pairs:
 % Similarly, we cannot tell from the normalised orthography if éi represents CʲaØʲCʲ (iéi) or CʲaØˠCʲ (iái). The latter alternates with ía.
 % Here, we assume the representation CʲaØʲCʲ.
 %
-% 11iv. When a vowel follows, we have taken this to indicate the colour of the preceding consonant.
+% 10iv. When a vowel follows, we have taken this to indicate the colour of the preceding consonant.
 %
-% 11i.
+% 10i.
 %
 0 -> a / a::C::+ _ O
 Sample of maximum 20 input/output pairs:
@@ -1309,7 +1402,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØuoaμaaalðOid -> ˈØuoaμaaalðaOid
 
 
-% 11ii.
+% 10ii.
 %
 0 -> a / ::C::|Ø _ A
 Sample of maximum 20 input/output pairs:
@@ -1366,7 +1459,7 @@ Sample of maximum 20 input/output pairs:
 
 	ˈbrOn -> ˈbruOn
 	ˈkaEin-ˈðUuθruoaxt -> ˈkaEin-ˈðuUuθruoaxt
-	ˈkuoaμθiiunOl -> ˈkuoaμθiiunuOl
+	ˈkʷaμˠ!θiiunOl -> ˈkʷaμˠ!θiiunuOl
 	ˈkOrae -> ˈkuOrae
 	ˈkUl -> ˈkuUl
 	ˈkUursuoaɣaaað -> ˈkuUursuoaɣaaað
@@ -1378,15 +1471,15 @@ Sample of maximum 20 input/output pairs:
 	ˈɸOgrae -> ˈɸuOgrae
 	ˈɸuourOil -> ˈɸuouruOil
 	ˈgnUis -> ˈgnuUis
-	ˈØiiumrOl -> ˈØiiumruOl
-	ˈØˠəurOgrae -> ˈØˠəuruOgrae
+	ˈØʲəmʷ!rOl -> ˈØʲəmʷ!ruOl
+	ˈØaairØOgrae -> ˈØaairØuOgrae
 	ˈʟOɣ -> ˈʟuOɣ
 	ˈmOraaað -> ˈmuOraaað
 	ˈmUunuoað -> ˈmuUunuoað
 	ˈmUinieað -> ˈmuUinieað
 
 
-% 11iii.
+% 10iii.
 %
 0 -> i / I _ ::C::+(-|·|#)
 Sample of maximum 20 input/output pairs:
@@ -1424,7 +1517,7 @@ Sample of maximum 20 input/output pairs:
 	ˈkiEd -> ˈkiEad
 	ˈkiAʟ -> ˈkiAaʟ
 	ˈkuoiμiEd -> ˈkuoiμiEad
-	ˈkuoaμθiiunuOl -> ˈkuoaμθiiunuOal
+	ˈkʷaμˠ!θiiunuOl -> ˈkʷaμˠ!θiiunuOal
 	ˈdaAn -> ˈdaAan
 	ˈØiEd -> ˈØiEad
 	ˈɸiAx -> ˈɸiAax
@@ -1433,7 +1526,7 @@ Sample of maximum 20 input/output pairs:
 	ˈgluAs -> ˈgluAas
 
 
-% 11iv.
+% 10iv.
 %
 0 -> a / [AEIOU] _ ::C::+[a]
 Sample of maximum 20 input/output pairs:
@@ -1495,7 +1588,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaiʟe -> ˈØaaiʟie
 	ˈØaainμne -> ˈØaainμnie
 	ˈØaairðe -> ˈØaairðie
-	ˈØiearɣaaire -> ˈØiearɣaairie
+	ˈØʲarˠ!ɣaaire -> ˈØʲarˠ!ɣaairie
 	ˈØaaiθe -> ˈØaaiθie
 	ˈØaaiθɣne -> ˈØaaiθɣnie
 	ˈØaaiθiiirɣe -> ˈØaaiθiiirɣie
@@ -1509,7 +1602,7 @@ Sample of maximum 20 input/output pairs:
 	ˈkluEine -> ˈkluEinie
 	ˈkuoigiEilsiiine -> ˈkuoigiEilsiiinie
 	ˈkuoiβse -> ˈkuoiβsie
-	ˈkuoaμaairle -> ˈkuoaμaairlie
+	ˈkʷaμˠ!Øaairle -> ˈkʷaμˠ!Øaairlie
 	ˈkuoaɴdaairgiiile -> ˈkuoaɴdaairgiiilie
 	ˈkuoaraaiɴte -> ˈkuoaraaiɴtie
 
@@ -1535,9 +1628,9 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaanmxaaara -> ˈØaaanmxaaaraa
 
 
-%%%% ?. Rewrite final vowels and first vowel of two in hiatus as long vowels
+%%%% 12. Final vowels and first of two in hiatus as long vowels
 %
-%
+% It is convenient in the derivation to treat final vowels and the first of two in hiatus as long and this rule does that.
 %
 i -> I / _ (\.|#)
 Sample of maximum 20 input/output pairs:
@@ -1564,7 +1657,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØaairiiidiu -> ˈØaairiiidiU
 	ˈØaairμiiidiu -> ˈØaairμiiidiU
 	ˈØaaubθuu -> ˈØaaubθuU
-	ˈØiearlaaadau -> ˈØiearlaaadaU
+	ˈØʲarˠ!laaadau -> ˈØʲarˠ!laaadaU
 	ˈbiEastaaadau -> ˈbiEastaaadaU
 	ˈbieuθuu -> ˈbieuθuU
 	ˈbiiuβðuu -> ˈbiiuβðuU
@@ -1588,7 +1681,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaiʟie -> ˈØaaiʟiE
 	ˈØaainμnie -> ˈØaainμniE
 	ˈØaairðie -> ˈØaairðiE
-	ˈØiearɣaairie -> ˈØiearɣaairiE
+	ˈØʲarˠ!ɣaairie -> ˈØʲarˠ!ɣaairiE
 	ˈØaaiθie -> ˈØaaiθiE
 	ˈØaaiθɣnie -> ˈØaaiθɣniE
 	ˈØaaiθiiirɣie -> ˈØaaiθiiirɣiE
@@ -1627,12 +1720,10 @@ Sample of maximum 20 input/output pairs:
 	ˈsaain-ˈlaa.E -> ˈsaain-ˈlaA.E
 
 
-% Interim short vowel summary:
-% short vowels : ii, iu, ui, uu, ei, eu, ea, oi, ou, oa, ai, au, a
-% final vowels: ii, ui, ai; iu, uu, au; ie, ue, ae; io, uo, ao; ia, ua, aa
+%%%%%%%%%%%%%%%     Consonant colour assignment     %%%%%%%%%%%%%%%
+%%%% 15. Consonant colour before vowels
 %
-%%%%%%%%%%%%%%%     TO INTEGRATE OR PLACE ELSEWHERE     %%%%%%%%%%%%%%%
-%%%% 15. assign colour before vowels
+% This rule assigns consonant colour before vowels.
 %
 i -> ʲ / (?<=::C::+|Ø) _ ::V::
 Sample of maximum 20 input/output pairs:
@@ -1644,19 +1735,19 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaiʟiE -> ˈØaaiʟʲE
 	ˈØaaimsiear -> ˈØaaimsʲear
 	ˈØˠəinieax -> ˈØˠəinʲeax
-	ˈØieanaaax -> ˈØʲeanaaax
 	ˈØaaiŋgieal -> ˈØaaiŋgʲeal
 	ˈØaainμniE -> ˈØaainμnʲE
 	ˈØaAiɴsieaμ -> ˈØaAiɴsʲeaμ
-	ˈØˠəirβieart -> ˈØˠəirβʲeart
+	ˈØˠərʲ!βieart -> ˈØˠərʲ!βʲeart
 	ˈØaairxiiiɴieax -> ˈØaairxʲiiɴʲeax
 	ˈØaairxiiisieaxt -> ˈØaairxʲiisʲeaxt
 	ˈØaairðiE -> ˈØaairðʲE
 	ˈØaairieag -> ˈØaairʲeag
 	ˈØaairieaxaaas -> ˈØaairʲeaxaaas
-	ˈØiearɣaairiE -> ˈØʲearɣaairʲE
+	ˈØʲarˠ!ɣaairiE -> ˈØʲarˠ!ɣaairʲE
 	ˈØaairiiidiU -> ˈØaairʲiidʲU
 	ˈØaairliiuguuuð -> ˈØaairlʲiuguuuð
+	ˈØaairμiiidiU -> ˈØaairμʲiidʲU
 
 
 u -> ʷ / (?<=::C::+|Ø) _ ::V::
@@ -1664,7 +1755,8 @@ Sample of maximum 20 input/output pairs:
 
 	ˈØaaukuouβuoar -> ˈØaaukʷouβʷoar
 	ˈØaaukuouμuoal -> ˈØaaukʷouμʷoal
-	ˈØˠəurkuoar -> ˈØˠəurkʷoar
+	ˈØˠəunuoax -> ˈØˠəunʷoax
+	ˈØˠərʷ!kuoar -> ˈØˠərʷ!kʷoar
 	ˈØaairlʲiuguuuð -> ˈØaairlʲiugʷuuð
 	ˈØaaubθuU -> ˈØaaubθʷU
 	ˈØaairʲiuɣuuuð -> ˈØaairʲiuɣʷuuð
@@ -1681,7 +1773,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbuuiɴʲE -> ˈbʷuiɴʲE
 	ˈbuuiθ -> ˈbʷuiθ
 	ˈbuoaθ -> ˈbʷoaθ
-	ˈbuuunuoað -> ˈbʷuunʷoað
 
 
 a -> ˠ / (?<=::C::+|Ø) _ ::V::
@@ -1705,11 +1796,13 @@ Sample of maximum 20 input/output pairs:
 	ˈØaAil -> ˈØˠAil
 	ˈØaaiʟʲE -> ˈØˠaiʟʲE
 	ˈØaaimsʲear -> ˈØˠaimsʲear
-	ˈØʲeanaaax -> ˈØʲeanˠaax
 	ˈØaaiŋgʲeal -> ˈØˠaiŋgʲeal
+	ˈØaainm -> ˈØˠainm
 
 
-%%%% 15. assign colour after vowels
+%%%% 15. Consonant colour after vowels
+%
+% This rule assigns consonant colour after vowels.
 %
 i -> ʲ / ([ˠʲʷ]|\.)::V:: _
 Sample of maximum 20 input/output pairs:
@@ -1730,10 +1823,10 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠainm -> ˈØˠaʲnm
 	ˈØˠainμnʲE -> ˈØˠaʲnμnʲE
 	ˈØˠAiɴsʲeaμ -> ˈØˠAʲɴsʲeaμ
-	ˈØˠəirβʲeart -> ˈØˠəʲrβʲeart
 	ˈØˠairxʲiiɴʲeax -> ˈØˠaʲrxʲiʲɴʲeax
 	ˈØˠairxʲiisʲeaxt -> ˈØˠaʲrxʲiʲsʲeaxt
 	ˈØˠairðʲE -> ˈØˠaʲrðʲE
+	ˈØˠairʲeag -> ˈØˠaʲrʲeag
 
 
 u -> ʷ / ([ˠʲʷ]|\.)::V:: _
@@ -1743,9 +1836,9 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaukʷouμʷoal -> ˈØˠaʷkʷoʷμʷoal
 	ˈØˠaaðnˠaagˠaul -> ˈØˠaaðnˠaagˠaʷl
 	ˈØʲEʲdʲiuð -> ˈØʲEʲdʲiʷð
-	ˈØˠəurkʷoar -> ˈØˠəʷrkʷoar
+	ˈØˠəunʷoax -> ˈØˠəʷnʷoax
 	ˈØˠaʲrlʲiugʷuuð -> ˈØˠaʲrlʲiʷgʷuʷð
-	ˈØˠaʲnʲius -> ˈØˠaʲnʲiʷs
+	ˈØˠaʲnØʲius -> ˈØˠaʲnØʲiʷs
 	ˈØˠaubθʷU -> ˈØˠaʷbθʷU
 	ˈØˠaʲrʲiuɣʷuuð -> ˈØˠaʲrʲiʷɣʷuʷð
 	ˈØˠAʲrʲiʲʟʲiuð -> ˈØˠAʲrʲiʲʟʲiʷð
@@ -1777,18 +1870,19 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲgnʲeað -> ˈØˠaʲgnʲeˠð
 	ˈØˠaʲmsʲear -> ˈØˠaʲmsʲeˠr
 	ˈØˠəʲnʲeax -> ˈØˠəʲnʲeˠx
-	ˈØʲeanˠaax -> ˈØʲeˠnˠaˠx
+	ˈØˠəʷnʷoax -> ˈØˠəʷnʷoˠx
 	ˈØˠaʲŋgʲeal -> ˈØˠaʲŋgʲeˠl
 	ˈØˠAʲɴsʲeaμ -> ˈØˠAʲɴsʲeˠμ
-	ˈØˠəʲrβʲeart -> ˈØˠəʲrβʲeˠrt
+	ˈØˠərʲ!βʲeart -> ˈØˠərʲ!βʲeˠrt
 	ˈØˠaʲrxʲiʲɴʲeax -> ˈØˠaʲrxʲiʲɴʲeˠx
 	ˈØˠaʲrxʲiʲsʲeaxt -> ˈØˠaʲrxʲiʲsʲeˠxt
-	ˈØˠəʷrkʷoar -> ˈØˠəʷrkʷoˠr
+	ˈØˠərʷ!kʷoar -> ˈØˠərʷ!kʷoˠr
 
 
-%%%% ?. Reduce short vowels
+%%%%%%%%%%%%%%%     Vowel reduction     %%%%%%%%%%%%%%%
+%%%% 16. Reduce short vowels
 %
-%
+% This rule reduces short vowels to /a/ or /ə/
 %
 i -> ə / [ʲ]|\. _ [ʲʷ]|[-·]
 Sample of maximum 20 input/output pairs:
@@ -1804,7 +1898,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲθrʲiʲɣʲE -> ˈØˠaʲθrʲəʲɣʲE
 	ˈØˠaʲθʲiʲs -> ˈØˠaʲθʲəʲs
 	ˈØˠaʲŋkrʲiʲðʲE -> ˈØˠaʲŋkrʲəʲðʲE
-	ˈØˠaʲnʲiʷs -> ˈØˠaʲnʲəʷs
+	ˈØˠaʲnØʲiʷs -> ˈØˠaʲnØʲəʷs
 	ˈØˠaʲnʲiʲm -> ˈØˠaʲnʲəʲm
 	ˈØˠaʲrʲiʷɣʷuʷð -> ˈØˠaʲrʲəʷɣʷuʷð
 	ˈØˠAʲrʲiʲʟʲiʷð -> ˈØˠAʲrʲəʲʟʲəʷð
@@ -1822,22 +1916,22 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲgnʲeˠð -> ˈØˠaʲgnʲaˠð
 	ˈØˠaʲmsʲeˠr -> ˈØˠaʲmsʲaˠr
 	ˈØˠəʲnʲeˠx -> ˈØˠəʲnʲaˠx
-	ˈØʲeˠnˠaˠx -> ˈØʲaˠnˠaˠx
 	ˈØˠaʲŋgʲeˠl -> ˈØˠaʲŋgʲaˠl
 	ˈØˠAʲɴsʲeˠμ -> ˈØˠAʲɴsʲaˠμ
-	ˈØˠəʲrβʲeˠrt -> ˈØˠəʲrβʲaˠrt
+	ˈØˠərʲ!βʲeˠrt -> ˈØˠərʲ!βʲaˠrt
 	ˈØˠaʲrxʲəʲɴʲeˠx -> ˈØˠaʲrxʲəʲɴʲaˠx
 	ˈØˠaʲrxʲəʲsʲeˠxt -> ˈØˠaʲrxʲəʲsʲaˠxt
 	ˈØˠaʲrʲeˠg -> ˈØˠaʲrʲaˠg
 	ˈØˠaʲrʲeˠxˠaˠs -> ˈØˠaʲrʲaˠxˠaˠs
-	ˈØʲeˠrɣˠaʲrʲE -> ˈØʲaˠrɣˠaʲrʲE
 	ˈØˠaˠμˠaʲrʲeˠs -> ˈØˠaˠμˠaʲrʲaˠs
 	ˈØˠaˠμˠaʲrʲeˠsˠaˠx -> ˈØˠaˠμˠaʲrʲaˠsˠaˠx
 	ˈØˠaʲnʲeˠgnˠE -> ˈØˠaʲnʲaˠgnˠE
 	ˈØˠAʲtrʲeˠβ -> ˈØˠAʲtrʲaˠβ
-	ˈØʲeˠrlˠaˠdˠU -> ˈØʲaˠrlˠaˠdˠU
 	ˈbˠaʲrɣʲeˠn -> ˈbˠaʲrɣʲaˠn
 	ˈbˠaʲθʲeˠs -> ˈbˠaʲθʲaˠs
+	ˈbʲeˠn -> ˈbʲaˠn
+	ˈbʲeˠɴdˠaˠxt -> ˈbʲaˠɴdˠaˠxt
+	ˈbʲeʷθʷU -> ˈbʲaʷθʷU
 
 
 u -> ə / [ʷ]|\. _ [ʲʷ]|[-·]
@@ -1870,7 +1964,8 @@ Sample of maximum 20 input/output pairs:
 
 	ˈØˠaʷkʷoʷβʷoˠr -> ˈØˠaʷkʷaʷβʷaˠr
 	ˈØˠaʷkʷoʷμʷoˠl -> ˈØˠaʷkʷaʷμʷaˠl
-	ˈØˠəʷrkʷoˠr -> ˈØˠəʷrkʷaˠr
+	ˈØˠəʷnʷoˠx -> ˈØˠəʷnʷaˠx
+	ˈØˠərʷ!kʷoˠr -> ˈØˠərʷ!kʷaˠr
 	ˈØˠOʷɣdʷoˠrðˠAˠs -> ˈØˠOʷɣdʷaˠrðˠAˠs
 	ˈbʷoˠlˠaˠð -> ˈbʷaˠlˠaˠð
 	ˈbʷoˠθ -> ˈbʷaˠθ
@@ -1887,11 +1982,11 @@ Sample of maximum 20 input/output pairs:
 	ˈkʷoʲmðʲU -> ˈkʷaʲmðʲU
 	ˈkʷoˠl -> ˈkʷaˠl
 	ˈkʷoˠlˠaʲɴ -> ˈkʷaˠlˠaʲɴ
-	ˈkʷoˠμˠaʷkʷoʷβʷoˠr -> ˈkʷaˠμˠaʷkʷaʷβʷaˠr
 
 
-%%%% ?. Reduce long vowels
+%%%% 17. Reduce long vowels
 %
+% This rule reduces long vowels to /a/ or /ə/ followed by /Ø/ and a colour marker
 %
 I -> əØʲ / _
 Sample of maximum 20 input/output pairs:
@@ -1925,7 +2020,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲrʲəʲdʲU -> ˈØˠaʲrʲəʲdʲəØʷ
 	ˈØˠaʲrμʲəʲdʲU -> ˈØˠaʲrμʲəʲdʲəØʷ
 	ˈØˠaʷbθʷU -> ˈØˠaʷbθʷəØʷ
-	ˈØʲaˠrlˠaˠdˠU -> ˈØʲaˠrlˠaˠdˠəØʷ
+	ˈØʲarˠ!lˠaˠdˠU -> ˈØʲarˠ!lˠaˠdˠəØʷ
 	ˈbʲEˠstˠaˠdˠU -> ˈbʲEˠstˠaˠdˠəØʷ
 	ˈbʲaʷθʷU -> ˈbʲaʷθʷəØʷ
 	ˈbʲəʷβðʷU -> ˈbʲəʷβðʷəØʷ
@@ -1950,7 +2045,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲʟʲE -> ˈØˠaʲʟʲaØʲ
 	ˈØˠaʲnμnʲE -> ˈØˠaʲnμnʲaØʲ
 	ˈØˠaʲrðʲE -> ˈØˠaʲrðʲaØʲ
-	ˈØʲaˠrɣˠaʲrʲE -> ˈØʲaˠrɣˠaʲrʲaØʲ
+	ˈØʲarˠ!ɣˠaʲrʲE -> ˈØʲarˠ!ɣˠaʲrʲaØʲ
 	ˈØˠEʲs -> ˈØˠaØʲʲs
 	ˈØˠEˠs -> ˈØˠaØʲˠs
 	ˈØˠaʲθʲE -> ˈØˠaʲθʲaØʲ
@@ -1977,14 +2072,14 @@ Sample of maximum 20 input/output pairs:
 	ˈbrʷOˠn -> ˈbrʷaØʷˠn
 	ˈkˠaʲɴdlʲOʲr -> ˈkˠaʲɴdlʲaØʷʲr
 	ˈkʲaˠθˠaʷrxʷO -> ˈkʲaˠθˠaʷrxʷaØʷ
-	ˈkʷaˠμθʲəʷnʷOˠl -> ˈkʷaˠμθʲəʷnʷaØʷˠl
+	ˈkʷaμˠ!θʲəʷnʷOˠl -> ˈkʷaμˠ!θʲəʷnʷaØʷˠl
 	ˈkʷOˠrˠaØʲ -> ˈkʷaØʷˠrˠaØʲ
 	ˈdʲOˠlˠaˠðˠaˠxt -> ˈdʲaØʷˠlˠaˠðˠaˠxt
 	ˈɸʷOˠgrˠaØʲ -> ˈɸʷaØʷˠgrˠaØʲ
 	ˈɸʷaʷrʷOʲl -> ˈɸʷaʷrʷaØʷʲl
 	ˈgˠO -> ˈgˠaØʷ
-	ˈØʲəʷmrʷOˠl -> ˈØʲəʷmrʷaØʷˠl
-	ˈØˠəʷrʷOˠgrˠaØʲ -> ˈØˠəʷrʷaØʷˠgrˠaØʲ
+	ˈØʲəmʷ!rʷOˠl -> ˈØʲəmʷ!rʷaØʷˠl
+	ˈØˠaʲrØʷOˠgrˠaØʲ -> ˈØˠaʲrØʷaØʷˠgrˠaØʲ
 	ˈʟʷOˠɣ -> ˈʟʷaØʷˠɣ
 	ˈmʷOˠrˠaˠð -> ˈmʷaØʷˠrˠaˠð
 	ˈØʷOˠxt -> ˈØʷaØʷˠxt
@@ -2018,37 +2113,10 @@ Sample of maximum 20 input/output pairs:
 	ˈdʲA.aˠxt -> ˈdʲaØˠ.aˠxt
 
 
-%%%%%%%%%%%%%%%     Assimilate C-colour    %%%%%%%%%%%%%%%
-% Add !
-0 -> ! / (ˈØʲəʲm)|(ˈØʲəʲnd)|(ˈɸʲrʲəʲθ)|(ˈkʷaˠμ)|(ˈØʲaˠdˠaˠr)|(ˈØʲaʲdʲəʲr) _
-Sample of maximum 20 input/output pairs:
-
-	ˈkʷaˠμˠaʷkʷaʷβʷaˠr -> ˈkʷaˠμ!ˠaʷkʷaʷβʷaˠr
-	ˈkʷaˠμˠaʲrβʲaˠrt -> ˈkʷaˠμ!ˠaʲrβʲaˠrt
-	ˈkʷaˠμˠaʲrlʲaØʲ -> ˈkʷaˠμ!ˠaʲrlʲaØʲ
-	ˈkʷaˠμˠaʲdʲaˠxt -> ˈkʷaˠμ!ˠaʲdʲaˠxt
-	ˈkʷaˠμˠaˠlnˠaˠð -> ˈkʷaˠμ!ˠaˠlnˠaˠð
-	ˈkʷaˠμˠaˠrbˠaʷs -> ˈkʷaˠμ!ˠaˠrbˠaʷs
-	ˈkʷaˠμˠaˠrðˠaØʲ -> ˈkʷaˠμ!ˠaˠrðˠaØʲ
-	ˈkʷaˠμnʲaˠsˠaˠμ -> ˈkʷaˠμ!nʲaˠsˠaˠμ
-	ˈkʷaˠμθʲəʷnʷaØʷˠl -> ˈkʷaˠμ!θʲəʷnʷaØʷˠl
-	ˈØʲaˠdˠaˠrkʲaˠrt -> ˈØʲaˠdˠaˠr!kʲaˠrt
-	ˈØʲaˠdˠaˠrdʲəʲβʲaØʲ -> ˈØʲaˠdˠaˠr!dʲəʲβʲaØʲ
-	ˈØʲaˠdˠaˠrskˠaˠrˠaˠð -> ˈØʲaˠdˠaˠr!skˠaˠrˠaˠð
-	ˈØʲaˠdˠaˠrgnˠaØʲ -> ˈØʲaˠdˠaˠr!gnˠaØʲ
-	ˈØʲəʲmbʲaˠð -> ˈØʲəʲm!bʲaˠð
-	ˈØʲəʲmbrʲaˠsˠaˠn -> ˈØʲəʲm!brʲaˠsˠaˠn
-	ˈØʲəʲmxʲəʲst -> ˈØʲəʲm!xʲəʲst
-	ˈØʲəʲmðʲəʲβʲaØʲ -> ˈØʲəʲm!ðʲəʲβʲaØʲ
-	ˈØʲəʲmrˠaØˠʷðʷəʷð -> ˈØʲəʲm!rˠaØˠʷðʷəʷð
-	ˈØʲəʲmnʲaˠð -> ˈØʲəʲm!nʲaˠð
-	ˈØʲəʲmθˠaØˠˠnˠaˠð -> ˈØʲəʲm!θˠaØˠˠnˠaˠð
-
-
-% Backwards
+%%%%%%%%%%%%%%%     Assimilate consonant colour colour    %%%%%%%%%%%%%%%
+%%%% 18. Regressive assimilation of consonant colour
 %
-%
-0 -> ʲ / (?<=([ˈˌ]|(!))::C::) _ (?=(::C::){1,2}ʲ)
+0 -> ʲ / (?<=([ˈ]|(!))::C::) _ (?=(::C::){1,2}ʲ)
 Sample of maximum 20 input/output pairs:
 
 	ˈbrʲaØˠˠθˠaˠr -> ˈbʲrʲaØˠˠθˠaˠr
@@ -2073,7 +2141,7 @@ Sample of maximum 20 input/output pairs:
 	ˈɸrʲaˠgrˠaØʲ -> ˈɸʲrʲaˠgrˠaØʲ
 
 
-0 -> ʷ / (?<=([ˈˌ]|(!))::C::) _ (?=(::C::){1,2}ʷ)
+0 -> ʷ / (?<=([ˈ]|(!))::C::) _ (?=(::C::){1,2}ʷ)
 Sample of maximum 20 input/output pairs:
 
 	ˈbrʷaØʷˠn -> ˈbʷrʷaØʷˠn
@@ -2093,7 +2161,7 @@ Sample of maximum 20 input/output pairs:
 	ˈtrʷaØʷˠkˠaʲrʲaØʲ -> ˈtʷrʷaØʷˠkˠaʲrʲaØʲ
 
 
-0 -> ˠ / (?<=([ˈˌ]|(!))::C::) _ (?=(::C::){1,2}ˠ)
+0 -> ˠ / (?<=([ˈ]|(!))::C::) _ (?=(::C::){1,2}ˠ)
 Sample of maximum 20 input/output pairs:
 
 	ˈbrˠaØˠˠθ -> ˈbˠrˠaØˠˠθ
@@ -2101,20 +2169,22 @@ Sample of maximum 20 input/output pairs:
 	ˈklˠaʲðʲaˠβ -> ˈkˠlˠaʲðʲaˠβ
 	ˈklˠaˠɴd -> ˈkˠlˠaˠɴd
 	ˈkrˠaØˠʷβʷəʷð -> ˈkˠrˠaØˠʷβʷəʷð
-	ˈØʲaˠdˠaˠr!skˠaˠrˠaˠð -> ˈØʲaˠdˠaˠr!sˠkˠaˠrˠaˠð
-	ˈØʲaˠdˠaˠr!gnˠaØʲ -> ˈØʲaˠdˠaˠr!gˠnˠaØʲ
+	ˈØʲadˠarˠ!skˠaˠrˠaˠð -> ˈØʲadˠarˠ!sˠkˠaˠrˠaˠð
+	ˈØʲadˠarˠ!gnˠaØʲ -> ˈØʲadˠarˠ!gˠnˠaØʲ
 	ˈɸlˠaʲθ -> ˈɸˠlˠaʲθ
 	ˈɸlˠaʲθʲaˠμnˠaˠxt -> ˈɸˠlˠaʲθʲaˠμnˠaˠxt
 	ˈgnˠaØˠˠs -> ˈgˠnˠaØˠˠs
 	ˈgrˠaØˠˠð -> ˈgˠrˠaØˠˠð
 	ˈgrˠaØˠʲɴʲaØʲ -> ˈgˠrˠaØˠʲɴʲaØʲ
+	ˈØʲarˠ!xrˠaØʲ -> ˈØʲarˠ!xˠrˠaØʲ
 	ˈmrˠaˠθ -> ˈmˠrˠaˠθ
 	ˈprˠaʲɴd -> ˈpˠrˠaʲɴd
 	ˈskˠaˠrˠaˠð -> ˈsˠkˠaˠrˠaˠð
 	ˈsmˠaˠxt -> ˈsˠmˠaˠxt
 
 
-% Forwards
+%%%% 19. Progressive assimilation of consonant colour
+%
 0 -> ʲ / (?<![!]::C::{1,2})(?<=[^Ø]ʲ::C::{1,3}) _
 Sample of maximum 20 input/output pairs:
 
@@ -2134,10 +2204,10 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲnm -> ˈØˠaʲnʲmʲ
 	ˈØˠaʲnμnʲaØʲ -> ˈØˠaʲnʲμʲnʲʲaØʲ
 	ˈØˠaØˠʲɴsʲaˠμ -> ˈØˠaØˠʲɴʲsʲʲaˠμ
-	ˈØˠəʲrβʲaˠrt -> ˈØˠəʲrʲβʲʲaˠrt
 	ˈØˠaʲrxʲəʲɴʲaˠx -> ˈØˠaʲrʲxʲʲəʲɴʲʲaˠx
 	ˈØˠaʲrxʲəʲsʲaˠxt -> ˈØˠaʲrʲxʲʲəʲsʲʲaˠxt
 	ˈØˠaʲrðʲaØʲ -> ˈØˠaʲrʲðʲʲaØʲ
+	ˈØˠaʲrʲaˠg -> ˈØˠaʲrʲʲaˠg
 
 
 0 -> ʷ / (?<![!]::C::{1,2})(?<=[^Ø]ʷ::C::{1,3}) _
@@ -2147,9 +2217,9 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʷkʷaʷμʷaˠl -> ˈØˠaʷkʷʷaʷμʷʷaˠl
 	ˈØˠaˠðnˠaˠgˠaʷl -> ˈØˠaˠðnˠaˠgˠaʷlʷ
 	ˈØʲaØʲʲdʲʲəʷð -> ˈØʲaØʲʲdʲʲəʷðʷ
-	ˈØˠəʷrkʷaˠr -> ˈØˠəʷrʷkʷʷaˠr
+	ˈØˠəʷnʷaˠx -> ˈØˠəʷnʷʷaˠx
 	ˈØˠaʲrʲlʲʲəʷgʷəʷð -> ˈØˠaʲrʲlʲʲəʷgʷʷəʷðʷ
-	ˈØˠaʲnʲʲəʷs -> ˈØˠaʲnʲʲəʷsʷ
+	ˈØˠaʲnʲØʲəʷs -> ˈØˠaʲnʲØʲəʷsʷ
 	ˈØˠaʷbθʷəØʷ -> ˈØˠaʷbʷθʷʷəØʷ
 	ˈØˠaʲrʲʲəʷɣʷəʷð -> ˈØˠaʲrʲʲəʷɣʷʷəʷðʷ
 	ˈØˠaØˠʲrʲʲəʲʟʲʲəʷð -> ˈØˠaØˠʲrʲʲəʲʟʲʲəʷðʷ
@@ -2181,42 +2251,47 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲgʲnʲʲaˠð -> ˈØˠaʲgʲnʲʲaˠðˠ
 	ˈØˠaʲmʲsʲʲaˠr -> ˈØˠaʲmʲsʲʲaˠrˠ
 	ˈØˠəʲnʲʲaˠx -> ˈØˠəʲnʲʲaˠxˠ
-	ˈØʲaˠnˠaˠx -> ˈØʲaˠnˠˠaˠxˠ
+	ˈØˠəʷnʷʷaˠx -> ˈØˠəʷnʷʷaˠxˠ
 	ˈØˠaʲŋʲgʲʲaˠl -> ˈØˠaʲŋʲgʲʲaˠlˠ
 	ˈØˠaØˠʲɴʲsʲʲaˠμ -> ˈØˠaØˠʲɴʲsʲʲaˠμˠ
-	ˈØˠəʲrʲβʲʲaˠrt -> ˈØˠəʲrʲβʲʲaˠrˠtˠ
+	ˈØˠərʲ!βʲaˠrt -> ˈØˠərʲ!βʲaˠrˠtˠ
 	ˈØˠaʲrʲxʲʲəʲɴʲʲaˠx -> ˈØˠaʲrʲxʲʲəʲɴʲʲaˠxˠ
 	ˈØˠaʲrʲxʲʲəʲsʲʲaˠxt -> ˈØˠaʲrʲxʲʲəʲsʲʲaˠxˠtˠ
-	ˈØˠəʷrʷkʷʷaˠr -> ˈØˠəʷrʷkʷʷaˠrˠ
+	ˈØˠərʷ!kʷaˠr -> ˈØˠərʷ!kʷaˠrˠ
 
 
-% Remove !
+%%%% 20. Remove protective environment for prepositional elements
+%
+% The protective environment for prepositional elements is no longer necessary.
+%
 ! -> 0 / _
 Sample of maximum 20 input/output pairs:
 
-	ˈkʷaˠμˠ!ˠaʷkʷʷaʷβʷʷaˠrˠ -> ˈkʷaˠμˠˠaʷkʷʷaʷβʷʷaˠrˠ
-	ˈkʷaˠμˠ!ˠaʲrʲβʲʲaˠrˠtˠ -> ˈkʷaˠμˠˠaʲrʲβʲʲaˠrˠtˠ
-	ˈkʷaˠμˠ!ˠaʲrʲlʲʲaØʲ -> ˈkʷaˠμˠˠaʲrʲlʲʲaØʲ
-	ˈkʷaˠμˠ!ˠaʲdʲʲaˠxˠtˠ -> ˈkʷaˠμˠˠaʲdʲʲaˠxˠtˠ
-	ˈkʷaˠμˠ!ˠaˠlˠnˠˠaˠðˠ -> ˈkʷaˠμˠˠaˠlˠnˠˠaˠðˠ
-	ˈkʷaˠμˠ!ˠaˠrˠbˠˠaʷsʷ -> ˈkʷaˠμˠˠaˠrˠbˠˠaʷsʷ
-	ˈkʷaˠμˠ!ˠaˠrˠðˠˠaØʲ -> ˈkʷaˠμˠˠaˠrˠðˠˠaØʲ
-	ˈkʷaˠμˠ!nʲaˠsˠˠaˠμˠ -> ˈkʷaˠμˠnʲaˠsˠˠaˠμˠ
-	ˈkʷaˠμˠ!θʲəʷnʷʷaØʷˠlˠ -> ˈkʷaˠμˠθʲəʷnʷʷaØʷˠlˠ
-	ˈØʲaˠdˠˠaˠrˠ!kʲaˠrˠtˠ -> ˈØʲaˠdˠˠaˠrˠkʲaˠrˠtˠ
-	ˈØʲaˠdˠˠaˠrˠ!dʲəʲβʲʲaØʲ -> ˈØʲaˠdˠˠaˠrˠdʲəʲβʲʲaØʲ
-	ˈØʲaˠdˠˠaˠrˠ!sˠkˠˠaˠrˠˠaˠðˠ -> ˈØʲaˠdˠˠaˠrˠsˠkˠˠaˠrˠˠaˠðˠ
-	ˈØʲaˠdˠˠaˠrˠ!gˠnˠˠaØʲ -> ˈØʲaˠdˠˠaˠrˠgˠnˠˠaØʲ
-	ˈØʲəʲmʲ!bʲaˠðˠ -> ˈØʲəʲmʲbʲaˠðˠ
-	ˈØʲəʲmʲ!bʲrʲʲaˠsˠˠaˠnˠ -> ˈØʲəʲmʲbʲrʲʲaˠsˠˠaˠnˠ
-	ˈØʲəʲmʲ!xʲəʲsʲtʲ -> ˈØʲəʲmʲxʲəʲsʲtʲ
-	ˈØʲəʲmʲ!ðʲəʲβʲʲaØʲ -> ˈØʲəʲmʲðʲəʲβʲʲaØʲ
-	ˈØʲəʲmʲ!rˠaØˠʷðʷʷəʷðʷ -> ˈØʲəʲmʲrˠaØˠʷðʷʷəʷðʷ
-	ˈØʲəʲmʲ!nʲaˠðˠ -> ˈØʲəʲmʲnʲaˠðˠ
-	ˈØʲəʲmʲ!θˠaØˠˠnˠˠaˠðˠ -> ˈØʲəʲmʲθˠaØˠˠnˠˠaˠðˠ
+	ˈØˠərʲ!βʲaˠrˠtˠ -> ˈØˠərʲβʲaˠrˠtˠ
+	ˈØˠərʷ!kʷaˠrˠ -> ˈØˠərʷkʷaˠrˠ
+	ˈØʲarˠ!ɣˠaʲrʲʲaØʲ -> ˈØʲarˠɣˠaʲrʲʲaØʲ
+	ˈØʲarˠ!lˠaˠdˠˠəØʷ -> ˈØʲarˠlˠaˠdˠˠəØʷ
+	ˈkʷaμˠ!Øˠaʷkʷʷaʷβʷʷaˠrˠ -> ˈkʷaμˠØˠaʷkʷʷaʷβʷʷaˠrˠ
+	ˈkʷaμˠ!Øˠaʲrʲβʲʲaˠrˠtˠ -> ˈkʷaμˠØˠaʲrʲβʲʲaˠrˠtˠ
+	ˈkʷaμˠ!ØˠaʲrʲlʲʲaØʲ -> ˈkʷaμˠØˠaʲrʲlʲʲaØʲ
+	ˈkʷaμˠ!Øˠaʲdʲʲaˠxˠtˠ -> ˈkʷaμˠØˠaʲdʲʲaˠxˠtˠ
+	ˈkʷaμˠ!Øˠaˠlˠnˠˠaˠðˠ -> ˈkʷaμˠØˠaˠlˠnˠˠaˠðˠ
+	ˈkʷaμˠ!Øˠaˠrˠbˠˠaʷsʷ -> ˈkʷaμˠØˠaˠrˠbˠˠaʷsʷ
+	ˈkʷaμˠ!ØˠaˠrˠðˠˠaØʲ -> ˈkʷaμˠØˠaˠrˠðˠˠaØʲ
+	ˈkʷaμˠ!nʲaˠsˠˠaˠμˠ -> ˈkʷaμˠnʲaˠsˠˠaˠμˠ
+	ˈkʷaμʷ!rʷaʷrʷgʷʷaˠnˠ -> ˈkʷaμʷrʷaʷrʷgʷʷaˠnˠ
+	ˈkʷaμˠ!θʲəʷnʷʷaØʷˠlˠ -> ˈkʷaμˠθʲəʷnʷʷaØʷˠlˠ
+	ˈØˠərʲ!ØaØʲ -> ˈØˠərʲØaØʲ
+	ˈØʲadˠarˠ!kʲaˠrˠtˠ -> ˈØʲadˠarˠkʲaˠrˠtˠ
+	ˈØʲadʲərʲ!kʲaˠrˠtˠ -> ˈØʲadʲərʲkʲaˠrˠtˠ
+	ˈØʲadˠarˠ!dʲəʲβʲʲaØʲ -> ˈØʲadˠarˠdʲəʲβʲʲaØʲ
+	ˈØʲadˠarˠ!sˠkˠˠaˠrˠˠaˠðˠ -> ˈØʲadˠarˠsˠkˠˠaˠrˠˠaˠðˠ
+	ˈØʲadˠarˠ!gˠnˠˠaØʲ -> ˈØʲadˠarˠgˠnˠˠaØʲ
 
 
-% Reduction of duplicate colour diacritics
+%%%%%%%%%%%%%%%     Housekeeping    %%%%%%%%%%%%%%%
+%%%% 22. Reduction of duplicate colour diacritics
+%
 ʲ -> 0 / _ ʲ
 Sample of maximum 20 input/output pairs:
 
@@ -2230,16 +2305,16 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲŋʲgʲʲaˠlˠ -> ˈØˠaʲŋʲgʲaˠlˠ
 	ˈØˠaʲnʲμʲnʲʲaØʲ -> ˈØˠaʲnʲμʲnʲaØʲ
 	ˈØˠaØˠʲɴʲsʲʲaˠμˠ -> ˈØˠaØˠʲɴʲsʲaˠμˠ
-	ˈØˠəʲrʲβʲʲaˠrˠtˠ -> ˈØˠəʲrʲβʲaˠrˠtˠ
 	ˈØˠaʲrʲxʲʲəʲɴʲʲaˠxˠ -> ˈØˠaʲrʲxʲəʲɴʲaˠxˠ
 	ˈØˠaʲrʲxʲʲəʲsʲʲaˠxˠtˠ -> ˈØˠaʲrʲxʲəʲsʲaˠxˠtˠ
 	ˈØˠaʲrʲðʲʲaØʲ -> ˈØˠaʲrʲðʲaØʲ
 	ˈØˠaʲrʲʲaˠgˠ -> ˈØˠaʲrʲaˠgˠ
 	ˈØˠaʲrʲʲaˠxˠˠaˠsˠ -> ˈØˠaʲrʲaˠxˠˠaˠsˠ
-	ˈØʲaˠrˠɣˠˠaʲrʲʲaØʲ -> ˈØʲaˠrˠɣˠˠaʲrʲaØʲ
+	ˈØʲarˠɣˠaʲrʲʲaØʲ -> ˈØʲarˠɣˠaʲrʲaØʲ
 	ˈØˠaʲrʲʲəʲdʲʲəØʷ -> ˈØˠaʲrʲəʲdʲəØʷ
 	ˈØˠaʲrʲlʲʲəʷgʷʷəʷðʷ -> ˈØˠaʲrʲlʲəʷgʷʷəʷðʷ
 	ˈØˠaʲrʲμʲʲəʲdʲʲəØʷ -> ˈØˠaʲrʲμʲəʲdʲəØʷ
+	ˈØˠaØʲʲsʲ -> ˈØˠaØʲsʲ
 
 
 ʷ -> 0 / _ ʷ
@@ -2247,7 +2322,7 @@ Sample of maximum 20 input/output pairs:
 
 	ˈØˠaʷkʷʷaʷβʷʷaˠrˠ -> ˈØˠaʷkʷaʷβʷaˠrˠ
 	ˈØˠaʷkʷʷaʷμʷʷaˠlˠ -> ˈØˠaʷkʷaʷμʷaˠlˠ
-	ˈØˠəʷrʷkʷʷaˠrˠ -> ˈØˠəʷrʷkʷaˠrˠ
+	ˈØˠəʷnʷʷaˠxˠ -> ˈØˠəʷnʷaˠxˠ
 	ˈØˠaʲrʲlʲəʷgʷʷəʷðʷ -> ˈØˠaʲrʲlʲəʷgʷəʷðʷ
 	ˈØˠaʷbʷθʷʷəØʷ -> ˈØˠaʷbʷθʷəØʷ
 	ˈØˠaʲrʲəʷɣʷʷəʷðʷ -> ˈØˠaʲrʲəʷɣʷəʷðʷ
@@ -2277,9 +2352,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaˠðˠβˠˠaˠrˠ -> ˈØˠaˠðˠβˠaˠrˠ
 	ˈØˠaˠðˠnˠˠaˠgˠˠaʷlʷ -> ˈØˠaˠðˠnˠaˠgˠaʷlʷ
 	ˈØˠaˠðˠrˠˠaˠðˠ -> ˈØˠaˠðˠrˠaˠðˠ
-	ˈØʲaˠnˠˠaˠxˠ -> ˈØʲaˠnˠaˠxˠ
 	ˈØˠaʲrʲaˠxˠˠaˠsˠ -> ˈØˠaʲrʲaˠxˠaˠsˠ
-	ˈØʲaˠrˠɣˠˠaʲrʲaØʲ -> ˈØʲaˠrˠɣˠaʲrʲaØʲ
 	ˈØˠaˠlˠmˠsˠˠaˠnˠ -> ˈØˠaˠlˠmˠsˠaˠnˠ
 	ˈØˠaˠlˠtˠˠaØʷʲrʲ -> ˈØˠaˠlˠtˠaØʷʲrʲ
 	ˈØˠaˠlˠtˠrˠˠaˠmˠ -> ˈØˠaˠlˠtˠrˠaˠmˠ
@@ -2290,9 +2363,12 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaˠnˠˠaˠmˠ-ˈxˠaˠrˠˠaØʲ -> ˈØˠaˠnˠaˠmˠ-ˈxˠaˠrˠaØʲ
 	ˈØˠaˠnˠmˠxˠˠaˠrˠˠaØˠ -> ˈØˠaˠnˠmˠxˠaˠrˠaØˠ
 	ˈØˠaʲnʲaˠgˠnˠˠaØʲ -> ˈØˠaʲnʲaˠgˠnˠaØʲ
+	ˈØˠaˠnˠˠaʲmʲ -> ˈØˠaˠnˠaʲmʲ
+	ˈØˠaˠnˠˠaʲmʲ -> ˈØˠaˠnˠaʲmʲ
 
 
-% Loss of diacritics before C
+%%%% 23. Loss of colour markers before a consonant
+%
 ʲ -> 0 / Ø[ʲʷˠ]|[aə] _ ::C::
 Sample of maximum 20 input/output pairs:
 
@@ -2311,11 +2387,11 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲnʲmʲ -> ˈØˠanʲmʲ
 	ˈØˠaʲnʲμʲnʲaØʲ -> ˈØˠanʲμʲnʲaØʲ
 	ˈØˠaØˠʲɴʲsʲaˠμˠ -> ˈØˠaØˠɴʲsʲaˠμˠ
-	ˈØˠəʲrʲβʲaˠrˠtˠ -> ˈØˠərʲβʲaˠrˠtˠ
 	ˈØˠaʲrʲxʲəʲɴʲaˠxˠ -> ˈØˠarʲxʲəɴʲaˠxˠ
 	ˈØˠaʲrʲxʲəʲsʲaˠxˠtˠ -> ˈØˠarʲxʲəsʲaˠxˠtˠ
 	ˈØˠaʲrʲðʲaØʲ -> ˈØˠarʲðʲaØʲ
 	ˈØˠaʲrʲaˠgˠ -> ˈØˠarʲaˠgˠ
+	ˈØˠaʲrʲaˠxˠaˠsˠ -> ˈØˠarʲaˠxˠaˠsˠ
 
 
 ʷ -> 0 / Ø[ʲʷˠ]|[aə] _ ::C::
@@ -2325,9 +2401,9 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʷkʷaʷμʷaˠlˠ -> ˈØˠakʷaμʷaˠlˠ
 	ˈØˠaˠðˠnˠaˠgˠaʷlʷ -> ˈØˠaˠðˠnˠaˠgˠalʷ
 	ˈØʲaØʲdʲəʷðʷ -> ˈØʲaØʲdʲəðʷ
-	ˈØˠəʷrʷkʷaˠrˠ -> ˈØˠərʷkʷaˠrˠ
+	ˈØˠəʷnʷaˠxˠ -> ˈØˠənʷaˠxˠ
 	ˈØˠarʲlʲəʷgʷəʷðʷ -> ˈØˠarʲlʲəgʷəðʷ
-	ˈØˠanʲəʷsʷ -> ˈØˠanʲəsʷ
+	ˈØˠanʲØʲəʷsʷ -> ˈØˠanʲØʲəsʷ
 	ˈØˠaʷbʷθʷəØʷ -> ˈØˠabʷθʷəØʷ
 	ˈØˠarʲəʷɣʷəʷðʷ -> ˈØˠarʲəɣʷəðʷ
 	ˈØˠaØˠrʲəʟʲəʷðʷ -> ˈØˠaØˠrʲəʟʲəðʷ
@@ -2359,7 +2435,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠagʲnʲaˠðˠ -> ˈØˠagʲnʲaðˠ
 	ˈØˠamʲsʲaˠrˠ -> ˈØˠamʲsʲarˠ
 	ˈØˠənʲaˠxˠ -> ˈØˠənʲaxˠ
-	ˈØʲaˠnˠaˠxˠ -> ˈØʲanˠaxˠ
+	ˈØˠənʷaˠxˠ -> ˈØˠənʷaxˠ
 	ˈØˠaŋʲgʲaˠlˠ -> ˈØˠaŋʲgʲalˠ
 	ˈØˠaØˠɴʲsʲaˠμˠ -> ˈØˠaØˠɴʲsʲaμˠ
 	ˈØˠərʲβʲaˠrˠtˠ -> ˈØˠərʲβʲarˠtˠ
@@ -2368,11 +2444,11 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷkʷaˠrˠ -> ˈØˠərʷkʷarˠ
 
 
-%%%% Force /ə/ in unstressed position
+%%%% 24. Ensure /ə/ not /a/
 %
-% All non-initial and non-final short vowels
+% Only /ə/ not /a/ occurs in unstressed position for non-final short vowels.
 %
-a -> ə / (?<![ˈˌ]((Ø[ˠʲʷ])|((::C::[ˠʲʷ]){1,4}))) _ [^Ø]
+a -> ə / (?<![ˈ]((Ø[ˠʲʷ])|((::C::[ˠʲʷ]){1,4}))) _ [^Ø]
 Sample of maximum 20 input/output pairs:
 
 	ˈØˠəØʲ.arˠ -> ˈØˠəØʲ.ərˠ
@@ -2388,7 +2464,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠagʲnʲaðˠ -> ˈØˠagʲnʲəðˠ
 	ˈØˠamʲsʲarˠ -> ˈØˠamʲsʲərˠ
 	ˈØˠənʲaxˠ -> ˈØˠənʲəxˠ
-	ˈØʲanˠaxˠ -> ˈØʲanˠəxˠ
+	ˈØˠənʷaxˠ -> ˈØˠənʷəxˠ
 	ˈØˠaŋʲgʲalˠ -> ˈØˠaŋʲgʲəlˠ
 	ˈØˠaØˠɴʲsʲaμˠ -> ˈØˠaØˠɴʲsʲəμˠ
 	ˈØˠərʲβʲarˠtˠ -> ˈØˠərʲβʲərˠtˠ
@@ -2397,7 +2473,10 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷkʷarˠ -> ˈØˠərʷkʷərˠ
 
 
-% Lowering below a-colour
+%%%% 25. /a/ before a-colour
+%
+% Only /a/ occurs before a-colour
+%
 ə -> a / _ ::C::ˠ
 Sample of maximum 20 input/output pairs:
 
@@ -2413,7 +2492,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠagʲnʲəðˠ -> ˈØˠagʲnʲaðˠ
 	ˈØˠamʲsʲərˠ -> ˈØˠamʲsʲarˠ
 	ˈØˠənʲəxˠ -> ˈØˠənʲaxˠ
-	ˈØʲanˠəxˠ -> ˈØʲanˠaxˠ
+	ˈØˠənʷəxˠ -> ˈØˠənʷaxˠ
 	ˈØˠaŋʲgʲəlˠ -> ˈØˠaŋʲgʲalˠ
 	ˈØˠaØˠɴʲsʲəμˠ -> ˈØˠaØˠɴʲsʲaμˠ
 	ˈØˠərʲβʲərˠtˠ -> ˈØˠərʲβʲarˠtˠ
@@ -2423,7 +2502,10 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠarʲəgˠ -> ˈØˠarʲagˠ
 
 
-% Reduction of hiatus
+%%%% 26. The hiatus marker
+%
+% The hiatus marker is no longer necessary
+%
 \. -> 0 / _
 Sample of maximum 20 input/output pairs:
 
