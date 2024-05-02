@@ -2,7 +2,7 @@ flexeme_id,label,lexeme,texts,etymology,inherent_properties,phonological_form
 aier-1,aiër,lex-aier-1,,< Latin: āēr,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠəØʲarˠ
 aipgitir-2,aipgitir,lex-aipgitir-2,,< Latin: abecedārium,sync;alt_none;gen_fem;stem_indecl/i;num_all,ˈØˠabʲɣʲədʲərʲ
 apstanait-3,apstanait,lex-apstanait-3,,< Lat. abstinentia,sync_nd;alt_none;gen_fem;stem_ī/ā;num_all,ˈØˠabˠsˠtˠanˠədʲ
-acalddam-4,acalddam,lex-acalddam-4,,vn. of ad·gládathar,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠagˠalˠðˠaμˠ
+acalddam-4,acalddam,lex-acalddam-4,,vn. of ad·gládathar,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠagˠalˠdˠaμˠ
 accobor-5,accobor,lex-accobor-5,,vn. of ad·cobra,sync;alt_none;gen_neut;stem_o;num_all,ˈØˠakʷəβʷarˠ
 accomol-6,accomol,lex-accomol-6,,vn. of ad·comla,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠakʷəμʷalˠ
 adaig-7,adaig,lex-adaig-7,,*ad-aku̯ī-,sync_pal;alt_none;gen_fem;stem_ī;num_all,ˈØˠaðˠəɣʲ
@@ -402,7 +402,7 @@ iocc-337,íocc,lex-iocc-337,,vn. of íccaid,sync_none;alt_none;gen_fem;stem_ā;n
 aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠəðʷbʷarˠtˠ
 idal-339,ídal,lex-idal-339,6;7;81,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðˠalˠ
 idol-339.1,ídol,lex-idal-339,79,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʷalˠ
-ifern-340,ifern,lex-ifern-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠɴˠ
+ifern-340,ifern,lex-ifern-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠnˠ
 il-baill-341,il-baill,lex-il-baill-341,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəlʲ-ˈβˠaʟʲ
 il-beimm-342,il-béimm,lex-il-beimm-342,,,sync_none;alt_none;gen_neut;stem_n/ā;num_all,ˈØʲəlʲ-ˈβʲaØʲmʲ
 il-belrae-343,il-bélrae,lex-il-belrae-343,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲəlʲ-ˈβʲaØʲlˠrˠaØʲ
