@@ -2,7 +2,7 @@ flexeme_id,label,lexeme,texts,etymology,inherent_properties,phonological_form
 aier-1,aiër,lex-aier-1,,< Latin: āēr,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠəØʲarˠ
 aipgitir-2,aipgitir,lex-aipgitir-2,,< Latin: abecedārium,sync;alt_none;gen_fem;stem_indecl/i;num_all,ˈØˠabʲɣʲədʲərʲ
 apstanait-3,apstanait,lex-apstanait-3,,< Lat. abstinentia,sync_nd;alt_none;gen_fem;stem_ī/ā;num_all,ˈØˠabˠsˠtˠanˠədʲ
-acaldam-4,acaldam,lex-acaldam-4,,vn. of ad·gládathar,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠagˠalˠðˠaμˠ
+acalddam-4,acalddam,lex-acalddam-4,,vn. of ad·gládathar,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠagˠalˠðˠaμˠ
 accobor-5,accobor,lex-accobor-5,,vn. of ad·cobra,sync;alt_none;gen_neut;stem_o;num_all,ˈØˠakʷəβʷarˠ
 accomol-6,accomol,lex-accomol-6,,vn. of ad·comla,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠakʷəμʷalˠ
 adaig-7,adaig,lex-adaig-7,,*ad-aku̯ī-,sync_pal;alt_none;gen_fem;stem_ī;num_all,ˈØˠaðˠəɣʲ
@@ -82,7 +82,7 @@ bairgen-73,bairgen,lex-bairgen-73,,,sync_none;alt_none;gen_fem;stem_ā;num_all,�
 baithes-74,baithes,lex-baithes-74,79;81,< Latin: baptisma < Greek: βάπτισμα,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈbˠaθʲasˠ
 bathais-74.1,bathais,lex-baithes-74,5;50,< Latin: baptisma < Greek: βάπτισμα,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈbˠaθˠəsʲ
 baithis-74.2,baithis,lex-baithes-74,79;50,< Latin: baptisma < Greek: βάπτισμα,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈbˠaθʲəsʲ
-ball-75,ball,lex-ball-75,,,sync_none;alt_schwa;gen_masc;stem_o;num_all,ˈbˠaʟˠ
+ball-75,ball,lex-ball-75,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈbˠaʟˠ
 bas-76,bás,lex-bas-76,,*bāsto-; vn. of baïd,sync_none;alt_none;gen_neut;stem_o;num_all,ˈbˠaØˠsˠ
 beimm-77,béimm,lex-beimm-77,,*bei̯-smen-; vn. of benaid,sync_none;alt_none;gen_neut;stem_n/ā;num_all,ˈbʲaØʲmʲ
 bel-78,bél,lex-bel-78,,,sync_none;alt_eo;gen_masc;stem_o;num_all,ˈbʲaØʲlˠ
@@ -222,7 +222,7 @@ dag-duine-193,dag-duine,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_io;nu
 dag-doini-193.1,dag-doíni,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_i;num_pl,ˈdˠaɣˠ-ˈðʷaØʲnʲəØʲ
 dag-gniom-194,dag-gníom,lex-dag-gniom-194,,compound: dag- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaɣˠ-ˈɣʲnʲəØʲμʷ
 daltae-195,daltae,lex-daltae-195,,*to-al-ti̯o-,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈdˠalˠtˠaØʲ
-dam-196,dam,lex-dam-196,,*damo-,sync_none;alt_schwa;gen_masc;stem_o;num_all,ˈdˠaμˠ
+dam-196,dam,lex-dam-196,,*damo-,sync_none;alt_none;gen_masc;stem_o;num_all,ˈdˠaμˠ
 dan-197,dán,lex-dan-197,,*dānu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaØˠnˠ
 deacht-198,deächt,lex-deacht-198,,denominative (abstract): < día,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØˠaxˠtˠ
 dead-199,deäd,lex-dead-199,79;6;7;70;81,*dīu̯edo-,sync;alt_none;gen_neut;stem_o;num_all,ˈdʲaØˠaðˠ
@@ -402,7 +402,7 @@ iocc-337,íocc,lex-iocc-337,,vn. of íccaid,sync_none;alt_none;gen_fem;stem_ā;n
 aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠəðʷbʷarˠtˠ
 idal-339,ídal,lex-idal-339,6;7;81,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðˠalˠ
 idol-339.1,ídol,lex-idal-339,79,,sync;alt_none;gen_masc;stem_o;num_all,ˈØʲəØʲðʷalˠ
-iffernn-340,iffernn,lex-iffernn-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠɴˠ
+ifern-340,ifern,lex-ifern-340,,< Lat. infernus,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəɸʲarˠɴˠ
 il-baill-341,il-baill,lex-il-baill-341,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈØʲəlʲ-ˈβˠaʟʲ
 il-beimm-342,il-béimm,lex-il-beimm-342,,,sync_none;alt_none;gen_neut;stem_n/ā;num_all,ˈØʲəlʲ-ˈβʲaØʲmʲ
 il-belrae-343,il-bélrae,lex-il-belrae-343,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØʲəlʲ-ˈβʲaØʲlˠrˠaØʲ
@@ -658,8 +658,8 @@ tintuth-546.1,tintúth,lex-tintud-546,79,*to-ande-suu̯e-tu-; vn. of do·intaí.
 tir-547,tír,lex-tir-547,,*tīr-o/es-,sync_none;alt_none;gen_neut;stem_s;num_all,ˈtʲəØʲrʲ
 titul-548,titul,lex-titul-548,,,sync;alt_none;gen_masc;stem_o;num_all,ˈtʲədʷəlʷ
 tobae-549,tóbae,lex-tobae-549,,*to-uφo-bi-i̯o-; vn. of do·fuiben,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈtʷaØʷβˠaØʲ
-toidiusgud-550,toidiusgud,lex-toidiusgud-550,79;6,vn. of do·díuschi,sync_nd;alt_none;gen_masc;stem_io;num_all,ˈtʷaðʲəsʷɣʷəðʷ
-toidiuscud-550.1,toidiuscud,lex-toidiusgud-550,81;70,vn. of do·díuschi,sync_nd;alt_none;gen_masc;stem_io;num_all,ˈtʷaðʲəsʷkʷəðʷ
+toidisgud-550,toidisgud,lex-toidisgud-550,79;6,vn. of do·díuschi,sync_nd;alt_none;gen_masc;stem_io;num_all,ˈtʷaðʲəsʷɣʷəðʷ
+toidiscud-550.1,toidiscud,lex-toidisgud-550,81;70,vn. of do·díuschi,sync_nd;alt_none;gen_masc;stem_io;num_all,ˈtʷaðʲəsʷkʷəðʷ
 togairmm-551,togairmm,lex-togairm-551,,vn. of **do·gair,sync_none;alt_vel_stem;gen_neut;stem_n;num_all,ˈtʷaɣˠərʲmʲ
 toeb-552,tóeb,lex-toeb-552,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈtʷaØʲβˠ
 toimtiu-553,toimtiu,lex-toimtiu-553,,,sync_vf;alt_none;gen_fem;stem_n;num_all,ˈtʷaμʲdʲəØʷ

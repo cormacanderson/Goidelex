@@ -2,7 +2,7 @@ lexeme_id,derivational_families,label,CorPH_ids,CorPH_labels,CorPH_meaning,Wb_la
 lex-aier-1,1,aiër,3219,aër,"air, atmosphere, sky",aër,http://dil.ie/632,"air, atmosphere",noun
 lex-aipgitir-2,2,aipgitir,6964,aipgitir,the letters of the alphabet,abgitir,http://dil.ie/730,alphabet,noun
 lex-apstanait-3,3,apstanait,9400,abstanait,abstinence,abstanit,http://dil.ie/93,abstinence,noun
-lex-acaldam-4,4,acaldam,3124,acaldam,"the act of addressing or conversing with, colloquy ; murmuring",accaldam,http://dil.ie/114,addressing,verbal_noun
+lex-acalddam-4,4,acalddam,3124,acaldam,"the act of addressing or conversing with, colloquy ; murmuring",accaldam,http://dil.ie/114,addressing,verbal_noun
 lex-accobor-5,5,accobor,3126,accobor,"the act of desiring, wishing; desire, wish, appetite",accobor,http://dil.ie/165,desire,verbal_noun
 lex-accomol-6,6,accomol,3127,accomol,"the act of joining, bringing together; combination, union, meeting, junction",accomol,http://dil.ie/170,"union, junction",verbal_noun
 lex-adaig-7,7,adaig,45,adaig,"night, eve of a day or festival",adaig,http://dil.ie/256,night,noun
@@ -336,7 +336,7 @@ lex-iarfaigid-336,314,íarfaigid,4965,íarfaigid,"the act of inquiring, challeng
 lex-iocc-337,315,íocc,4977,ícc,"the act of healing, saving, curing, paying for, enduring; salvation, cure, redress, satisfaction, solution, answer (to a question or problem), requital, atonement, revenge, salvation",ícc,http://dil.ie/27149,salvation,verbal_noun
 lex-aidpart-338,316,aidpart,4400,audpart,the act of offering; sacrifice,idbart,http://dil.ie/27181,offering,verbal_noun
 lex-idal-339,317,ídal,4981,ídal,idol ; heathen,ídol,http://dil.ie/27176,idol,noun
-lex-iffernn-340,318,iffernn,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
+lex-ifern-340,318,ifern,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
 lex-il-baill-341,319;73,il-baill,1742;3522,il;ball,,il–baill,http://dil.ie/27239;http://dil.ie/5299,many members,prefixed_noun
 lex-il-beimm-342,319;75,il-béimm,1742;3526,il;béimm,,il–béim,http://dil.ie/27239;http://dil.ie/5566,many blows,prefixed_noun
 lex-il-belrae-343,319;77,il-bélrae,1742;3528,il;bélrae,,il–bélre,http://dil.ie/27239;http://dil.ie/6758,many-tongued,prefixed_noun
@@ -545,7 +545,7 @@ lex-tintud-546,494,tintúd,2939,tintúd,"the act of returning, translating; conv
 lex-tir-547,495,tír,2941,tír,"land; territory, country; earth, ground",tír,http://dil.ie/40940,land,noun
 lex-titul-548,496,titul,5963,titul,"title, heading",titul,http://dil.ie/40988,title,noun
 lex-tobae-549,497,tóbae,5968,tóbae,"the act of cutting (down), cutting off, removing; incision",tóbe,http://dil.ie/41046,"cutting off, severance",verbal_noun
-lex-toidiusgud-550,498,toidisgud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
+lex-toidisgud-550,498,toidisgud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
 lex-togairm-551,499,togairm,5985,togairm,"the act of invoking, petitioning, calling; appellation, vocation",togairm,http://dil.ie/41155,invoking,verbal_noun
 lex-toeb-552,500,tóeb,2951,tóeb,side (of body),tóib,http://dil.ie/39454,side,noun
 lex-toimtiu-553,501,toimtiu,5994,toimtiu,act of thinking; opinion,toimtiu,http://dil.ie/41229,"thinking, opinion",verbal_noun
