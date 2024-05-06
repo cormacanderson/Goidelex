@@ -76,7 +76,7 @@ aittreb-67.1,áittreb,lex-attrab-67,81,*ad-treb-o-,sync_none;alt_none;gen_neut;s
 attlugud-68,attlugud,lex-attlugud-68,,vn. of at·tluichedar,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈØˠatʷlʷəɣʷəðʷ
 augtordas-69,áugtordás,lex-augtordas-69,,< Lat. auctoritas,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØˠaØʷɣʷdʷarˠðˠaØˠsˠ
 airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØʲarˠlˠadˠəØʷ
-bae-71,baë,lex-bae-71,,,sync;alt_none;gen_neut;stem_io;num_all,ˈbˠaØˠaØʲ
+bae-71,baë,lex-bae-71,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈbˠaØˠaØʲ
 bag-72,bág,lex-bag-72,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠaØˠɣˠ
 bairgen-73,bairgen,lex-bairgen-73,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠarʲɣʲanˠ
 baithes-74,baithes,lex-baithes-74,79;81,< Latin: baptisma < Greek: βάπτισμα,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈbˠaθʲasˠ
@@ -274,7 +274,7 @@ doire-232,doíre,lex-doire-232,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷ
 domun-233,domun,lex-domun-233,,*duβ-no-,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈdʷaμʷənʷ
 drog-gniom-234,drog-gníom,lex-drog-gniom-234,,compound: droch- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷrʷaɣˠ-ˈɣʲnʲəØʲμʷ
 drui-235,druí,lex-drui-235,,*dru-u̯id-,sync_none;alt_none;gen_masc;stem_t;num_all,ˈdʷrʷəØʲ
-drui-235.1,druiï,lex-drui-235,,*dru-u̯id-,sync;alt_none;gen_masc;stem_t;num_all,ˈdʷrʷəØʲəØʲ
+drui-235.1,druiï,lex-drui-235,,*dru-u̯id-,sync_none;alt_none;gen_masc;stem_t;num_all,ˈdʷrʷəØʲəØʲ
 du-alaig-236,du-álaig,lex-du-alaig-236,,,sync_pal;alt_none;gen_fem;stem_i;num_all,ˈdʷə-ˈØˠaØˠlˠəɣʲ
 duil-237,dúil,lex-duil-237,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈdʷəØʷlʲ
 duine-238,duine,lex-duine-238,,*gdoni̯o-,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈdʷənʲaØʲ
@@ -451,7 +451,7 @@ airnaigde-380,airnaigde,lex-airnaigde-380,,*φari-ni-gu̯ed-i̯ā-; vn. of ar·n
 ittge-381,ittge,lex-ittge-381,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØʲətʲɣʲaØʲ
 iudae-383.1,Iúdae,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_pl,ˈØʲəØʷðˠaØʲ
 iudaide-383,Iúdaide,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈØʲəØʷðˠəðʲaØʲ
-lae-384,laë,lex-lae-384,,,sync;alt_none;gen_neut;stem_io;num_all,ˈʟˠaØˠaØʲ
+lae-384,laë,lex-lae-384,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈʟˠaØˠaØʲ
 lam-385,lám,lex-lam-385,,*φlāmā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈʟˠaØˠμˠ
 labrad-386,labrad,lex-labrad-386,,*labarātu-; vn. of labraithir,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʟˠaβˠrˠaðˠ
 laithe-387,laithe,lex-laithe-387,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈʟˠaθʲaØʲ
@@ -467,8 +467,8 @@ les-395,les,lex-les-395,,,sync_none;alt_schwa;gen_masc;stem_u;num_all,ˈʟʲasˠ
 lestar-396,lestar,lex-lestar-396,,,sync;alt_none;gen_neut;stem_o;num_all,ˈʟʲasˠtˠarˠ
 leth-397,leth,lex-leth-397,,*φlete/os-,sync_none;alt_none;gen_neut;stem_s;num_all,ˈʟʲaθˠ
 leth-397.1,leth,lex-leth-397,,*φlete/os-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈʟʲaθˠ
-lie-398,lië,lex-lie-398,,*līu̯ank-,sync;alt_none;gen_masc;stem_nk;num_all,ˈʟʲəØʲaØʲ
-lie-398.1,lië,lex-lie-398,,*līu̯ank-,sync;alt_none;gen_fem;stem_nk;num_all,ˈʟʲəØʲaØʲ
+lie-398,lië,lex-lie-398,,*līu̯ank-,sync_none;alt_none;gen_masc;stem_nk;num_all,ˈʟʲəØʲaØʲ
+lie-398.1,lië,lex-lie-398,,*līu̯ank-,sync_none;alt_none;gen_fem;stem_nk;num_all,ˈʟʲəØʲaØʲ
 li-399,lí,lex-li-399,,*līg-,sync_none;alt_none;gen_neut;stem_k;num_all,ˈʟʲəØʲ
 li-399.1,lí,lex-li-399,,*līg-,sync_none;alt_none;gen_neut;stem_indecl;num_all,ˈʟʲəØʲ
 lion-400,líon,lex-lion-400,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʟʲəØʲnʷ
@@ -481,7 +481,7 @@ luag-404.1,lúag,lex-log-404,,,sync_none;alt_none;gen_neut;stem_s;num_all,ˈʟʷ
 lucht-405,lucht,lex-lucht-405,,*luχtu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʟʷəxʷtʷ
 luige-406,luige,lex-luige-406,79;5,;*lug-i̯o-; vn. of tongaid,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈʟʷəɣʲaØʲ
 lugae-406.1,lugae,lex-luige-406,6,;*lug-i̯o-; vn. of tongaid,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈʟʷəɣʷaØʲ
-maam-407,maäm,lex-maam-407,79;6,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈmˠaØˠaμˠ
+maam-407,maäm,lex-maam-407,79;6,,sync;alt_none;gen_masc;stem_u;num_all,ˈmˠaØˠaμˠ
 mam-407.1,mám,lex-maam-407,6,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈmˠaØˠμˠ
 macc-408,macc,lex-macc-408,,*maku̯ku̯o-,sync_none;alt_none;gen_masc;stem_o;num_all,ˈmˠakˠ
 machdad-409,machdad,lex-machdad-409,6;7;22;80,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈmˠaxˠðˠaðˠ
@@ -552,7 +552,7 @@ proind-461,proind,lex-proind-461,79,< Lat. prandium,sync_none;alt_none;gen_fem;s
 praind-461.1,praind,lex-proind-461,70;1,< Lat. prandium,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈpˠrˠaɴʲdʲ
 rann-462,rann,lex-rann-462,,*φrasnā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈʀˠaɴˠ
 rath-463,rath,lex-rath-463,,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈʀˠaθˠ
-ree-464,reë,lex-ree-464,,,sync;alt_none;gen_fem;stem_iā;num_all,ˈʀʲaØˠaØʲ
+ree-464,reë,lex-ree-464,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈʀʲaØˠaØʲ
 re-464.1,ré,lex-ree-464,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈʀʲaØʲ
 recht-465,recht,lex-recht-465,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʀʲaxˠtˠ
 ret-466,rét,lex-ret-466,6;7;21;70,*rentu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʀʲaØʲdˠ
@@ -571,7 +571,7 @@ sacart-476,sacart,lex-sacart-476,,< Lat. sacerdōs,sync_none;alt_none;gen_masc;s
 saeb-apstal-477,sáeb-apstal,lex-saeb-apstal-477,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈsˠaØʲβˠ-ˈØˠabˠsˠtˠalˠ
 saigid-478,saigid,lex-saigid-478,,*sag-i-ti-; vn. of saigid,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈsˠaɣʲəðʲ
 saegul-479,sáegul,lex-saegol-479,,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈsˠaØʲɣʷəlʷ
-sain-lae-480,sain-laë,lex-sain-lae-480,,,sync;alt_none;gen_neut;stem_io;num_all,ˈsˠanʲ-ˈlˠaØˠaØʲ
+sain-lae-480,sain-laë,lex-sain-lae-480,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈsˠanʲ-ˈlˠaØˠaØʲ
 sainred-481,sainred,lex-sainred-481,,denominative (abstract): < sain,sync_none;alt_none;gen_neut;stem_o;num_all,ˈsˠanʲrʲaðˠ
 saeth-482,sáeth,lex-saeth-482,,*sai̯-tu-,sync_none;alt_none;gen_masc;stem_u;num_all,ˈsˠaØʲθˠ
 saethar-483,sáethar,lex-saethar-483,,denominative (abstract): < sáeth,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈsˠaØʲθˠarˠ
