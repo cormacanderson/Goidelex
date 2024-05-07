@@ -31,7 +31,7 @@ aircor-28,aircor,lex-aircor-28,,,sync_nd;alt_none;gen_masc;stem_unk;num_all,ˈØ
 airde-29,airde,lex-airde-29,,*φari-u̯ei̯d-i̯o-,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲðʲaØʲ
 airec-30,airec,lex-airec-30,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈØˠarʲəgˠ
 airechas-31,airechas,lex-airechas-31,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØˠarʲaxˠəsˠ
-airgaire-32,airgaire,lex-airgaire-32,,vn. of ar·gair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲɣˠarʲaØʲ
+airgaire-32,airgaire,lex-airgaire-32,,vn. of ar·gair,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠərʲɣˠarʲaØʲ
 airitiu-33,airitiu,lex-airitiu-33,,vn. of ar·foím,sync_vf;alt_none;gen_fem;stem_n;num_all,ˈØˠarʲədʲəØʷ
 airlicud-34,airlicud,lex-airlicud-34,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØˠarʲlʲəgʷəðʷ
 airmm-35,airmm,lex-airmm-35,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈØˠarʲmʲ
@@ -75,7 +75,7 @@ attrab-67,attrab,lex-attrab-67,79;6;7,*ad-treb-o-,sync_none;alt_none;gen_neut;st
 aittreb-67.1,áittreb,lex-attrab-67,81,*ad-treb-o-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØˠaØˠtʲrʲəβˠ
 attlugud-68,attlugud,lex-attlugud-68,,vn. of at·tluichedar,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈØˠatʷlʷəɣʷəðʷ
 augtordas-69,áugtordás,lex-augtordas-69,,< Lat. auctoritas,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØˠaØʷɣʷdʷarˠðˠaØˠsˠ
-airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØˠarʲlˠadˠəØʷ
+airlatu-70,airlatu,lex-airlatu-70,,,sync_vf;alt_none;gen_masc;stem_t;num_all,ˈØˠərʲlˠadˠəØʷ
 bae-71,baë,lex-bae-71,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈbˠaØˠaØʲ
 bag-72,bág,lex-bag-72,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠaØˠɣˠ
 bairgen-73,bairgen,lex-bairgen-73,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈbˠarʲɣʲənˠ
@@ -439,15 +439,15 @@ inne-369,inne,lex-inne-369,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØʲə�
 insce-370,insce,lex-insce-370,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØʲəɴʲsʲkʲaØʲ
 intliucht-371,intliucht,lex-intliucht-371,,< Lat. intellectus,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØʲəɴʲtʲlʲəxʷtʷ
 intamail-372,intamail,lex-intamail-372,,vn. of in·samlathar,sync;alt_none;gen_fem;stem_ī/ā;num_all,ˈØʲəɴʷtʷaμˠəlʲ
-airail-373,airáil,lex-airail-373,,,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈØˠarʲØˠaØˠlʲ
-airbag-374,airbág,lex-airbag-374,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʲβˠaØˠɣˠ
-airchrae-375,airchrae,lex-airchrae-375,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲxˠrˠaØʲ
+airail-373,airáil,lex-airail-373,,,sync_nd;alt_none;gen_fem;stem_i;num_all,ˈØˠərʲØˠaØˠlʲ
+airbag-374,airbág,lex-airbag-374,,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲβˠaØˠɣˠ
+airchrae-375,airchrae,lex-airchrae-375,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈØˠərʲxˠrˠaØʲ
 ereschae-376,ereschae,lex-ereschae-376,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠərʲØʲasˠxˠaØʲ
 eres-377,eres,lex-eres-377,,*φari-sist-ā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲØʲəsˠ
 airfocrae-378,airḟócrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲØʷaØʷgˠrˠaØʲ
 airfuacrae-378.1,airḟúacrae,lex-airfocrae-378,,,sync_nd;alt_none;gen_neut;stem_io;num_all,ˈØˠarʲØʷaØˠgˠrˠaØʲ
-airgal-379,airgal,lex-airgal-379,,vn. of ar·fich,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠarʲɣˠəlˠ
-airnaigde-380,airnaigde,lex-airnaigde-380,,*φari-ni-gu̯ed-i̯ā-; vn. of ar·neget,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠarʲnˠaɣʲðʲaØʲ
+airgal-379,airgal,lex-airgal-379,,vn. of ar·fich,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲɣˠəlˠ
+airnaigde-380,airnaigde,lex-airnaigde-380,,*φari-ni-gu̯ed-i̯ā-; vn. of ar·neget,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈØˠərʲnˠaɣʲðʲaØʲ
 ittge-381,ittge,lex-ittge-381,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØʲətʲɣʲaØʲ
 iudae-383.1,Iúdae,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_pl,ˈØʲəØʷðˠaØʲ
 iudaide-383,Iúdaide,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈØʲəØʷðˠaðʲaØʲ
