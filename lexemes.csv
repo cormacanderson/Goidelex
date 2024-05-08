@@ -1,5 +1,5 @@
 lexeme_id,derivational_families,label,CorPH_ids,CorPH_labels,CorPH_meaning,Wb_label,DIL_URL,gloss,POS
-lex-aier-1,1,aiër,3219,aër,"air, atmosphere, sky",aër,http://dil.ie/632,"air, atmosphere",noun
+lex-aiar-1,1,aiär,3219,aër,"air, atmosphere, sky",aër,http://dil.ie/632,"air, atmosphere",noun
 lex-aipgitir-2,2,aipgitir,6964,aipgitir,the letters of the alphabet,abgitir,http://dil.ie/730,alphabet,noun
 lex-apstanait-3,3,apstanait,9400,abstanait,abstinence,abstanit,http://dil.ie/93,abstinence,noun
 lex-acalddam-4,4,acalddam,3124,acaldam,"the act of addressing or conversing with, colloquy ; murmuring",accaldam,http://dil.ie/114,addressing,verbal_noun
@@ -51,7 +51,7 @@ lex-anae-50,48,ánae,3371,anae,"wealth, riches, prosperity",anae (ánae),http://
 lex-anamm-charae-51,49;50,anamm-charae,9337,anmcharae,confessor; spiritual director,anamchare,http://dil.ie/3684,soul friend,compound_noun
 lex-ainecnae-52,51;52,ainecnae,,,,anecne,http://dil.ie/1274,unwise person,prefixed_noun
 lex-aincride-53,51;53,aincride,3375,ancride,"wrong, injustice, injury, vengeance",ancride,http://dil.ie/1211,"wrong, injury",prefixed_noun
-lex-ainfius-54,51;54,ainḟius,7042,anfius,"ignorance, lack of knowledge",anfius,http://dil.ie/1353,ignorance,prefixed_noun
+lex-ainfius-54,51;54,ainfius,7042,anfius,"ignorance, lack of knowledge",anfius,http://dil.ie/1353,ignorance,prefixed_noun
 lex-anaimm-55,49,anaimm,3372,ainimm,soul (as opposed to the body),"anim, ainim(m)",http://dil.ie/1402,soul,noun
 lex-apstal-56,55,apstal,3389,apstal,apostle,"apstal, abstal",http://dil.ie/3887,apostle,noun
 lex-apstalach-57,55,apstalach,3390,apstalacht,"apostleship, apostolate",apstalacht,http://dil.ie/3889,apostolate,noun
@@ -374,7 +374,7 @@ lex-airbag-374,349,airbág,,,,irbág,http://dil.ie/1605,"glorying, boasting",ver
 lex-airchrae-375,350,airchrae,airchrae,3269,,irchre,http://dil.ie/1759,"perishing, destroying",verbal_noun
 lex-ereschae-376,351,ereschae,,,,iresche,http://dil.ie/29053,faith,noun
 lex-eres-377,351,eres,5174,ires,"faith, religion, belief","iress, ires",http://dil.ie/29051,(Christian) faith (in God),noun
-lex-airfocrae-378,352,airḟócrae,,,,irfócre,http://dil.ie/1976,"suggesting, warning",verbal_noun
+lex-airocrae-378,352,airócrae,,,,irfócre,http://dil.ie/1976,"suggesting, warning",verbal_noun
 lex-airgal-379,353,airgal,3285,airgal,"the act of fighting; strife, contest, line of battle, battalion",irgal,http://dil.ie/2010,"conflict, strife",verbal_noun
 lex-airnaigde-380,354,airnaigde,151,airnigde,the act of praying; prayer,irnigde,http://dil.ie/2324,prayer,verbal_noun
 lex-ittge-381,355,ittge,,,,itge,http://dil.ie/29148,prayer,noun
@@ -571,5 +571,5 @@ lex-uabar-572,518,úabar,,,,úabar,http://dil.ie/42574,vanity,noun
 lex-uailbe-573,519,úailbe,,,,úailbe,http://dil.ie/42628,levity,noun
 lex-uall-574,520,úall,6119,úall 1,"pride, arrogance, vainglory",úall,http://dil.ie/42708,"pride, arrogance",noun
 lex-uathad-575,521,úathad,3053,úathad,"gramm. singular, a small number, a few, rare",úathad,http://dil.ie/42815,"small number, few",noun
-lex-umaldoit-576,522,umaldóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
+lex-umalddoit-576,522,umalddóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
 lex-utmuille-577,523,utmuille,6144,utmaille,"movement, restlessness, unsteadiness, instability",utmuille,http://dil.ie/43341,"unsteadiness, restlessness",noun
