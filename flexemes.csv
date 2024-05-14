@@ -94,7 +94,7 @@ beimm-77,béimm,lex-beimm-77,,*bei̯-smen-; vn. of benaid,sync_none;alt_none;gen
 beith-104.1,beith,lex-buith-104,81,*bu-tā-; vn. of ad·tá,sync_none;alt_none;gen_fem;stem_i;num_all,ˈbʲaθʲ
 bel-78,bél,lex-bel-78,,,sync_none;alt_eo;gen_masc;stem_o;num_all,ˈbʲaØʲlˠ
 belrae-79,bélrae,lex-belrae-79,,,sync_vf;alt_none;gen_neut;stem_io;num_all,ˈbʲaØʲlˠrˠaØʲ
-ben-80,ben,lex-ben-80,,*benā- (gen. bnās),sync_none;alt_none;gen_fem;stem_irreg;num_all,ˈbʲanˠ
+ben-80,ben,lex-ben-80,,*benā- (gen. bnās),sync_none;alt_none;gen_fem;stem_ben;num_all,ˈbʲanˠ
 bendacht-81,bendacht,lex-bendacht-81,,vn. of bendachaid (< Lat. benedictum),sync_none;alt_none;gen_fem;stem_n1;num_all,ˈbʲaɴˠdˠəxˠtˠ
 beo-82,béo,lex-beo-82,,,sync_none;alt_none;gen_masc;stem_o;num_all,ˈbʲaØʷ
 bes-83,bés,lex-bes-83,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈbʲaØʲsˠ
@@ -224,8 +224,8 @@ cuntubart-160,cuntubart,lex-cuntubart-160,79,,sync_none;alt_none;gen_fem;stem_ā
 cursagad-191,cúrsagad,lex-cursagad-191,79,vn. of cúrsagaid,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈkʷəØʷrʷsʷaɣˠəðˠ
 cursagad-191.1,cúrsagad,lex-cursagad-191,6,vn. of cúrsagaid,sync_none;alt_none;gen_masc;stem_u;num_all,ˈkʷəØʷrʷsʷaɣˠəðˠ
 cutrummus-192,cutrummus,lex-cutrummus-192,,,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷədʷrʷəmʷəsʷ
-dag-doini-193.1,dag-doíni,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_i;num_pl,ˈdˠaɣˠ-ˈðʷaØʲnʲəØʲ
-dag-duine-193,dag-duine,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈdˠaɣˠ-ˈðʷənʲaØʲ
+dag-doini-193.1,dag-doíni,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_i;num_pl_only,ˈdˠaɣˠ-ˈðʷaØʲnʲəØʲ
+dag-duine-193,dag-duine,lex-dag-duine-193,,,sync_vf;alt_none;gen_masc;stem_io;num_sg_only,ˈdˠaɣˠ-ˈðʷənʲaØʲ
 dag-gniom-194,dag-gníom,lex-dag-gniom-194,,compound: dag- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdˠaɣˠ-ˈɣʲnʲəØʲμʷ
 daltae-195,daltae,lex-daltae-195,,*to-al-ti̯o-,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈdˠalˠtˠaØʲ
 dam-196,dam,lex-dam-196,,*damo-,sync_none;alt_none;gen_masc;stem_o;num_all,ˈdˠaμˠ
@@ -248,7 +248,7 @@ deithiden-213,deithiden,lex-deithiden-213,79;6,,sync;alt_none;gen_fem;stem_ā;nu
 deithitiu-213.1,deithitiu,lex-deithiden-213,70,,sync_vf;alt_none;gen_fem;stem_n1;num_all,ˈdʲaθʲədʲəØʷ
 delb-205,delb,lex-delb-205,,*delu̯ā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʲalˠβˠ
 demon-206.1,demon,lex-demun-206,80;81,;< Latin: daemonium < Greek: δαιμόνῐον,sync;alt_none;gen_masc;stem_o;num_all,ˈdʲaμʷənˠ
-demon-206.2,demon,lex-demun-206,5;81,;< Latin: daemonium < Greek: δαιμόνῐον,sync;alt_none;gen_neut;stem_i;num_pl,ˈdʲaμʷənˠ
+demon-206.2,demon,lex-demun-206,5;81,;< Latin: daemonium < Greek: δαιμόνῐον,sync;alt_none;gen_neut;stem_i;num_pl_only,ˈdʲaμʷənˠ
 demun-206,demun,lex-demun-206,79;6;70;5,;< Latin: daemonium < Greek: δαιμόνῐον,sync;alt_none;gen_masc;stem_o;num_all,ˈdʲaμʷənʷ
 denam-207.2,dénam,lex-denum-207,81;70,*de-gnī-mu-; vn. of do·gní,sync;alt_none;gen_masc;stem_u;num_all,ˈdʲaØʲnˠəμˠ
 denom-207.1,dénom,lex-denum-207,7,*de-gnī-mu-; vn. of do·gní,sync;alt_none;gen_masc;stem_u;num_all,ˈdʲaØʲnʷəμˠ
@@ -276,7 +276,7 @@ doenacht-231,dóenacht,lex-doenacht-231,6;70,,sync_none;alt_none;gen_fem;stem_ā
 doguilse-230,doguilse,lex-doguilse-230,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷaɣʷəlʲsʲaØʲ
 doidced-229.1,doidced,lex-dodcad-229,,,sync_nd;alt_none;gen_unk;stem_o;num_all,ˈdʷaðʲgʲəðˠ
 doinecht-231.1,doínecht,lex-doenacht-231,79,,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷaØʲnʲəxˠtˠ
-doini-238.1,doíni,lex-duine-238,,*gdoni̯o-,sync_vf;alt_none;gen_masc;stem_i;num_pl,ˈdʷaØʲnʲəØʲ
+doini-238.1,doíni,lex-duine-238,,*gdoni̯o-,sync_vf;alt_none;gen_masc;stem_i;num_pl_only,ˈdʷaØʲnʲəØʲ
 doire-232,doíre,lex-doire-232,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷaØʲrʲaØʲ
 domun-233,domun,lex-domun-233,,*duβ-no-,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈdʷaμʷənʷ
 drog-gniom-234,drog-gníom,lex-drog-gniom-234,,compound: droch- + gním,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷrʷaɣˠ-ˈɣʲnʲəØʲμʷ
@@ -285,7 +285,7 @@ drui-235.1,druiï,lex-drui-235,,*dru-u̯id-,sync_none;alt_none;gen_masc;stem_t;n
 du-alaig-236,du-álaig,lex-du-alaig-236,,,sync_pal;alt_none;gen_fem;stem_i;num_all,ˈdʷə-ˈØˠaØˠlˠəɣʲ
 duil-237,dúil,lex-duil-237,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈdʷəØʷlʲ
 duilchinne-240,dúilchinne,lex-duilchinne-240,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈdʷəØʷlʲxʲəɴʲaØʲ
-duine-238,duine,lex-duine-238,,*gdoni̯o-,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈdʷənʲaØʲ
+duine-238,duine,lex-duine-238,,*gdoni̯o-,sync_vf;alt_none;gen_masc;stem_io;num_sg_only,ˈdʷənʲaØʲ
 dul-239,dul,lex-dul-239,,vn téit ; *dalu-/dolu-;,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷəlʷ
 duthracht-241,dúthracht,lex-duthracht-241,,*dī-uφo-trank-tā-,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈdʷəØʷθʷrʷəxˠtˠ
 eclais-243,eclais,lex-eclais-243,6;50;79;81.,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_epen;gen_fem;stem_ī2;num_all,ˈØʲagˠlˠəsʲ
@@ -449,8 +449,8 @@ intamail-372,intamail,lex-intamail-372,,vn. of in·samlathar,sync;alt_none;gen_f
 intliucht-371,intliucht,lex-intliucht-371,,< Lat. intellectus,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈØʲəɴʲtʲlʲəxʷtʷ
 iocc-337,íocc,lex-iocc-337,,vn. of íccaid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØʲəØʲkʷ
 ittge-381,ittge,lex-ittge-381,,,sync_vf;alt_none;gen_masc;stem_io;num_all,ˈØʲətʲɣʲaØʲ
-iudae-383.1,Iúdae,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_pl,ˈØʲəØʷðˠaØʲ
-iudaide-383,Iúdaide,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_sg,ˈØʲəØʷðˠaðʲaØʲ
+iudae-383.1,Iúdae,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_pl_only,ˈØʲəØʷðˠaØʲ
+iudaide-383,Iúdaide,lex-iudaide-383,,,sync_vf;alt_none;gen_masc;stem_io;num_sg_only,ˈØʲəØʷðˠaðʲaØʲ
 labrad-386,labrad,lex-labrad-386,,*labarātu-; vn. of labraithir,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʟˠaβˠrˠəðˠ
 lae-384,laë,lex-lae-384,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈʟˠaØˠaØʲ
 laine-389.1,láine,lex-lanae-389,,,sync_vf;alt_none;gen_fem;stem_iā;num_all,ˈʟˠaØˠnʲaØʲ
@@ -467,8 +467,8 @@ les-395,les,lex-les-395,,,sync_none;alt_schwa;gen_masc;stem_u;num_all,ˈʟʲasˠ
 lestar-396,lestar,lex-lestar-396,,,sync;alt_none;gen_neut;stem_o;num_all,ˈʟʲasˠtˠərˠ
 leth-397,leth,lex-leth-397,,*φlete/os-,sync_none;alt_none;gen_neut;stem_s;num_all,ˈʟʲaθˠ
 leth-397.1,leth,lex-leth-397,,*φlete/os-,sync_none;alt_none;gen_neut;stem_o;num_all,ˈʟʲaθˠ
-li-399,lí,lex-li-399,,*līg-,sync_none;alt_none;gen_neut;stem_k;num_all,ˈʟʲəØʲ
-li-399.1,lí,lex-li-399,,*līg-,sync_none;alt_none;gen_neut;stem_indecl;num_all,ˈʟʲəØʲ
+li-399,lí,lex-li-399,,*līg-,sync_none;alt_short;gen_fem;stem_k;num_all,ˈʟʲəØʲ
+lii-399.1,liï,lex-li-399,,*līg-,sync_none;alt_none;gen_fem;stem_indecl;num_all,ˈʟʲəØʲ
 lie-398,lië,lex-lie-398,,*līu̯ank-,sync_none;alt_none;gen_masc;stem_nk;num_all,ˈʟʲəØʲaØʲ
 lie-398.1,lië,lex-lie-398,,*līu̯ank-,sync_none;alt_none;gen_fem;stem_nk;num_all,ˈʟʲəØʲaØʲ
 lion-400,líon,lex-lion-400,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈʟʲəØʲnʷ
