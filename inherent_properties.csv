@@ -8,6 +8,7 @@ sync_nd,No data syncope,There is insufficient data to determine whether or not t
 alt_schwa,Underlying schwa,"The first vowel of this flexeme is /ə/ not /a/, but this is neutralised in the citation form",morphonology,alternation
 alt_eo,Alternation with éo,In this flexeme é alternates with éo,morphonology,alternation
 alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology,alternation
+alt_epen,Epenthesis,This flexeme exhibits epenthesis,morphology,alternation
 alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology,alternation
 alt_sync_epen,Syncopated forms epenthesise,Syncopated forms  of this flexeme are liable to epenthesis,morphonology,alternation
 alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology,alternation
