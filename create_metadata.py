@@ -15,7 +15,7 @@ def pattern_multi_foreignkey(path):
 basepath = str(Path(__file__).parent)
 package = fl.Package('etc/goidelex_package_schema.json')
 
-
+package.version = "v1.0.1"
 # Correct basepath to be the root dir
 package.basepath = basepath
 for r in package.resources:
