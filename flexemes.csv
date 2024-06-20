@@ -11,7 +11,7 @@ aes-38,áes,lex-aes-38,,,sync_none;alt_none;gen_masc;stem_u;num_all,ˈØˠaØʲs
 aiar-1,aiär,lex-aiar-1,,< Latin: āēr,sync;alt_none;gen_masc;stem_o;num_all,ˈØˠəØʲərˠ
 aicned-14,aicned,lex-aicned-14,,*ad-gen-e-to- / ad-gen-i-to- (LEIA A-26),sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØˠagʲnʲəðˠ
 aidpart-338,aidpart,lex-aidpart-338,,*ad-uss-ber-tā-; vn. of ad·opair,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠaðʲbˠərˠtˠ
-aigthiu-15,áigthiu,lex-aigthiu-15,,vn. of ad·ágathar,sync_none;alt_none;gen_fem;stem_n1;num_all,ˈØˠaØˠɣʲθʲəØʷ
+aichthiu-15,áichthiu,lex-aichthiu-15,,vn. of ad·ágathar,sync_none;alt_none;gen_fem;stem_n1;num_all,ˈØˠaØˠɣʲθʲəØʷ
 ail-16,ail,lex-ail-16,5;62;1,*φali-,sync_none;alt_none;gen_fem;stem_k;num_all,ˈØˠalʲ
 ail-16-1,ail,lex-ail-16,1,*φali-,sync_none;alt_none;gen_fem;stem_i;num_all,ˈØˠalʲ
 ail-17,áil,lex-ail-17,,,sync_none;alt_vel_stem;gen_fem;stem_i;num_all,ˈØˠaØˠlʲ
@@ -309,7 +309,7 @@ enech-20,enech,lex-enech-20,79;6;5;56,*eni-ku̯a; neuter plurale tantum,sync_nd;
 engnae-367-1,engnae,lex-ingnae-367,79;6,vn. of in·gnin,sync_none;alt_none;gen_neut;stem_io;num_all,ˈØʲanˠɣˠnˠaØʲ
 epscop-253,epscop,lex-epscop-253,79;6;5;1;70;50;81,< Latin: episcopus < Greek: ἐπίσκοπος,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈØʲabʷsʷkʷəbˠ
 erbert-25,erbert,lex-erbert-25,,vn. of ar·beir,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲβʲərˠtˠ
-ere-254,ere,lex-ere-254,,,sync_none;alt_none;gen_masc;stem_io;num_all,ˈØˠərʲØaØʲ
+ere-254,ere,lex-ere-254,,,sync_none;alt_none;gen_masc;stem_io;num_all,ˈØˠərʲØʲaØʲ
 eres-377,eres,lex-eres-377,,*φari-sist-ā-,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈØˠərʲØʲəsˠ
 ereschae-376,ereschae,lex-ereschae-376,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈØˠərʲØʲasˠxˠaØʲ
 esarggun-256-1,esarggun,lex-esorggon-256,6,vn. of as·oirg,sync_pal;alt_none;gen_fem;stem_ā;num_all,ˈØʲasˠarˠgˠənʷ
@@ -423,7 +423,7 @@ immarmus-351,immarmus,lex-immarmus-351,,vn. of imm·ruimdethar,sync_none;alt_non
 immchist-347,immchist,lex-immchist-347,,,sync_none;alt_vel_stem;gen_fem;stem_i;num_all,ˈØʲəmʲxʲəsʲtʲ
 immchomarc-348,immchomarc,lex-immchomarc-348,,vn. of imm·comairc,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷxʷaμˠərˠkˠ
 immdibe-349,immdibe,lex-immdibe-349,,vn. of imm·diben,sync_none;alt_none;gen_neut;stem_io;num_all,ˈØʲəmʲðʲəβʲaØʲ
-immfogaibetu-350,immḟogaibetu,lex-immfogaibetu-350,,,sync_none;alt_none;gen_masc;stem_t;num_all,ˈØʲəmʲØʷaɣˠaβʲadˠəØʷ
+immogaibetu-350,immogaibetu,lex-immogaibetu-350,,,sync_none;alt_none;gen_masc;stem_t;num_all,ˈØʲəmʲØʷaɣˠaβʲadˠəØʷ
 immned-353,immned,lex-immned-353,,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʲnʲəðˠ
 immradud-352,immrádud,lex-immradud-352,,vn. of imm·rádi,sync;alt_none;gen_masc;stem_u;num_all,ˈØʲəmʷrˠaØˠðʷəðʷ
 immrol-354,immról,lex-immrol-354,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲəmʷrʷaØʷlˠ
