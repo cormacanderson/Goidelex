@@ -10,7 +10,7 @@ alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology,
 alt_epen,Epenthesis,This flexeme exhibits epenthesis,morphonology,alternation
 alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology,alternation
 alt_short,Stem with short vowel,The stem of this flexeme has a short vowel,morphonology,alternation
-alt_irr,Irregular stem,This inflection of this flexeme is irregular,,
+alt_irr,Irregular stem,This inflection of this flexeme is irregular,morphonology,alternation
 alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology,alternation
 gen_fem,Feminine,This flexeme has feminine gender,morphosyntax,gender
 gen_masc,Masculine,This flexeme has masculine gender,morphosyntax,gender
@@ -36,6 +36,7 @@ stem_s,s-stem noun,This flexeme is inflected as an s-stem,morphosyntax,nominal_s
 stem_t,t-stem noun,This flexeme is inflected as a t-stem,morphosyntax,nominal_stem
 stem_u,u-stem noun,This flexeme is inflected as a u-stem,morphosyntax,nominal_stem
 stem_unk,Unknown stem,The there is insufficient evidence to determine the inflection of this flexeme,morphosyntax,nominal_stem
+stem_ben,Stem ben,This is the irregular lexeme ben,morphosyntax,nominal_stem
 num_all,No number restriction,This flexeme is inflected for all numbers,morphosyntax,number_restriction
 num_sg_only,Inflected only in singular,This flexeme is only inflected in the singular,morphosyntax,number_restriction
 num_pl_only,Inflected only in plural,This flexeme is only inflected in the plural,morphosyntax,number_restriction
