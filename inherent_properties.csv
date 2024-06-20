@@ -10,8 +10,8 @@ alt_eo,Alternation with éo,In this flexeme é alternates with éo,morphonology,
 alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology,alternation
 alt_epen,Epenthesis,This flexeme exhibits epenthesis,morphonology,alternation
 alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology,alternation
-alt_sync_epen,Syncopated forms epenthesise,Syncopated forms  of this flexeme are liable to epenthesis,morphonology,alternation
 alt_short,Stem with short vowel,The stem of this flexeme has a short vowel,morphonology,alternation
+alt_irr,Irregular sten,This inflection of this flexeme is irregular,,
 alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology,alternation
 gen_fem,Feminine,This flexeme has feminine gender,morphosyntax,gender
 gen_masc,Masculine,This flexeme has masculine gender,morphosyntax,gender
@@ -26,7 +26,6 @@ stem_iā,iā-stem,This flexeme is inflected as an iā-stem,morphosyntax,nominal_
 stem_indecl,Indeclinable,This flexeme is undeclinable,morphosyntax,nominal_stem
 stem_indecl+i,"Indeclinable singular, i-stem plural",This flexeme is undeclinable in the singular and inflected as an i-stem in the plural,morphosyntax,nominal_stem
 stem_io,io-stem,This flexeme is inflected as an io-stem,morphosyntax,nominal_stem
-stem_irreg,Irregular noun,The inflection of this flexeme is irregular,morphosyntax,nominal_stem
 stem_k,k-stem noun,This flexeme is inflected as a k-stem,morphosyntax,nominal_stem
 stem_n1,n-stem noun,This flexeme is inflected as an n-stem,morphosyntax,nominal_stem
 stem_n2,"n-stem noun, ā-stem genitive singular","This flexeme is inflected as an n-stem, except in the genitive singular, where it is inflected like an ā-stem",morphosyntax,nominal_stem
