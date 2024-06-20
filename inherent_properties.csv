@@ -1,6 +1,5 @@
 properties_id,label,comment,domain,type
 sync,Syncope,The vowel of the final syllable of this flexeme is liable to syncope,morphonology,syncope
-sync_vf,Vowel final,"This flexeme ends in a vowel, which is liable to be lost",morphonology,syncope
 sync_pal,Palatal syncope,The vowel of the final syllable of this flexeme is liable to syncope and has a palatalising effect,morphonology,syncope
 sync_vel,Velar syncope,The vowel of the final syllable of this flexeme is liable to syncope and has a velarising effect,morphonology,syncope
 sync_none,No syncope,The vowel of the final syllable of this flexeme is not liable to syncope,morphonology,syncope
@@ -11,7 +10,7 @@ alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology,
 alt_epen,Epenthesis,This flexeme exhibits epenthesis,morphonology,alternation
 alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology,alternation
 alt_short,Stem with short vowel,The stem of this flexeme has a short vowel,morphonology,alternation
-alt_irr,Irregular sten,This inflection of this flexeme is irregular,,
+alt_irr,Irregular stem,This inflection of this flexeme is irregular,,
 alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology,alternation
 gen_fem,Feminine,This flexeme has feminine gender,morphosyntax,gender
 gen_masc,Masculine,This flexeme has masculine gender,morphosyntax,gender
