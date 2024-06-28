@@ -194,7 +194,7 @@ cosc-165,cosc,lex-cosc-165,,vn. of con·secha,sync_none;alt_none;gen_neut;stem_o
 coscrad-166,coscrad,lex-coscrad-166,,*kom-skarā-tu-; vn. of con·scara,sync_nd;alt_none;gen_masc;stem_u;num_all,ˈkʷasˠkˠrˠəðˠ
 cosmuilius-167,cosmuilius,lex-cosmuilius-167,,*kom-samali-stu-; denominative (abstract): < cosmail,sync_pal;alt_none;gen_masc;stem_u;num_all,ˈkʷasʷμʷəlʲəsʷ
 cosnam-168,cosnam,lex-cosnam-168,,*kom-snī-mu-; vn. of con·sní,sync_none;alt_none;gen_masc;stem_u;num_all,ˈkʷasˠnˠəμˠ
-cotlud-170,cotlud,lex-cotlud-170,,vn. of con·tuili,sync;alt_epen;gen_masc;stem_u;num_all,ˈkʷadʷlʷəðʷ
+cotlud-170,cotlud,lex-cotlud-170,,vn. of con·tuili,sync;alt_none;gen_masc;stem_u;num_all,ˈkʷadʷlʷəðʷ
 crabud-171,crábud,lex-crabud-171,,,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈkˠrˠaØˠβʷəðʷ
 creitem-172,creitem,lex-creitem-172,,vn. of creitid,sync;alt_none;gen_fem;stem_ā;num_all,ˈkʲrʲadʲəμˠ
 cride-173,cride,lex-cride-173,,,sync_none;alt_none;gen_neut;stem_io;num_all,ˈkʲrʲəðʲaØʲ
@@ -288,8 +288,8 @@ duilchinne-240,dúilchinne,lex-duilchinne-240,,,sync_none;alt_none;gen_fem;stem_
 duine-238,duine,lex-duine-238,,*gdoni̯o-,sync_none;alt_none;gen_masc;stem_io;num_sg_only,ˈdʷənʲaØʲ
 dul-239,dul,lex-dul-239,,vn téit ; *dalu-/dolu-;,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷəlʷ
 duthracht-241,dúthracht,lex-duthracht-241,,*dī-uφo-trank-tā-,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈdʷəØʷθʷrʷəxˠtˠ
-eclais-243,eclais,lex-eclais-243,6;50;79;81.,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_epen;gen_fem;stem_ī2;num_all,ˈØʲagˠlˠəsʲ
-eclais-243-1,eclais,lex-eclais-243,79,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_epen;gen_fem;stem_i;num_all,ˈØʲagˠlˠəsʲ
+eclais-243,eclais,lex-eclais-243,6;50;79;81.,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_ī2;num_all,ˈØʲagˠlˠəsʲ
+eclais-243-1,eclais,lex-eclais-243,79,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_i;num_all,ˈØʲagˠlˠəsʲ
 ecndach-244,écndach,lex-ecndach-244,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲaØʲgˠɴˠdˠəxˠ
 ecosc-245,écosc,lex-ecosc-245,,,sync_none;alt_none;gen_neut;stem_o;num_all,ˈØʲaØʲgʷəsˠkˠ
 eicen-242,éicen,lex-eicen-242,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈØʲaØʲgʲənˠ
