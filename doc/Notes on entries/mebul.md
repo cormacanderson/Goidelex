@@ -1,0 +1,3 @@
+# mebul
+#wbnoun
+The most common nominative singular form found is without question *mebul*, although Wb. also has *mebol* (Wb8a13) and this is given as a headword in DIL. Given as a certain amount of fluctuation between *u* and *o* anyway occurs in the language, we assume this particular variation to be orthographic. We also have a nominative singular form *mebuil* (Ml138c8), which suggests at the adoption of the dative for the nominative, but other forms in Ml. have rather the expected *mebul*, so this may well be ephemeral. We set up only one entry here.

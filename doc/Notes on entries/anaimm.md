@@ -1,0 +1,6 @@
+# anaimm
+#wbnoun
+#multipleentries
+This lemma is most often spelled *anim* or *animm* in Ml. and Wb., which is ambiguous, but suggests a broad *n*, given the orthographic practice in these corpora. Supporting this interpretation is the form *anaim* (Ml116b7-9) and the fact that syncopated forms show a broad rather than slender *n*. However, there are also spellings suggesting a slender *n*, e.g. *ainim* (Wb3d11, Ml130c9).
+
+As to inflectional class, it is inflected as an n-stem in the plural, while in the singular it fluctuates, with the accusative singular most often being inflected as an n-stem, and the dative singular occasionally so. However, the dative singular is more often inflected as though this were an ī-stem noun, and this is the case for all genitive singular forms in the glosses. This merits setting up three entries: 1) an n-stem **anaimm** for the plural and accusative singular, 2) an ī-stem **anaimm** for the genitive and dative singular, and 3) an ī-stem **ainimm** also for the genitive and dative singular.

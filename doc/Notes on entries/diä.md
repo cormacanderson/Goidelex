@@ -1,0 +1,3 @@
+# diä
+#wbnoun
+There are no nominative singular forms in the glosses but the accusative singular is quite well-attested and is most often *dei*, more rarely *de*. The genitive singular is found frequently, everywhere as *dia* or *día*. The dative singular is found as *díu* (Fél. Prol. 220; Stokes 1886: 44). No plural forms are attested. While Kavanagh (2001) describes this as a u-stem, this is not compatible with the attested forms and the inflectional class remains unclear.

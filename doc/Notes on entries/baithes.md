@@ -1,0 +1,3 @@
+# baithes
+#wbnoun
+This lemma shows a variety of different forms. Sometimes, it is inflected as a masculine o-stem, with a broad final s in the nominative singular. At other times, it appears to be inflected rather as a feminine i-stem and has a slender final *s* in the nominative singular, while the medial *th* varies between broad and slender. We thus set up three separate entries: 1) masculine o-stem **baithes**, 2) feminine i-stem **baithis**, and 3) feminine i-stem **bathais**.

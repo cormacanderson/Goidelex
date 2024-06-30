@@ -1,0 +1,3 @@
+# aincride**
+#wbnoun
+This lemma, like [[ainecnae]]**ainecnae** and [[ainfius]] **ainfius**, has the negative formative *an*-. The orthography is somewhat ambiguous, in that the *n* is never clearly shown to be palatal in examples of which I am aware from the glosses, so we cannot be entirely sure if it was assimilated to a following consonant or vowel. However, we have the slightly later form *ainfis* (MT §66), which clearly shows /nʹ/, and assimilation in such instances is standard in the later language. On the weight of this evidence, we have assumed that it occurred also in Old Irish. The lack of lenition here is confirmed by the genitive singular form *anccridi* (Ml38d20) (see also [[ainfius]] **ainfius**.

@@ -1,0 +1,2 @@
+# immchist
+Marked in Kavanagh (2001) as a feminine i-stem, like **ceist**, but only the nominative plural *imchesti* is attested in the glosses. DIL tentatively connects it to a lonely later form *imcheacht*. The main problem here is that *ei* does not usually occur in Old Irish in unstressed position. We tentatively assume here then a nominative singular *immchist*, with a broad stem (so the nominative plural might be written *imchestai*), parallel to *toisc* 'need, necessity', with nominative plural *toscai* (Fél. July 19).

@@ -1,0 +1,3 @@
+# cumtubart
+#wbnoun
+The orthography here suggests some variation. In Ml., Sg., and Blath. we find *cumtubart* etc. with *mt*, while Ml. also has *cumdubart* with *md*. In Wb., we find similar variation between *t* and *d*, but with *n* rather than *m*, so *cuntubart* and *cundubart* etc. The underlying phonology is difficult to determine given this distribution, but we set up four separate entries: 1) **cuntubart**, 2) **cundubart**, 3) **cumtubart**, 4) **cumdubart**.
