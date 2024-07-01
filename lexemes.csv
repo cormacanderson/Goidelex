@@ -203,8 +203,8 @@ lex-deide-202,190,déide,4040,déide,"double, consisting of two things, pair",d�
 lex-deicsiu-203,191,déicsiu,4048,déicsiu,"the act of looking, gazing, viewing, searching, inspecting, glancing",déicsiu,http://dil.ie/15143,beholding,verbal_noun
 lex-deimnigiud-204,192,deimnigiud,4054,deimnigud,"the act of confirming, making firm, securing, fortifying, proving, attesting",deimnigud,http://dil.ie/15219,confirming,verbal_noun
 lex-delb-205,193,delb,4063,delb,"form, figure, appearance, shape, likeness, image; composing",delb,http://dil.ie/15324,"shape, form",noun
-lex-demun-206,194,demun,4067;8397,demon;demun,"demon, devil, evil spirit",demun,http://dil.ie/15433,"demon, devil",noun
-lex-denum-207,195,dénum,1001,dénum,"the act of doing, making, creating; deed, work, activity",dénum,http://dil.ie/15474,doing,verbal_noun
+lex-demon-206,194,demon,4067;8397,demon;demun,"demon, devil, evil spirit",demun,http://dil.ie/15433,"demon, devil",noun
+lex-denom-207,195,dénom,1001,dénum,"the act of doing, making, creating; deed, work, activity",dénum,http://dil.ie/15474,doing,verbal_noun
 lex-deoladacht-208,196,déoladacht,,,,deoladacht,http://dil.ie/15511,grace,noun
 lex-derchoiniud-209,197,derchoíniud,4079,derchoíniud,"the act of despairing; despair, dejection",derchoíniud,http://dil.ie/15598,despair,verbal_noun
 lex-deiscipul-210,198,deiscipul,4091,descipul,disciple,descipul,http://dil.ie/15268,disciple,noun
@@ -215,7 +215,7 @@ lex-dias-214,190,diäs,8836,diäs,"pair, couple",dḯas,http://dil.ie/15982,two
 lex-dias-215,204,diäs,,,,"días, diass",https://dil.ie/15981,ear of corn,noun
 lex-diu-216,205,diü,1024,diä,day,dia,http://dil.ie/15848,day,noun
 lex-dia-217,199,día,1023,día 2,"god, deity, God","dia, día",http://dil.ie/15847,God,noun
-lex-diabul-218,206,díabul,9674,díabul 2,"the devil, Lucifer",díabul,http://dil.ie/15865,devil,noun
+lex-diabol-218,206,díabol,9674,díabul 2,"the devil, Lucifer",díabul,http://dil.ie/15865,devil,noun
 lex-didnad-219,207,dídnad,4122,dídnad,"the act of comforting, consoling, refreshing; refreshment",dídnad,http://dil.ie/16225,"consolation, relief",verbal_noun
 lex-digal-220,208,dígal,4124,dígal,"the act of avenging, punishing, vengeance",dígal,http://dil.ie/16293,"punishment, vengeance",verbal_noun
 lex-dilgud-221,209,dílgud,4133,dílgud,"the act of forgiving; forgiveness, pardon, remission, forgiving",dílgud,http://dil.ie/16416,forgiveness,verbal_noun
@@ -289,7 +289,7 @@ lex-fochraicc-288,268,fochraicc,4682,fochraic,"the act of rewarding; reward, rec
 lex-focrae-289,269,fócrae,9569,fúacrae,"announcement, warning",fócrae,http://dil.ie/22543,announcement,verbal_noun
 lex-fodaitiu-290,270,fodaitiu,4691,fodaitiu,"the act of bearing, enduring",foditiu,http://dil.ie/22610,enduring,verbal_noun
 lex-fognam-291,271,fognam,4701,fognam,service,fognam,http://dil.ie/22777,service,verbal_noun
-lex-fogur-292,272,fogur,4704,fogur,"sound (used of speech, natural sounds)",fogur,http://dil.ie/22802,"speech sound, voice",noun
+lex-fogor-292,272,fogor,4704,fogor,"sound (used of speech, natural sounds)",fogur,http://dil.ie/22802,"speech sound, voice",noun
 lex-foigde-293,273,foigde,1514,foigde,"the act of begging; beseech, request, free victual, entertainment",foigde,http://dil.ie/22848,begging,verbal_noun
 lex-foilsigud-294,274,foilsigud,7463,foillsigud,"the act of manifesting, demonstrating",foilsigud,http://dil.ie/22891,manifesting,verbal_noun
 lex-foirbthetu-295,275,foirbthetu,4717,foirbthetu,perfection,foirbthetu,http://dil.ie/22953,"perfection, completeness",noun
@@ -404,7 +404,7 @@ lex-lucht-405,377,lucht,1989,lucht,"contents, cargo, people, inhabitant",luct,ht
 lex-luige-406,378,luige,1992;6666,luige;lugae,the act of swearing; oath,luige,http://dil.ie/30984,oath,verbal_noun
 lex-maam-407,379,maäm,5294,mám 1,yoke,máam,http://dil.ie/31500,yoke,noun
 lex-macc-408,380,macc,2011,macc 1,"son, male descendent, young man, son, The Son (i.e. Christ), young male animal, boy, male descendant",macc,http://dil.ie/31166,son,noun
-lex-machdad-409,381,machdad,5296,machdad,"wonder, astonishment",machthad,http://dil.ie/31203,marvel,noun
+lex-machthad-409,381,machthad,5296,machdad,"wonder, astonishment",machthad,http://dil.ie/31203,marvel,noun
 lex-maigister-410,382,maigister,2027,magister,,magister,http://dil.ie/31317,"master, teacher",noun
 lex-moen-411,383,móen,2136,móen,"gift, benefit, in pl.: treasures, possessions, wealth",maín,http://dil.ie/31345,treasure,noun
 lex-martrae-412,384,martrae,2065,martrae,"martyrdom, violent death, relics",martrae,http://dil.ie/31640,martyrdom,noun
@@ -443,7 +443,7 @@ lex-oentu-444,413,óentu,5482,óentu,"oneness, unity, consent",oíntu,http://dil
 lex-oipred-445,414,oipred,5483,oipred,"act of working; activity, operation, performance",oipred,http://dil.ie/33686,"work, operation",noun
 lex-olc-446,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,evil-doer,noun
 lex-olc-447,415,olc,5498,olc,"evil, bad, wrong","olc, olcc",http://dil.ie/33783,"evil, wrong",noun
-lex-omun-448,416,omun,5504,omun,"fear, the state of being afraid",ómon,http://dil.ie/33853,fear,noun
+lex-omon-448,416,ómon,5504,omun,"fear, the state of being afraid",ómon,http://dil.ie/33853,fear,noun
 lex-uar-449,417,úar,6123,úar 2,"hour, time, occasion; point of time","ór, úar",http://dil.ie/42763,"hour, time",noun
 lex-ordd-450,418,ordd,5515,ord 1,"order, sequence, class of persons",ord,http://dil.ie/33966,"practice, procedure, order",noun
 lex-orbbae-451,419,orbbae,5513,orbae,"patrimony, heritage, real estate",orpe,http://dil.ie/33941,"inheritance, patrimony",noun
@@ -456,7 +456,7 @@ lex-popul-457,424,popul,5537,popul,"a group of people, a tribe, people held toge
 lex-preicept-458,425,preicept,5541,preicept,act of teaching or preaching,precept,http://dil.ie/34520,preaching,noun
 lex-preiceptoir-459,425,preiceptóir,5540,preiceptóir,"teacher, preacher",preceptóir,http://dil.ie/34521,preacher,noun
 lex-primit-460,426,prímit,5544,prímit,first-fruit,primit,http://dil.ie/34570,first fruit,noun
-lex-proind-461,427,proind,2485,proind,"A meal, refection, generally of the chief meal of the day",proind,http://dil.ie/34594,meal,noun
+lex-praind-461,427,praind,2485,proind,"A meal, refection, generally of the chief meal of the day",proind,http://dil.ie/34594,meal,noun
 lex-rann-462,428,rann,2525,rann 1,"part, share, division, part (of speech), portion",rann,http://dil.ie/34804,"part, portion",noun
 lex-rath-463,429,rath,5553,rath 1,grace,rath,http://dil.ie/34833,grace,verbal_noun
 lex-ree-464,430,reë,5555,ré,"space, interval of time ; period; lapse of time; space, intervening distance",ré,http://dil.ie/34864,period of time,noun
@@ -539,13 +539,13 @@ lex-tichtu-540,225,tíchtu,2931,tíchtu,"the act of coming, coming to",tíchtu,h
 lex-timmnae-541,490,timmnae,5944,timmnae,act of commanding; precept,timne,http://dil.ie/40791,"commandment, precept",verbal_noun
 lex-timmthirecht-542,491,timmthirecht,5945,timmthirecht,"the act of serving, ministering to; ministration",timthirecht,http://dil.ie/40825,"serving, service",verbal_noun
 lex-tinchosc-543,492,tinchosc,,,,tinchosc,http://dil.ie/40846,teaching,verbal_noun
-lex-tindnaccul-544,493,tindnaccul,5951,tindnacol,"the act of bestowing, handing over; gift",tindnacul,http://dil.ie/40857,bestowing,verbal_noun
+lex-tindnaccol-544,493,tindnaccol,5951,tindnacol,"the act of bestowing, handing over; gift",tindnacul,http://dil.ie/40857,bestowing,verbal_noun
 lex-tinol-545,149,tinól,,,,tinól,http://dil.ie/40918,"collection, gathering",verbal_noun
 lex-tintud-546,494,tintúd,2939,tintúd,"the act of returning, translating; conversion, translation, recalling",tintuúth,http://dil.ie/40928,conversion,verbal_noun
 lex-tir-547,495,tír,2941,tír,"land; territory, country; earth, ground",tír,http://dil.ie/40940,land,noun
 lex-titul-548,496,titul,5963,titul,"title, heading",titul,http://dil.ie/40988,title,noun
 lex-tobae-549,497,tóbae,5968,tóbae,"the act of cutting (down), cutting off, removing; incision",tóbe,http://dil.ie/41046,"cutting off, severance",verbal_noun
-lex-toidisgud-550,498,toidisgud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
+lex-toidischud-550,498,toidischud,5983,todiusgud,"the act of arousing, waking",todiusgud,http://dil.ie/41129,"rousing, awakening",verbal_noun
 lex-togairm-551,499,togairm,5985,togairm,"the act of invoking, petitioning, calling; appellation, vocation",togairm,http://dil.ie/41155,invoking,verbal_noun
 lex-toeb-552,500,tóeb,2951,tóeb,side (of body),tóib,http://dil.ie/39454,side,noun
 lex-toimtiu-553,501,toimtiu,5994,toimtiu,act of thinking; opinion,toimtiu,http://dil.ie/41229,"thinking, opinion",verbal_noun
@@ -557,7 +557,7 @@ lex-torad-558,506,torad,6010,torad,"produce, increase, fruit, increase; result, 
 lex-torbae-559,507,torbae,6016,torbae,"the act of profiting; profit, benefit, usefulness, labor, work",torbae,http://dil.ie/41441,"profit, benefit",verbal_noun
 lex-toros-560,508,toros,9720,toirse,sorrow; act of complaining,toros,http://dil.ie/41280,"sadness, sorrow",noun
 lex-tosach-561,509,tosach,2976,tosach,"beginning, precedence",tosach,http://dil.ie/41498,beginning,noun
-lex-toischid-562,510,toischid,9318,taiscid,"need, necessity; food, sustenance",toschid,http://dil.ie/41298,giving sustenance,noun
+lex-taischid-562,510,taischid,9318,taiscid,"need, necessity; food, sustenance",toschid,http://dil.ie/41298,giving sustenance,noun
 lex-treide-563,511,tréide,6043,tréide,"three things ; triple, consisting of three things",tréde,http://dil.ie/41741,triad,numeral_noun
 lex-triar-564,511,triär,2999,triär,three persons or things,tríar,http://dil.ie/41892,three persons,numeral_noun
 lex-troccaire-565,513,tróccaire,6061,trócaire,mercy,trócaire,http://dil.ie/41974,mercy,noun
@@ -571,5 +571,5 @@ lex-uabar-572,518,úabar,,,,úabar,http://dil.ie/42574,vanity,noun
 lex-uailbe-573,519,úailbe,,,,úailbe,http://dil.ie/42628,levity,noun
 lex-uall-574,520,úall,6119,úall 1,"pride, arrogance, vainglory",úall,http://dil.ie/42708,"pride, arrogance",noun
 lex-uathad-575,521,úathad,3053,úathad,"gramm. singular, a small number, a few, rare",úathad,http://dil.ie/42815,"small number, few",noun
-lex-umalddoit-576,522,umalddóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
+lex-omalddoit-576,522,omalddóit,6139,umaldóit,humility,umaldóit,http://dil.ie/43144,humility,noun
 lex-utmuille-577,523,utmuille,6144,utmaille,"movement, restlessness, unsteadiness, instability",utmuille,http://dil.ie/43341,"unsteadiness, restlessness",noun
