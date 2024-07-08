@@ -53,8 +53,8 @@ The following categories were recognised:
 
 # Orthographic conventions
 - Where there is variation between *u*, *o*, and *a* in the final syllable of nouns, we write always *o*, even where it is not the most frequent attested form, e.g. **demon**, **dénom**, **fogor** etc.
-- Where there is variation between *a* and *o* in the final syllable of nouns (*o* generally in Würzburg), we write always *a*, e.g. **ídal** (cf. Wb. ecloso < eclais)
-- Where there is variation between *ó* and *úa*, we write *ó*, except where úa is much more frequent, e.g. **úacht**, **úabar**, **úar**. We do not assume separate flexemes in such instances.
-- Where *ía* is the usual form, but we occasionally find *é*, we write *úa*, e.g. **síans**.
+- Where there is variation between *a* and *o* in the final syllable of nouns (*o* generally in Würzburg), we write always *a*, e.g. **ídal** (cf. Wb. ecolso < eclais)
+- Where there is variation between *ó* and *úa*, we write *ó*, except where *úa* is much more frequent, e.g. **úacht**, **úabar**, **úar**. We do not assume separate flexemes in such instances.
+- Where *ía* is the usual form, but we occasionally find *é*, we write *ía*, e.g. **síans**.
 
 
