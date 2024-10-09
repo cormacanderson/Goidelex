@@ -190,7 +190,7 @@ lex-cumscugud-189,177,cumscugud,3990,cumscugud,"the act of moving, changing; shi
 lex-cumtach-190,178,cumtach,3991,cumtach,"the act of adorning, ornamenting, building, constructing, composing, act of protecting, covering, supporting, helping, case, shrine",cumtach,http://dil.ie/13903,building,verbal_noun
 lex-cursagad-191,179,cúrsagad,3996,cúrsagad,"the act of reprimanding, reproving, correcting",cúrsagad,http://dil.ie/14015,reproving,verbal_noun
 lex-cutrummus-192,180,cutrummus,4004,cutrummus,equality,cutrummus,http://dil.ie/14062,equality,noun
-lex-dag-duine-193,181;182,dag-duine,978,,,dag–duine,http://dil.ie/14139;http://dil.ie/19139,good man,prefixed_noun
+lex-dag-duine-193,181;182,dag-duine,978;1170,,,dag–duine,http://dil.ie/14139;http://dil.ie/19139,good man,prefixed_noun
 lex-dag-gniom-194,181;103,dag-gníom,9102,dag-gním,"the act of doing well; good deed, good work",dag–gním,http://dil.ie/14139;http://dil.ie/26218,good deed,prefixed_noun
 lex-daltae-195,183,daltae,952,daltae,"foster child, pupil",dalte,http://dil.ie/14451,fosterling,noun
 lex-dam-196,184,dam,953,dam 1,"ox, stag",dam,http://dil.ie/14462,ox,noun
@@ -252,7 +252,7 @@ lex-eipert-251,235,eipert,4436,eipert,"the act of saying; speech, statement, wor
 lex-eipistil-252,236,eipistil,1232,eipistil,"epistle, letter",epistil,http://dil.ie/20187,epistle,noun
 lex-epscop-253,237,epscop,1268,epscop,bishop,epscop,http://dil.ie/20188,bishop,noun
 lex-ere-254,238,ere,8991,aire 2,"load, burden",ere,http://dil.ie/1884,burden,noun
-lex-eiritic-255,239,eiritic,,,,eritic,,heretic,noun
+lex-eiritic-255,239,eiritic,4453,eritic,heretic,eritic,https://dil.ie/20269,heretic,noun
 lex-esorggon-256,240,esorggon,4485,esorgun,"the act of smiting, striking, beating, destructing; a blow",essarcon,http://dil.ie/20560,beating,verbal_noun
 lex-eiseirge-257,241,eiséirge,6460,eiséirge,resurrection,esséirge,http://dil.ie/20489,resurrection,verbal_noun
 lex-et-258,242,ét,4495,ét 1,"jealousy, emulation",ét,http://dil.ie/20623,jealousy,noun
@@ -339,7 +339,7 @@ lex-idal-339,317,ídal,4981,ídal,idol ; heathen,ídol,http://dil.ie/27176,idol,
 lex-ifern-340,318,ifern,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
 lex-il-baill-341,319;73,il-baill,1742;3522,il;ball,,il–baill,http://dil.ie/27239;http://dil.ie/5299,many members,prefixed_noun
 lex-il-beimm-342,319;75,il-béimm,1742;3526,il;béimm,,il–béim,http://dil.ie/27239;http://dil.ie/5566,many blows,prefixed_noun
-lex-il-belrae-343,319;77,il-bélrae,1742;3528,il;bélrae,,il–bélre,http://dil.ie/27239;http://dil.ie/6758,many-tongued,prefixed_noun
+lex-il-belrae-343,319;77,il-bélrae,1742;3528,il;bélrae,,il–bélre,http://dil.ie/27239;http://dil.ie/5638,many-tongued,prefixed_noun
 lex-ilar-344,320,ilar,4985,ilar,"multitude, abundance, plural (grammatical)",ilar,http://dil.ie/27244,multitude,noun
 lex-imbed-345,321,imbed,4991,imbed,"large quantity, abundance, excess, amount, number",imbed,http://dil.ie/27298,abundance,noun
 lex-imbresan-346,322,imbresan,8414,imbresan,"the act of contending, disputing; strife, feud, contention",imbressan,http://dil.ie/28035,"contention, strife",verbal_noun
@@ -384,7 +384,7 @@ lex-lam-385,358,lám,1883,lám,"hand, arm",láam,http://dil.ie/29507,hand,noun
 lex-labrad-386,359,labrad,1863,labrad,"the act of speaking; speech, utterance",labrad,http://dil.ie/29249,speaking,verbal_noun
 lex-laithe-387,357,laithe,5206,laithe,day,laithe,http://dil.ie/29234,day,noun
 lex-lanamnas-388,360,lánamnas,8357,lánamnus,partership; marriage,lánamnas,http://dil.ie/29549,sexual relations,noun
-lex-lanae-389,361,lánae,5210;7576,lánae,"fullness, completeness",láne,http://dil.ie/29420,fulness,noun
+lex-lanae-389,361,lánae,5210;7576,lánae;láine,"fullness, completeness",láne,http://dil.ie/29420,fulness,noun
 lex-lann-390,362,lann,8056,lann,"thin plate, layer; blade, sword",lann,http://dil.ie/29565,"thin plate, crown",noun
 lex-lathar-391,363,láthar,5214,láthar,"arrangement, disposition, interpretation, appointment, design; machination, wiles; vigour, energy, power; place, position, point, space",láthar,http://dil.ie/29631,"disposition, design",noun
 lex-legad-392,364,legad,5222,legad,"the act of melting, dissolving, smelting, decaying, perishing, liquifying",legad,http://dil.ie/29736,dissolution,verbal_noun
