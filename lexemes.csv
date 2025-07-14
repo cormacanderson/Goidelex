@@ -212,7 +212,7 @@ lex-de-serc-211,199;200,dé-ṡerc,4092,déṡerc,"love of God; charity, alms-gi
 lex-deisimmrecht-212,201,deisimmrecht,4094,desimrecht,"example, exemplar, pattern",dessimrecht,http://dil.ie/15770,example,noun
 lex-deithiden-213,202,deithiden,4060,deithiden,"care, concern, solicitude, attention",dethiden,http://dil.ie/15300,"care, anxiety",noun
 lex-dias-214,190,diäs,8836,diäs,"pair, couple",dḯas,http://dil.ie/15982,two persons,numeral_noun
-lex-dias-215,204,diäs,,,,"días, diass",https://dil.ie/15981,ear of corn,noun
+lex-dias-215,204,días,,,,"días, diass",https://dil.ie/15981,ear of corn,noun
 lex-diu-216,205,diü,1024,diä,day,dia,http://dil.ie/15848,day,noun
 lex-dia-217,199,día,1023,día 2,"god, deity, God","dia, día",http://dil.ie/15847,God,noun
 lex-diabol-218,206,díabol,9674,díabul 2,"the devil, Lucifer",díabul,http://dil.ie/15865,devil,noun
@@ -258,7 +258,7 @@ lex-eiseirge-257,241,eiséirge,6460,eiséirge,resurrection,esséirge,http://dil.
 lex-et-258,242,ét,4495,ét 1,"jealousy, emulation",ét,http://dil.ie/20623,jealousy,noun
 lex-etarcert-259,243,etarcert,4521,etarcert,"the act of interpreting, investigating, discussing; interpretation",etarcert,http://dil.ie/20792,interpretation,verbal_noun
 lex-etach-260,244,étach,4497,étach,"raiment, garment, clothing, covering",étach,http://dil.ie/20626,garment,verbal_noun
-lex-etarddibe-261,245,etarddibe,4506,etairdbe,,etardibe,http://dil.ie/20808,destruction,verbal_noun
+lex-etarddibe-261,245,etarddibe,4506,etarairdbe,,etardibe,http://dil.ie/20808,destruction,verbal_noun
 lex-etarscarad-262,246,etarscarad,4513,etarscarad,"the act of separating, dividing, dissolution",etarscarad,http://dil.ie/20740,separation,verbal_noun
 lex-etarggnae-263,247,etarggnae,1295,etargnae,"the act of finding out, learning, knowing, understanding; knowledge, information (especially gained through experience), the faculty of understanding or cognition, interpretation, significance, explanation, acquaintance, signification",etergne,http://dil.ie/20712,"knowledge, proof",verbal_noun
 lex-etrad-264,248,étrad,4527,étrad,"lust, concupiscence, fornication",étrad,http://dil.ie/20894,"lust, fornication",noun
@@ -336,7 +336,7 @@ lex-iarfaigid-336,314,íarfaigid,4965,íarfaigid,"the act of inquiring, challeng
 lex-iocc-337,315,íocc,4977,ícc,"the act of healing, saving, curing, paying for, enduring; salvation, cure, redress, satisfaction, solution, answer (to a question or problem), requital, atonement, revenge, salvation",ícc,http://dil.ie/27149,salvation,verbal_noun
 lex-aidpart-338,316,aidpart,4400,audpart,the act of offering; sacrifice,idbart,http://dil.ie/27181,offering,verbal_noun
 lex-idal-339,317,ídal,4981,ídal,idol ; heathen,ídol,http://dil.ie/27176,idol,noun
-lex-ifern-340,318,ifern,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
+lex-ifernn-340,318,ifernn,4982,ifern,"hell, Hades, the infernal regions",ifernn,http://dil.ie/27230,hell,noun
 lex-il-baill-341,319;73,il-baill,1742;3522,il;ball,,il–baill,http://dil.ie/27239;http://dil.ie/5299,many members,prefixed_noun
 lex-il-beimm-342,319;75,il-béimm,1742;3526,il;béimm,,il–béim,http://dil.ie/27239;http://dil.ie/5566,many blows,prefixed_noun
 lex-il-belrae-343,319;77,il-bélrae,1742;3528,il;bélrae,,il–bélre,http://dil.ie/27239;http://dil.ie/5638,many-tongued,prefixed_noun
@@ -509,7 +509,7 @@ lex-soire-510,469,soíre,5792,soíre,"freedom, liberty, nobility (of race, chara
 lex-sonartae-511,470,sonartae,5807,sonartae,"strength, firmness, courage",sonirte,http://dil.ie/38467,"firmness of body, faith",noun
 lex-spirut-512,471,spirut,5815,spirut,spirit,spirut,http://dil.ie/38630,spirit,noun
 lex-suainem-513,472,súainem,5826,súainem,"rope, cord, string",súainem,http://dil.ie/39071,rope,noun
-lex-su-alaig-514,223,su-álaig,5773;3356,so-;álaig,,súalig,http://dil.ie/39093,virtue,prefixed_noun
+lex-su-alaig-514,223,su-álaig,5773;3356,so-;álaig,,suálig,http://dil.ie/39093,virtue,prefixed_noun
 lex-suide-515,473,suide,5834,suide 2,the act of sitting (down); seat,suide,http://dil.ie/39196,sitting,verbal_noun
 lex-suil-516,474,súil,5838,súil,eye,súil,http://dil.ie/39215,eye,noun
 lex-tabairt-517,404,tabairt,2863,tabart 1,"the act of giving, bringing, taking, placing; the act of imposing on, putting on, inflicting",tabart,http://dil.ie/39363,giving,verbal_noun

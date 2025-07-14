@@ -17,7 +17,7 @@ Where lexemes are compounded of two different elements, both derivational bases 
 The following categories were recognised:
 - `noun`: The default or elsewhere category of noun, not falling into any of the other noun categories categories.
 - `verbal_noun`: Non-finite nominal associated to a verb.
-- `compound_noun` (2 instances): Conventionalised nominal expression containing two nouns. These have equal stress on both elements and are separated by a hyphen in the normalised orthography, with lenition of the second element.
+- `compound_noun` (2 instances): Conventionalised nominal expression containing two nouns. The second is assumed not to be unstressed and the two elements are separated by a hyphen in the normalised orthography, with lenition of the second element.
 - `prefixed_noun` (29 instances, with 14 adjectival prefixes): Conventionalised nominal expressions consisting of  adjectival prefix and noun. These expressions have equal stress on both elements and are separated by a hyphen in the normalised orthography, with lenition of the second element.
 - `numeral_noun`(9 instances): A somewhat heterogenous class comprising several different subtypes that I have not distinguished. These include:
     -  Genuine numerals such as _cethorcho_ 'forty', _cét_ 'hundred', and _míle_ 'thousand'. These can be used substantively and inflect like nouns, unlike the lower numerals which behave like adjectival prefixes.
