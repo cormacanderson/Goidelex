@@ -148,7 +148,8 @@ caithir-117-1,caithir,lex-cathair-117,,*katarik- ?,sync_nd;alt_none;gen_fem;stem
 cathair-117,cathair,lex-cathair-117,,*katarik- ?,sync;alt_none;gen_fem;stem_k;num_all,ˈkˠaθˠərʲ
 ceile-118,céile,lex-ceile-118,,*kei̯li̯o-,sync_none;alt_none;gen_masc;stem_io;num_all,ˈkʲaØʲlʲaØʲ
 ceilide-120,céilide,lex-ceilide-120,,,sync_none;alt_none;gen_masc;stem_io;num_all,ˈkʲaØʲlʲəðʲaØʲ
-ceinel-121,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_iu;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
+ceinel-121,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_eu;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
+ceinel-121-1,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_iu;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
 ceinelae-122,ceinélae,lex-ceinelae-122,,,sync_none;alt_eo;gen_neut;stem_io;num_all,ˈkʲanʲaØʲlˠaØʲ
 ceist-119,ceist,lex-ceist-119,,< Latin: quaestiō,sync_none;alt_none;gen_fem;stem_ī2;num_all,ˈkʲasʲtʲ
 cenn-123,cenn,lex-cenn-123,,*ku̯enno-,sync_none;alt_schwa;gen_neut;stem_o;num_all,ˈkʲaɴˠ
@@ -275,8 +276,9 @@ diltud-222,díltud,lex-diltud-222,,*dī-slund-e-tu-;  vn. of do·sluindi,sync_nd
 dimicem-223,dímicem,lex-dimicem-223,,vn. of do·meiccethar,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲəØʲμʲəgʲəμˠ
 dioth-224,díoth,lex-dioth-224,,*dītu-,sync_none;alt_none;gen_neut;stem_unk;num_all,ˈdʲəØʲθʷ
 ditiu-225,dítiu,lex-ditiu-225,,vn. of do·eim,sync_none;alt_none;gen_fem;stem_n1;num_all,ˈdʲəØʲdʲəØʷ
-diu-216,diü,lex-diu-216,,*di̯eu̯o-,sync_none;alt_none;gen_masc;stem_diu;num_all,ˈdʲəØʲəØʷ
-diu-216-1,día,lex-diu-216,,*di̯eu̯o-,sync_none;alt_none;gen_masc;stem_diu;num_all,ˈdʲaØˠ
+diu-216,diü,lex-diu-216,,*di̯eu̯o-,sync_none;alt_none;gen_masc;stem_indecl;num_all,ˈdʲəØʲəØʷ
+diu-216-1,dië,lex-diu-216,,*di̯eu̯o-,sync_none;alt_none;gen_masc;stem_indecl;num_all,ˈdʲəØʲəØʷ
+diu-216-2,día,lex-diu-216,,*di̯eu̯o-,sync_none;alt_none;gen_masc;stem_indecl;num_all,ˈdʲaØˠ
 diuitte-226,díuitte,lex-diuitte-226,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈdʲəØʷtʲaØʲ
 dliged-227,dliged,lex-dliged-227,,*dlig-e-to-; vn. of dligid,sync_none;alt_none;gen_neut;stem_o;num_all,ˈdʲlʲəɣʲəðˠ
 dlum-228,dlúm,lex-dlum-228,,*dlūmā- ;,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈdʷlʷəØʷμʷ
