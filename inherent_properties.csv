@@ -10,6 +10,7 @@ alt_iu,Alternation with íu,In this flexeme é alternates with íu,morphonology,
 alt_vel_stem,Velar stem,"The stem of this flexeme ends in a velarised consonant, but the citation form ends in a palatalised consonant",morphonology,alternation
 alt_short,Stem with short vowel,The stem of this flexeme has a short vowel,morphonology,alternation
 alt_irr,Irregular stem,This inflection of this flexeme is irregular,morphonology,alternation
+alt_tr,Final -Tr cluster with special treatment,The lexeme has a final -Tr cluster which behaves differently than other final clusters,morphonology,alternation
 alt_none,No morphonological alternations,This flexeme does not show morphonological alternations,morphonology,alternation
 gen_fem,Feminine,This flexeme has feminine gender,morphosyntax,gender
 gen_masc,Masculine,This flexeme has masculine gender,morphosyntax,gender
