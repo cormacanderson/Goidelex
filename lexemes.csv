@@ -135,7 +135,7 @@ lex-claideb-134,125,claideb,3712,claideb,sword,claideb,http://dil.ie/9324,sword,
 lex-cland-135,126,cland,629,cland,"plant, offshoot, children, descedant, family, clan, offspring",cland,http://dil.ie/9365,family,noun
 lex-cleith-136,127,cleith,3718,cleth 2,"the act of concealing; concealment, hiding place, protection",cleith,http://dil.ie/9454,"concealing, hiding",verbal_noun
 lex-cloine-137,128,cloíne,3721,cloíne,"uneveness, crookedness, slant; iniquity, perversion, wickedness, bias; evil deeds (in plural)",cloíne,http://dil.ie/9339,iniquity,noun
-lex-cobadlus-138,129,cobadlus,3740,cobodlus,"fellowship, community, company",cobodlus,http://dil.ie/9833,"fellowship, communion",noun
+lex-cobfodlus-138,129,cobḟodlus,3740,cobodlus,"fellowship, community, company",cobodlus,http://dil.ie/9833,"fellowship, communion",noun
 lex-cobuir-139,130,cobuir,662,cobair,"the act of helping, assisting",cobuir,http://dil.ie/9802,"help, aid",noun
 lex-coiceilsine-140,131,coicéilsine,3754,coicéilsine,"fellowship, companionship, clientship",cocéilsine,http://dil.ie/10050,fellowship,noun
 lex-cocubus-141,132,cocubus,,,,cocubus,http://dil.ie/9948,conscience,noun
@@ -367,8 +367,8 @@ lex-ingnae-367,342,ingnae,5132,ingnae,"the act of understanding, comprehending",
 lex-ingraimm-368,343,ingraimm,5137,ingreimm 1,the act of persecuting,ingreimm,http://dil.ie/28706,persecution,verbal_noun
 lex-inne-369,344,inne,5147,inne 1,"middle, center, inward part; meaning, sense, signification; quality, real value",inne,http://dil.ie/28806,"quality, attribute",noun
 lex-insce-370,345,insce,5151,insce,"saying, speech, statement, word",insce,http://dil.ie/28887,"word, saying, utterance",noun
-lex-intliucht-371,346,intliucht,5164,intliucht,"meaning, signification, mind",intliucht,http://dil.ie/28959,"mind, understanding",noun
-lex-intamail-372,347,intamail,5156,intamail,"the act of imitating, simulation, pretence, semblance, comparison, likeness",intsamil,http://dil.ie/28925,imitation,verbal_noun
+lex-intsliucht-371,346,intṡliucht,5164,intliucht,"meaning, signification, mind",intliucht,http://dil.ie/28959,"mind, understanding",noun
+lex-intsamail-372,347,intṡamail,5156,intamail,"the act of imitating, simulation, pretence, semblance, comparison, likeness",intsamil,http://dil.ie/28925,imitation,verbal_noun
 lex-airail-373,348,airáil,4440,airáil,"enjoining, urging, instigating",iráil,http://dil.ie/20202,enjoining,noun
 lex-airbag-374,349,airbág,,,,irbág,http://dil.ie/1605,"glorying, boasting",verbal_noun
 lex-airchrae-375,350,airchrae,airchrae,3269,,irchre,http://dil.ie/1759,"perishing, destroying",verbal_noun
