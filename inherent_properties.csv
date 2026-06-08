@@ -37,6 +37,9 @@ stem_t,t-stem noun,This flexeme is inflected as a t-stem,morphosyntax,nominal_st
 stem_u,u-stem noun,This flexeme is inflected as a u-stem,morphosyntax,nominal_stem
 stem_unk,Unknown stem,The there is insufficient evidence to determine the inflection of this flexeme,morphosyntax,nominal_stem
 stem_ben,Stem ben,This is the irregular lexeme ben,morphosyntax,nominal_stem
+stem_diu,Stem diu,This is the irregular lexeme diü,morphosyntax,nominal_stem
+stem_dia,Stem dia,This is the irregular lexeme diä,morphosyntax,nominal_stem
+stem_macc,Stem macc,This is the irregular lexeme macc,morphosyntax,nominal_stem
 num_all,No number restriction,This flexeme is inflected for all numbers,morphosyntax,number_restriction
 num_sg_only,Inflected only in singular,This flexeme is only inflected in the singular,morphosyntax,number_restriction
 num_pl_only,Inflected only in plural,This flexeme is only inflected in the plural,morphosyntax,number_restriction
