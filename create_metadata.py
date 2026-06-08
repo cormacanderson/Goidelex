@@ -5,8 +5,8 @@ import frictionless as fl
 import pandas as pd
 
 def make_pattern(series):
-    vals = "|".join(str(x) for x in series.values)
-    return f"{vals}(;(vals))+"
+    vals = "|".join(str(x).replace("+","\+") for x in series.values)
+    return f"({vals})(;({vals}))*"
 
 def pattern_multi_foreignkey(path):
     df = pd.read_csv(path)

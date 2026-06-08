@@ -148,7 +148,7 @@ caithair-117-1,caithir,lex-cathair-117,,*katarik- ?,sync_nd;alt_tr;gen_fem;stem_
 cathair-117,cathair,lex-cathair-117,,*katarik- ?,sync;alt_none;gen_fem;stem_k;num_all,ˈkˠaθˠərʲ
 ceile-118,céile,lex-ceile-118,,*kei̯li̯o-,sync_none;alt_none;gen_masc;stem_io;num_all,ˈkʲaØʲlʲaØʲ
 ceilide-120,céilide,lex-ceilide-120,,,sync_none;alt_none;gen_masc;stem_io;num_all,ˈkʲaØʲlʲəðʲaØʲ
-ceinel-121,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_eu;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
+ceinel-121,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_eo;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
 ceinel-121-1,ceinél,lex-ceinel-121,,*kenetlo-,sync_none;alt_iu;gen_neut;stem_o;num_all,ˈkʲanʲaØʲlˠ
 ceinelae-122,ceinélae,lex-ceinelae-122,,,sync_none;alt_eo;gen_neut;stem_io;num_all,ˈkʲanʲaØʲlˠaØʲ
 ceist-119,ceist,lex-ceist-119,,< Latin: quaestiō,sync_none;alt_none;gen_fem;stem_ī2;num_all,ˈkʲasʲtʲ
@@ -301,7 +301,7 @@ duine-238,duine,lex-duine-238,,*gdoni̯o-,sync_none;alt_none;gen_masc;stem_io;nu
 dul-239,dul,lex-dul-239,,vn téit ; *dalu-/dolu-;,sync_none;alt_none;gen_masc;stem_u;num_all,ˈdʷəlʷ
 duthracht-241,dúthracht,lex-duthracht-241,,*dī-uφo-trank-tā-,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈdʷəØʷθʷrʷəxˠtˠ
 duthracht-241-1,dúthracht,lex-duthracht-241,,*dī-uφo-trank-tā-,sync_nd;alt_none;gen_fem;stem_n1;num_all,ˈdʷəØʷθʷrʷəxˠtˠ
-eclais-243,eclais,lex-eclais-243,6;50;79;81.,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_ī2;num_all,ˈØʲagˠlˠəsʲ
+eclais-243,eclais,lex-eclais-243,6;50;79;81,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_ī2;num_all,ˈØʲagˠlˠəsʲ
 eclais-243-1,eclais,lex-eclais-243,79,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_i;num_all,ˈØʲagˠlˠəsʲ
 eclais-243-2,eclais,lex-eclais-243,6;50,< Latin: ecclēsia< Greek: ἐκκλησία,sync;alt_none;gen_fem;stem_ā;num_all,ˈØʲagˠlˠəsʲ
 ecndach-244,écndach,lex-ecndach-244,,,sync_nd;alt_none;gen_neut;stem_o;num_all,ˈØʲaØʲgˠɴˠdˠəxˠ
@@ -464,7 +464,7 @@ ingen-366,ingen,lex-ingen-366,,*enigenā-,sync_none;alt_none;gen_fem;stem_ā;num
 engnae-367-1,engnae,lex-ingnae-367,79;6,vn. of in·gnin,sync_none;alt_none;gen_neut;stem_io;num_all,ˈØʲanˠɣˠnˠaØʲ
 ingnae-367,ingnae,lex-ingnae-367,79,vn. of in·gnin,sync_none;alt_none;gen_neut;stem_io;num_all,ˈØʲənʷɣʷnʷaØʲ
 ingraimm-368,ingraimm,lex-ingraimm-368,6,vn. of in·greinn/ad·greinn,sync_none;alt_none;gen_neut;stem_n2;num_all,ˈØʲənʷɣʷrʷəmʲ
-ingrimm-368-1,ingrimm,lex-ingraimm-368,79;5.,vn. of in·greinn/ad·greinn,sync_none;alt_vel_stem;gen_neut;stem_n2;num_all,ˈØʲənʲɣʲrʲəmʲ
+ingrimm-368-1,ingrimm,lex-ingraimm-368,79;5,vn. of in·greinn/ad·greinn,sync_none;alt_vel_stem;gen_neut;stem_n2;num_all,ˈØʲənʲɣʲrʲəmʲ
 ingraimm-368-2,ingraimm,lex-ingraimm-368,6,vn. of in·greinn/ad·greinn,sync_none;alt_vel_stem;gen_neut;stem_n2;num_all,ˈØʲənʷɣʷrʷəmʲ
 inne-369,inne,lex-inne-369,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈØʲəɴʲaØʲ
 insce-370,insce,lex-insce-370,,,sync_none;alt_none;gen_fem;stem_iā;num_all,ˈØʲəɴʲsʲkʲaØʲ
