@@ -1351,6 +1351,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʲ!xiɴeax -> ˈØˠərʲ!xiiɴeax
 	ˈØˠərʲ!xiseaxt -> ˈØˠərʲ!xiiseaxt
 	ˈØAiriʟiuð -> ˈØAiriiʟiuð
+	ˈØAiriʟiuð -> ˈØAiriiʟiuð
 	ˈØˠərʲ!Øidiu -> ˈØˠərʲ!Øiidiu
 	ˈØˠərʲ!μidiu -> ˈØˠərʲ!μiidiu
 	ˈØaiθirɣe -> ˈØaiθiirɣe
@@ -1365,7 +1366,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbriθeaμ -> ˈbriiθeaμ
 	ˈbriθeaμnaaxt -> ˈbriiθeaμnaaxt
 	ˈbiθ -> ˈbiiθ
-	ˈkaiθir -> ˈkaiθiir
 
 
 0 -> u / (::C::|Ø)u _ (?=::C::|\.)
@@ -1449,12 +1449,12 @@ Sample of maximum 20 input/output pairs:
 	ˈØaaireaxaaas -> ˈØaairieaxaaas
 	ˈØaairiuɣuuð -> ˈØaairiiuɣuuð
 	ˈØAiriiʟiuð -> ˈØAiriiiʟiiuð
+	ˈØAiriiʟiuð -> ˈØAiriiiʟiiuð
 	ˈØˠərʲ!Øiidiu -> ˈØˠərʲ!Øiiidiu
 	ˈØˠərʲ!liuguuð -> ˈØˠərʲ!liiuguuð
 	ˈØˠərʲ!μiidiu -> ˈØˠərʲ!μiiidiu
 	ˈØaaiθiirɣe -> ˈØaaiθiiirɣe
 	ˈØaaiθriiɣe -> ˈØaaiθriiiɣe
-	ˈØaaiθiis -> ˈØaaiθiiis
 
 
 0 -> u / _ (?=[ou][aiu]::C::)|[ou]-
@@ -1546,6 +1546,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷ!ØAil -> ˈØˠərʷ!ØaAil
 	ˈØˠərʷ!βAɣ -> ˈØˠərʷ!βaAɣ
 	ˈØAiriiiʟiiuð -> ˈØaAiriiiʟiiuð
+	ˈØAiriiiʟiiuð -> ˈØaAiriiiʟiiuð
 	ˈØAnae -> ˈØaAnae
 	ˈØAitrieaβ -> ˈØaAitrieaβ
 	ˈØˠəuɣduoarðAs -> ˈØˠəuɣduoarðaAs
@@ -1559,7 +1560,6 @@ Sample of maximum 20 input/output pairs:
 	ˈɸAiʟte -> ˈɸaAiʟte
 	ˈɸAiθ -> ˈɸaAiθ
 	ˈgaaaβAil -> ˈgaaaβaAil
-	ˈgaaaβAl -> ˈgaaaβaAl
 
 
 0 -> i / ::C::|Ø _ [EI]
@@ -1918,7 +1918,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷ!ɣˠairiE -> ˈØˠərʷ!ɣˠairʲE
 	ˈØˠairiiuɣuuuð -> ˈØˠairʲiuɣuuuð
 	ˈØˠAiriiiʟiiuð -> ˈØˠAirʲiiʟʲiuð
-	ˈØˠərʲ!ØiiidiU -> ˈØˠərʲ!ØʲiidʲU
+	ˈØˠAiriiiʟiiuð -> ˈØˠAirʲiiʟʲiuð
 
 
 u -> ʷ / (?<=::C::+|Ø) _ ::V::
@@ -2007,6 +2007,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲnɸʲius -> ˈØˠaʲnɸʲiʷs
 	ˈØˠaʲrʲiuɣʷuuð -> ˈØˠaʲrʲiʷɣʷuʷð
 	ˈØˠAʲrʲiʲʟʲiuð -> ˈØˠAʲrʲiʲʟʲiʷð
+	ˈØˠAʲrʲiʲʟʲiuð -> ˈØˠAʲrʲiʲʟʲiʷð
 	ˈØˠərʲ!lʲiugʷuuð -> ˈØˠərʲ!lʲiʷgʷuʷð
 	ˈØˠəuʀnʷuʲɣðʲE -> ˈØˠəʷʀnʷuʲɣðʲE
 	ˈØˠaʲbstʲiunʷuʲd -> ˈØˠaʲbstʲiʷnʷuʲd
@@ -2020,7 +2021,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbʲiʲθ-ˈβʲeuθʷU -> ˈbʲiʲθ-ˈβʲeʷθʷU
 	ˈbʲiuθ -> ˈbʲiʷθ
 	ˈbʷuunʷoˠð -> ˈbʷuʷnʷoˠð
-	ˈbʷuurbʷE -> ˈbʷuʷrbʷE
 
 
 %%%%%%%%%%%%%%%     Vowel reduction     %%%%%%%%%%%%%%%
@@ -2088,6 +2088,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʲ!xʲiʲsʲaˠxt -> ˈØˠərʲ!xʲəʲsʲaˠxt
 	ˈØˠaʲrʲiʷɣʷuʷð -> ˈØˠaʲrʲəʷɣʷuʷð
 	ˈØˠAʲrʲiʲʟʲiʷð -> ˈØˠAʲrʲəʲʟʲəʷð
+	ˈØˠAʲrʲiʲʟʲiʷð -> ˈØˠAʲrʲəʲʟʲəʷð
 	ˈØˠərʲ!ØʲiʲdʲU -> ˈØˠərʲ!ØʲəʲdʲU
 	ˈØˠərʲ!lʲiʷgʷuʷð -> ˈØˠərʲ!lʲəʷgʷuʷð
 	ˈØˠərʲ!μʲiʲdʲU -> ˈØˠərʲ!μʲəʲdʲU
@@ -2100,7 +2101,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbˠaʲθʲiʲs -> ˈbˠaʲθʲəʲs
 	ˈbʲiʷβðʷU -> ˈbʲəʷβðʷU
 	ˈbʲiʲθ-ˈβʲaʷθʷU -> ˈbʲəʲθ-ˈβʲaʷθʷU
-	ˈbʲiʷθ -> ˈbʲəʷθ
 
 
 u -> ə / [ʷ]|\. _ [ʲʷ]|[-·]
@@ -2141,6 +2141,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷ!ØˠAʲl -> ˈØˠərʷ!ØˠaØˠʲl
 	ˈØˠərʷ!βˠAˠɣ -> ˈØˠərʷ!βˠaØˠˠɣ
 	ˈØˠAʲrʲəʲʟʲəʷð -> ˈØˠaØˠʲrʲəʲʟʲəʷð
+	ˈØˠAʲrʲəʲʟʲəʷð -> ˈØˠaØˠʲrʲəʲʟʲəʷð
 	ˈØˠAˠnˠE -> ˈØˠaØˠˠnˠE
 	ˈØˠaˠnmxˠaˠrˠA -> ˈØˠaˠnmxˠaˠrˠaØˠ
 	ˈØˠAʲtrʲaˠβ -> ˈØˠaØˠʲtrʲaˠβ
@@ -2154,7 +2155,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbrʲAˠθˠaˠr -> ˈbrʲaØˠˠθˠaˠr
 	ˈbʷAʲð -> ˈbʷaØˠʲð
 	ˈkʲAˠʟ -> ˈkʲaØˠˠʟ
-	ˈkrˠAʷβʷəʷð -> ˈkrˠaØˠʷβʷəʷð
 
 
 E -> aØʲ / _
@@ -2386,6 +2386,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠaʲnʲɸʲʲəʷs -> ˈØˠaʲnʲɸʲʲəʷsʷ
 	ˈØˠaʲrʲʲəʷɣʷəʷð -> ˈØˠaʲrʲʲəʷɣʷʷəʷðʷ
 	ˈØˠaØˠʲrʲʲəʲʟʲʲəʷð -> ˈØˠaØˠʲrʲʲəʲʟʲʲəʷðʷ
+	ˈØˠaØˠʲrʲʲəʲʟʲʲəʷð -> ˈØˠaØˠʲrʲʲəʲʟʲʲəʷðʷ
 	ˈØˠərʲ!lʲəʷgʷəʷð -> ˈØˠərʲ!lʲəʷgʷʷəʷðʷ
 	ˈØˠəʷʀnʷəʲɣʲðʲʲaØʲ -> ˈØˠəʷʀʷnʷʷəʲɣʲðʲʲaØʲ
 	ˈØˠaʲbʲsʲtʲʲəʷnʷəʲdʲ -> ˈØˠaʲbʲsʲtʲʲəʷnʷʷəʲdʲ
@@ -2399,7 +2400,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbʲəʲθʲ-ˈβʲaʷθʷəØʷ -> ˈbʲəʲθʲ-ˈβʲaʷθʷʷəØʷ
 	ˈbʲəʷθ -> ˈbʲəʷθʷ
 	ˈbʷrʷaØʷˠnˠ -> ˈbʷrʷʷaØʷˠnˠ
-	ˈbʷəʷnʷaˠðˠ -> ˈbʷəʷnʷʷaˠðˠ
 
 
 %%%% 18. Remove ! and .
@@ -2481,7 +2481,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠərʷɣˠaʲrʲʲaØʲ -> ˈØˠərʷɣˠaʲrʲaØʲ
 	ˈØˠaʲrʲʲəʷɣʷʷəʷðʷ -> ˈØˠaʲrʲəʷɣʷʷəʷðʷ
 	ˈØˠaØˠʲrʲʲəʲʟʲʲəʷðʷ -> ˈØˠaØˠʲrʲəʲʟʲəʷðʷ
-	ˈØˠərʲØʲəʲdʲʲəØʷ -> ˈØˠərʲØʲəʲdʲəØʷ
+	ˈØˠaØˠʲrʲʲəʲʟʲʲəʷðʷ -> ˈØˠaØˠʲrʲəʲʟʲəʷðʷ
 
 
 ʷ -> 0 / _ ʷ
@@ -2595,6 +2595,7 @@ Sample of maximum 20 input/output pairs:
 	ˈØˠanʲɸʲəʷsʷ -> ˈØˠanʲɸʲəsʷ
 	ˈØˠarʲəʷɣʷəʷðʷ -> ˈØˠarʲəɣʷəðʷ
 	ˈØˠaØˠrʲəʟʲəʷðʷ -> ˈØˠaØˠrʲəʟʲəðʷ
+	ˈØˠaØˠrʲəʟʲəʷðʷ -> ˈØˠaØˠrʲəʟʲəðʷ
 	ˈØˠərʲlʲəʷgʷəʷðʷ -> ˈØˠərʲlʲəgʷəðʷ
 	ˈØˠəʷʀʷnʷəɣʲðʲaØʲ -> ˈØˠəʀʷnʷəɣʲðʲaØʲ
 	ˈØˠabʲsʲtʲəʷnʷədʲ -> ˈØˠabʲsʲtʲənʷədʲ
@@ -2608,7 +2609,6 @@ Sample of maximum 20 input/output pairs:
 	ˈbʲəθʲ-ˈβʲaʷθʷəØʷ -> ˈbʲəθʲ-ˈβʲaθʷəØʷ
 	ˈbʲəʷθʷ -> ˈbʲəθʷ
 	ˈbʷəʷnʷaðˠ -> ˈbʷənʷaðˠ
-	ˈbʷəʷrʷbʷaØʲ -> ˈbʷərʷbʷaØʲ
 
 
 %%%% 22. Ensure /ə/ not /a/
