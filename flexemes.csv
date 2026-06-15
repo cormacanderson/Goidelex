@@ -246,9 +246,7 @@ de-serc-211,dé-ṡerc,lex-de-serc-211,,día + serc,sync_none;alt_none;gen_fem;s
 deacht-198,deächt,lex-deacht-198,,denominative (abstract): < día,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØˠəxˠtˠ
 dead-199,deäd,lex-dead-199,79;6;7;70;81,*dīu̯edo-,sync;alt_none;gen_neut;stem_o;num_all,ˈdʲaØˠəðˠ
 dead-199-1,deäd,lex-dead-199,,*dīu̯edo-,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØˠəðˠ
-dead-199-2,diäd,lex-dead-199,,*dīu̯edo-,sync;alt_none;gen_neut;stem_o;num_all,ˈdʲəØʲəðˠ
-dead-199-3,diäd,lex-dead-199,,*dīu̯edo-,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲəØʲəðˠ
-dead-199-4,díad,lex-dead-199,,*dīu̯edo-,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØˠðˠ
+dead-199-2,díad,lex-dead-199,,*dīu̯edo-,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØˠðˠ
 debuith-200,debuith,lex-debuith-200,,vn. of di·tá,sync;alt_none;gen_fem;stem_i;num_all,ˈdʲaβʷəθʲ
 dechor-201,dechor,lex-dechor-201,7;79;9,,sync;alt_none;gen_neut;stem_o;num_all,ˈdʲaxʷərˠ
 deicsiu-203,déicsiu,lex-deicsiu-203,,*dī-in-ku̯is-ti̯on-; vn. of do·éccai,sync_none;alt_none;gen_fem;stem_n1;num_all,ˈdʲaØʲgʲsʲəØʷ
@@ -267,6 +265,7 @@ denom-207,dénom,lex-denom-207,79;6,*de-gnī-mu-; vn. of do·gní,sync;alt_none;
 deoladacht-208,déoladacht,lex-deoladacht-208,,,sync_nd;alt_none;gen_fem;stem_ā;num_all,ˈdʲaØʷlʷaðˠəxˠtˠ
 derchoiniud-209,derchoíniud,lex-derchoiniud-209,,vn. of *do·rochoíni,sync;alt_none;gen_masc;stem_u;num_all,ˈdʲarʷxʷaØʲnʲəðʷ
 dia-217,día,lex-dia-217,,*dei̯u̯o-,sync_none;alt_none;gen_masc;stem_dia;num_all,ˈdʲaØˠ
+dea-217-1,deä,lex-dia-217,,*dei̯u̯o-,sync_none;alt_none;gen_masc;stem_dia;num_all,
 diabol-218,díabol,lex-diabol-218,79;70;21;22,< Lat. diabolus,sync_nd;alt_none;gen_masc;stem_o;num_all,ˈdʲaØˠβʷəlˠ
 dias-214,diäs,lex-dias-214,,,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲəØʲəsˠ
 dias-215-1,diäs,lex-dias-214,,,sync;alt_none;gen_fem;stem_ā;num_all,ˈdʲəØʲəsˠ
@@ -572,6 +571,7 @@ pian-454,pían,lex-pian-454,,< Latin: poena < Greek: ποινή,sync_none;alt_no
 popul-457,popul,lex-popul-457,,< Latin: populus,sync;alt_none;gen_masc;stem_o;num_all,ˈpʷabʷəlʷ
 preicept-458,preicept,lex-preicept-458,,< Lat. praeceptum; vn. of pridchid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈpʲrʲagʲəpˠtˠ
 preiciupt-458-1,preiciupt,lex-preicept-458,,< Lat. praeceptum; vn. of pridchid,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈpʲrʲagʲəpʷtʷ
+preiceupt-458-2,preiceupt,lex-preicept-458,,< Lat. praeceptum; vn. of pridchid,sync_none;alt_none;gen_fem;stem_ā;num_all,
 preiceptoir-459,preiceptóir,lex-preiceptoir-459,,agent suffix -(e)óir: < Latin praeceptor but with a shift of suffix.,sync_none;alt_none;gen_masc;stem_i;num_all,ˈpʲrʲagʲapˠtˠaØʷrʲ
 primit-460,prímit,lex-primit-460,,,sync_none;alt_none;gen_fem;stem_i;num_all,ˈpʲrʲəØʲμʲədʲ
 praind-461,praind,lex-praind-461,79,< Lat. prandium,sync_none;alt_none;gen_fem;stem_ā;num_all,ˈpˠrˠaɴʲdʲ
